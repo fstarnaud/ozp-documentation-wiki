@@ -16,7 +16,7 @@
 
 ### OZONE Center (Apps Mall)
 
-### Production Deployment Repos:
+### Production Deployment Repos
 OZONE Platform - https://github.com/ozoneplatform
 OZONE Center - https://github.com/applicationsmall
 
