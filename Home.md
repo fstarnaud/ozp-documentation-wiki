@@ -7,9 +7,9 @@
 
 ### Links to Information:
 
-**Product Iteration Wiki**
-* https://github.com/ozone-development/ozp-documentation/wiki/Iteration-1
-
+* Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iteration-1
+* HuBoard - https://huboard.com/
+* TravisCI - https://travis-ci.org/
 
 **Development Guidelines:**
 
