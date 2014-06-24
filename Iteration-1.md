@@ -5,25 +5,33 @@
 ### Next Milestone:
 31 Sept 2014 - Demonstrable product with sample data
 
+MVI's
+* Prototype Foundation IWC & Controller
+* Prototype of stand alone Center
+* More then one sample webtops
+* OWF 7 Adapter
+
 ***
 
 ### Iteration Goals:
 **IWC -**
-* tbd
+* 4 API's
+* Begin Building Dev Tools 
 
 **Controller -**
 * Post ICD
-* Evaluate reuse of 7.webtop
+* Move updated 7.webtop Evaluate reuse
 
 **Center -**
-* TBD
+* Define endpoints for Controller
 
 **Webtop -**
-* TBD
+* Identify and investigate webtops
+* Develop and demo one sample webtop
 
 
 ***
 
-Roadblocks:
+**Roadblocks:**
 
 ***
