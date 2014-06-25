@@ -3,7 +3,7 @@
 ***
 
 ### Next Milestone:
-31 Sept 2014 - Demonstrable product with sample data
+30 Sept 2014 - Demonstrable product with sample data
 
 MVI's
 * Prototype Foundation IWC & Controller
