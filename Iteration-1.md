@@ -19,7 +19,7 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Begin Building Dev Tools 
 
 **Controller -**
-* Post ICD
+* Post ICD to wiki
 * Move updated 7.webtop Evaluate reuse
 
 **Center -**
