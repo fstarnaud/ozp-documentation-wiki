@@ -5,7 +5,7 @@
 ### Next Milestone:
 30 Sept 2014 - Demonstrable product with sample data
 
-MVI's
+MVI's (Minimum Value Increment) This is minimal delivered set of features with value[, which is related to the concept of minimal business increment.](http://www.netobjectives.com/minimal-business-increment).
 * Prototype Foundation IWC & Controller
 * Prototype of stand alone Center
 * More then one sample webtops
