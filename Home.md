@@ -19,7 +19,10 @@
 4. [508 Disability Compliance Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/508-compliance.md)
 5. [Deployment Strategies](https://github.com/ozone-development/ozp-documentation/blob/master/deployment-strategies.md)
 
-
+### Free Stuff We Should Be Using
+* [TravisCI](https://travis-ci.org/) - Automated build server
+* [HuBoard](https://huboard.com/) - Kanban Sytle GitHub Issues
+* [apiary](http://apiary.io/) - API Design and documentation 
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
