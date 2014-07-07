@@ -1,5 +1,4 @@
 ## Prototype
-
 6/25-9/30 - Research/Prototype Phase
 
 ~9/30 - Prototype Demonstration
@@ -27,6 +26,7 @@ The demo will happen o/a 30 September, but this is NOT a hard date.  Expect some
 
 ### Basic Outline
 The workflow of the demo should show a start-to-finish concept, as well as a basic 'day in the life' of a user & a developer.  This is a rough outline only and WILL change, but something will be hammered out later this month.  At a minimum, I hope it gives you the right frame of mind.
+
 1. Open OZONE Platform
 2. Navigate the HUD
 3. Open Marketplace
