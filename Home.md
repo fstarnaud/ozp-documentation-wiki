@@ -1,4 +1,5 @@
-OZONE: The continuous effort to unite the entire community on a single computing platform.
+### OZONE: 
+The continuous effort to unite the entire community on a single computing platform.
 
 ### Goals For Next Generation:
 * Software as a Service
