@@ -1,6 +1,7 @@
 ## Prototype
 
 6/25-9/30 - Research/Prototype Phase
+
 ~9/30 - Prototype Demonstration
 
 ### Overview
@@ -16,9 +17,9 @@ The prototype, at a minimum, must include the following:
 * Webtop - the renderer of applications.  Work is already underway on this.
 * IWC - Inter-Widget Communications - a network bus w/in the browser.  Work is already underway, and it will be crucial in the coming development cycles.
 * Basic back-end services.  Simple, nothing crazy, just enough to make everything else above work.  We've identified three controllers that are a must for the prototype:
-* * Dashboard Controller - for the webtop, based on GRIDSTER. 
-* * Marketplace Controller - according to what's in GitHub, this is mostly done, but we'll need to tie it into IWC and ensure it can work for the demo.
-* * Security Controller - at a minimum, describe the process in detail, possibly show something in the Marketplace and/or HUD to provide the audience an idea.
+** Dashboard Controller - for the webtop, based on GRIDSTER. 
+** Marketplace Controller - according to what's in GitHub, this is mostly done, but we'll need to tie it into IWC and ensure it can work for the demo.
+** Security Controller - at a minimum, describe the process in detail, possibly show something in the Marketplace and/or HUD to provide the audience an idea.
 (Please let us know if anything more would be needed for demonstration purposes only)
 
 ### The Timeframe
