@@ -1,7 +1,5 @@
-## Prototype
 6/25-9/30 - Research/Prototype Phase
-
-~9/30 - Prototype Demonstration
+     ~9/30 - Prototype Demonstration
 
 ### Overview
 The first milestone for OZP is producing a working prototype to demonstrate to the community.  With any effort of this size, a prototype is not only a good idea, it's a necessity - it's how we stir up excitement, discussion, and criticism for what we do.  The hope is that this email will give you all plenty to think about and a target to work towards.
