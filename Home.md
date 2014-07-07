@@ -1,3 +1,6 @@
+## OZONE
+The continuous effort to unite the entire community on a single computing platform.
+
 ### Goals For Next Generation:
 * Software as a Service
 * Modified Front End HTML5 CSS3
