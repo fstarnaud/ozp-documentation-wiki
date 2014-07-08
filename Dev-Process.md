@@ -30,6 +30,7 @@ Two Week Iterations start and end on Wednesday
 * * * Do you have any roadblocks or need assistance from another team member?
 * Demonstrations - After ever iteration product teams should demonstrate completed features
 
-### Daily Leads Telecon - 8:15 
-Someone from each product team should call into this meeting daily
+### Communication
+* Daily Leads Telecon - 8:15 - Someone from each product team should call into this meeting daily
+* Use Slack to talk daily
 
