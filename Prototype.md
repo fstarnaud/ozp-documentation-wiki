@@ -33,7 +33,7 @@ The workflow of the demo should show a start-to-finish concept, as well as a bas
 5. Favorite an app
 6. Launch an app from the MP
 7. Launch an app from the HUD
-8. Show IWC in action
+8. Show IWC in action with sample applications
 
 More to follow.  Remember, this is a rough outline of just the workflow.  A script is in the works.  If you have any suggestions to add, please send them our way.
 
