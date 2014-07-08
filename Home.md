@@ -11,9 +11,7 @@ The continuous effort to unite the entire community on a single computing platfo
 ### Links to Information:
 
 * Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iteration-1
-* HuBoard - https://huboard.com/
-* TravisCI - https://travis-ci.org/
-* Slack - https://slack.com/
+
 
 **Development Guidelines:**
 
@@ -27,6 +25,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * [TravisCI](https://travis-ci.org/) - Automated build server
 * [HuBoard](https://huboard.com/) - Kanban Sytle GitHub Issues
 * [apiary](http://apiary.io/) - API Design and documentation 
+* [Slack](https://slack.com/) - Web IM client
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
