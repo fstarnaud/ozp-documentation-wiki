@@ -34,3 +34,15 @@ Two Week Iterations start and end on Wednesday
 * Daily Leads Telecon - 8:15 - Someone from each product team should call into this meeting daily
 * Use Slack to talk daily
 
+### Coding Workflow
+The basic workflow for each OZP team is done in a Kanban-like manner. Tasks are marked with the "Ready" tag when they are at the top of the priority list and can be worked. Developers should:
+
+1. Grab a story that looks good
+1. Ask questions about anything that doesn't make sense
+1. Make a branch for the story and link to it on the story.
+1. Coding, test, code, ask questions, code, and test.
+1. Merge master into the branch.
+1. Create a pull request for your branch. 
+1. Everyone should take a look at the request and make comments
+1. Approver reviews and signs off on the code.
+1. Developer merges the code into master.
