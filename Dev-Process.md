@@ -25,9 +25,9 @@ Two Week Iterations start and end on Wednesday
 ### Re-occurring Meetings
 * Iteration Planning - Commit to and sign up for work. The Backlog needs to be prioritized and stories need to be broken down prior to meeting.
 * Daily tagup - These can be virtual as some product teams are at different locations
-* * * What did you accomplish yesterday? 
-* * * What are your goals for today? 
-* * * Do you have any roadblocks or need assistance from another team member?
+    * What did you accomplish yesterday? 
+    * What are your goals for today? 
+    * Do you have any roadblocks or need assistance from another team member?
 * Demonstrations - After ever iteration product teams should demonstrate completed features
 
 ### Communication
