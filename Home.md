@@ -13,6 +13,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iteration-1
 * HuBoard - https://huboard.com/
 * TravisCI - https://travis-ci.org/
+* Slack - https://slack.com/
 
 **Development Guidelines:**
 
