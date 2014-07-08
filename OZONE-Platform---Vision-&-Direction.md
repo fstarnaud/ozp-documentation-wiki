@@ -7,7 +7,6 @@ OZONE is the continuous effort to integrate the entire community on a single com
 
 The basic principles we're applying to the OZP SaaS are:
 * Scale to accommodate 250,000+ users.
-* Operate on JWICS (primary destination) but also be used on any network (open source).
 * Incorporate user input & user focus from Day One.
 * Be relatively easy to deploy.
 * Minimal to no loss of performance with increasing volume of users and traffic.
