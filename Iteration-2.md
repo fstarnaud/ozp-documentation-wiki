@@ -1,4 +1,4 @@
-## Iteration 1 (25 June 2014 - 9 July 2014)
+## Iteration 2 (9 July 2014 - 23 July 2014)
 
 ***
 
