@@ -15,18 +15,18 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 
 ### Iteration Goals:
 **IWC -**
-* 4 API's
+* ~~4 API's~~
 * Begin Building Dev Tools 
 
 **Controller -**
-* Post ICD to wiki
-* Move updated 7.webtop Evaluate reuse
+* ~~Post ICD to wiki~~
+* Move updated 7.webtop Evaluate reuse - On hold
 
 **Center -**
 * Define endpoints for Controller
 
 **Webtop -**
-* Identify and investigate webtops
+* ~~Identify and investigate webtops~~
 * Develop and demo one sample webtop
 
 
