@@ -21,10 +21,10 @@ With the ideas above, let us incorporate these concepts to formulate our efforts
 * Analysis: assess all components that have been built & mocked up as of now - this effort is already largely underway, and is meant to make sure we can use as much as possible.
 * Design: finalize a design document of the system that is signed off by the government - this will include high-level & detailed designs of what OZP will look like & do.
 * Documentation: document EVERYTHING - this is something I will always stress on this program.  Since we are operating almost exclusively in the open and expectations are high, the transparency microscope is literally being thrust upon us.  Let us view this as a blessing, vice a curse, and ensure our documentation is thorough and detailed.  At a minimum, the following must be properly documented:
-* * Source Code
-* * Workflows
-* * Design (see above)
-* * REST APIs - while there will be some changes throughout, these docs should be pretty much complete before we start committing code to the back end.  It has been recommended that we use APIary as the repository for these docs, and I concur.  This process will allow coding to move forward with little interruption, and also allow testing procedures to be drafted.
+** Source Code
+** Workflows
+** Design (see above)
+** REST APIs - while there will be some changes throughout, these docs should be pretty much complete before we start committing code to the back end.  It has been recommended that we use APIary as the repository for these docs, and I concur.  This process will allow coding to move forward with little interruption, and also allow testing procedures to be drafted.
 * Testing: stand up, or at least have mostly stood up, all test environments on both high & low.
 * Outreach: re-energize our community outreach and focus on getting users involved again.  Their input is essential to OZP's future.
 * Prototype: produce a working prototype to demonstrate our intentions & capabilities to the community (o/a 30 September).
