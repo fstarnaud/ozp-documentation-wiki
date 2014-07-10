@@ -25,7 +25,9 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Define endpoints for Controller
 
 **Webtop -**
-* 
+* Mock ups of end state 
+* IWC integration (send/receive data via IWC)
+* Decide on course of action for the Ozone menu
 
 ***
 
