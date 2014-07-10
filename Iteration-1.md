@@ -23,6 +23,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Move updated 7.webtop Evaluate reuse - On hold
 
 **Center -**
+* ~~Ramp up new devs~~
+* ~~Get Dev environment setup and Center running on local machine~~
 * Define endpoints for Controller
 
 **Webtop -**
