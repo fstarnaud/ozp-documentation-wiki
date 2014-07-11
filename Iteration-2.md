@@ -20,6 +20,7 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 
 **Controller -**
 * Move updated 7.webtop Evaluate reuse
+* Develop preliminary IWC controller based on HAL specification for review
 
 **Center -**
 * Define endpoints for Controller
