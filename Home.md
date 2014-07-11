@@ -40,7 +40,7 @@ Legacy Code
 
 Production Deployment Repos
 * OZONE Platform - https://github.com/ozoneplatform
-* OZONE Center - https://github.com/applicationsmall
+* OZONE Center - https://github.com/ozonecenter
 
 ### OZONE Forums ###
 * https://owfgoss.org/support.html
