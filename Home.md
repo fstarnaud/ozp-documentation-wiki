@@ -18,8 +18,9 @@ The continuous effort to unite the entire community on a single computing platfo
 1. [Developer Guidelines and Standards](https://github.com/ozone-development/ozp-documentation/blob/master/developer-guidance.md)
 2. [Testing Standards](https://github.com/ozone-development/ozp-documentation/blob/master/testing-standards.md)
 3. [Browser Support Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/browser-support.md)
-4. [508 Disability Compliance Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/508-compliance.md)
-5. [Deployment Strategies](https://github.com/ozone-development/ozp-documentation/blob/master/deployment-strategies.md)
+4. [User Experience / User Interface Guidelines](https://www.owfgoss.org/confluence/x/sYJrAQ)
+5. [508 Disability Compliance Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/508-compliance.md)
+6. [Deployment Strategies](https://github.com/ozone-development/ozp-documentation/blob/master/deployment-strategies.md)
 
 ### Free Stuff We Should Be Using
 * [TravisCI](https://travis-ci.org/) - Automated build server
