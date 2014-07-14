@@ -31,6 +31,7 @@ The continuous effort to unite the entire community on a single computing platfo
 
 ### Other Free Stuff We Can Use
 * [API Blueprint](http://apiblueprint.org/) - API markdown
+* [Atom](https://atom.io/) - text editor
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
