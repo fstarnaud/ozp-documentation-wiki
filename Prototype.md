@@ -1,12 +1,3 @@
-25JUN-30SEP - Research/Prototype Phase 
-
-30SEP (tentative) - Prototype Demonstration 
-
-1OCT-4MAR - Development Phase 
-
-5MAR - Initial Operating Capacity (IOC) 
-
-
 ### Overview
 The first milestone for OZP is producing a working prototype to demonstrate to the community.  With any effort of this size, a prototype is not only a good idea, it's a necessity - it's how we stir up excitement, discussion, and criticism for what we do.  The hope is that this email will give you all plenty to think about and a target to work towards.
 
@@ -25,8 +16,12 @@ The prototype, at a minimum, must include the following:
 ** Security Controller - at a minimum, describe the process in detail, possibly show something in the Marketplace and/or HUD to provide the audience an idea.
 (Please let us know if anything more would be needed for demonstration purposes only)
 
-### The Timeframe
-The demo will happen o/a 30 September, but this is NOT a hard date.  Expect some movement left or right.  The software need to be demo-ready by 15 September to ensure we have enough time to iron out any bugs.
+### Timeline
+* 25JUN-30SEP - Research/Prototype Phase 
+* 15SEP - Prototype demo-ready - in order to iron out any bugs & rehearse.
+* 30SEP (tentative) - Prototype Demonstration - NOT a hard date.  Expect some movement left or right. 
+* 1OCT-4MAR - Development Phase 
+* 5MAR - Initial Operating Capacity (IOC) 
 
 ### Basic Outline
 The workflow of the demo should show a start-to-finish concept, as well as a basic 'day in the life' of a user & a developer.  This is a rough outline only and WILL change, but something will be hammered out later this month.  At a minimum, I hope it gives you the right frame of mind.
