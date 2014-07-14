@@ -34,6 +34,12 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 
 ***
 
-**Roadblocks:**
+### Accomplishments:
+* Good discussion on 8 July between the Webtop & Center teams.  Several features were identified between the webtop and the HUD that show a more consistent user workflow between the them, thus increasing the need for the two tools to work closely together. 
+* A possible place for metrics was identified.  Both webtop & HUD could both gather metrics, depending on the application, and coordinate with a central metrics API & UI.  With the HUD, it's possible to incorporate the metrics UI into the layout, and let that serve as the metrics access point.  More discussions are needed throughout the next few weeks to iron out details.
+
+***
+
+### Roadblocks:
 
 ***
