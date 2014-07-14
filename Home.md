@@ -25,7 +25,7 @@ The continuous effort to unite the entire community on a single computing platfo
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
 * [apiary](http://apiary.io/) - API Design and documentation
-  * Comes with the markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
+  * Comes with a markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
 * [HuBoard](https://huboard.com/) - Kanban-style planning in GitHub Issues
 * [TravisCI](https://travis-ci.org/) - Automated build server
 
