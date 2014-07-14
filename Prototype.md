@@ -1,7 +1,7 @@
-25JUN-30SEP - Research/Prototype Phase
-30SEP (tentative) - Prototype Demonstration
-1OCT-4MAR - Development Phase
-5MAR - Initial Operating Capacity (IOC)
+25JUN-30SEP - Research/Prototype Phase 
+30SEP (tentative) - Prototype Demonstration 
+1OCT-4MAR - Development Phase 
+5MAR - Initial Operating Capacity (IOC) 
 
 
 ### Overview
