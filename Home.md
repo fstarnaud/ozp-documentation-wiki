@@ -22,11 +22,15 @@ The continuous effort to unite the entire community on a single computing platfo
 5. [508 Disability Compliance Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/508-compliance.md)
 6. [Deployment Strategies](https://github.com/ozone-development/ozp-documentation/blob/master/deployment-strategies.md)
 
-### Free Stuff We Should Be Using
-* [TravisCI](https://travis-ci.org/) - Automated build server
-* [HuBoard](https://huboard.com/) - Kanban Sytle GitHub Issues
-* [apiary](http://apiary.io/) - API Design and documentation 
+### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
+* [apiary](http://apiary.io/) - API Design and documentation
+** Comes with the markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
+* [HuBoard](https://huboard.com/) - Kanban-style planning in GitHub Issues
+* [TravisCI](https://travis-ci.org/) - Automated build server
+
+### Other Free Stuff We Can Use
+* [API Blueprint](http://apiblueprint.org/) - API markdown
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
