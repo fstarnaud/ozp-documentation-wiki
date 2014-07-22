@@ -21,6 +21,7 @@ Definition of Done: A feature/issue is complete when it is successfully unit tes
 Two Week Iterations start and end on Wednesday
 * Iteration 1 (25 June - 9 July)
 * Iteration 2 (9 July - 23 July)
+* Iteration 3 (23 July - 06 Aug)
 
 ### Re-occurring Meetings
 * Iteration Planning - Commit to and sign up for work. The Backlog needs to be prioritized and stories need to be broken down prior to meeting.
