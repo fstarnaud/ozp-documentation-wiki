@@ -24,14 +24,14 @@ The continuous effort to unite the entire community on a single computing platfo
 
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
-* [apiary](http://apiary.io/) - API Design and documentation
-  * Comes with a markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
 * [HuBoard](https://huboard.com/) - Kanban-style planning in GitHub Issues
 * [TravisCI](https://travis-ci.org/) - Automated build server
 
 ### Other Free Stuff We Can Use
 * [API Blueprint](http://apiblueprint.org/) - API markdown
 * [Atom](https://atom.io/) - text editor
+* [apiary](http://apiary.io/) - API Design and documentation
+  * Comes with a markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
