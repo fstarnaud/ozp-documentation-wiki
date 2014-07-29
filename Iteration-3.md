@@ -26,9 +26,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * 
 
 **Webtop -**
-* 
-* 
-* 
+* Ngbp refactor
+* IWC integration (ongoing goal)
 
 ***
 
