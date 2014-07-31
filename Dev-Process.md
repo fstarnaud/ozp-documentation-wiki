@@ -23,6 +23,8 @@ Two Week Iterations start and end on Wednesday
 * Iteration 2 (9 July - 23 July)
 * Iteration 3 (23 July - 06 Aug)
 
+Each team should be posting two to three high level goals for each iteration.
+
 ### Re-occurring Meetings
 * Iteration Planning - Commit to and sign up for work. The Backlog needs to be prioritized and stories need to be broken down prior to meeting.
 * Daily tagup - These can be virtual as some product teams are at different locations
