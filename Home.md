@@ -33,6 +33,8 @@ The continuous effort to unite the entire community on a single computing platfo
 * [apiary](http://apiary.io/) - API Design and documentation
   * Comes with a markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
 * [Dillinger](http://dillinger.io/) - Markdown renderer and editor with Github integration.
+* [JSON Editor](http://www.jsoneditoronline.org/) - JSON editor with formatting and editing options.
+* [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - REST client, useful for testing REST APIs.
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
