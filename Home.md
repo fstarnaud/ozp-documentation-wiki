@@ -32,6 +32,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * [Atom](https://atom.io/) - text editor
 * [apiary](http://apiary.io/) - API Design and documentation
   * Comes with a markdown renderer, mocked service, traffic analyzer, and GitHub integration, hosted on a subdomain per API.
+* [Dillinger](http://dillinger.io/) - Markdown renderer and editor with Github integration.
 
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
