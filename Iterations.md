@@ -1,10 +1,10 @@
-Iteration 1 - 25 June 2014 - 9 July 2014
-Iteration 2 - 9 July 2014 - 23 July 2014
-Iteration 3 - 23 July 2014 - 06 Aug 2014
-Iteration 4 - 06 Aug 2014 - 20 Aug 2014
-Iteration 5 - 20 Aug 2014 - 03 Sept 2014
-Iteration 6 - 03 Sept 2014 - 17 Sept 2014
-Iteration 7 - 17 Sept 2014 - 1 Oct 2014
-Iteration 8 - 1 Oct 2014 - 15 Oct 2014
-Iteration 9 - 15 Oct 2014 - 29 Oct 2014
-Iteration 10 - 29 Oct 2014 - 12 Nov 2014
+* Iteration 1 - 25 June 2014 - 9 July 2014
+* Iteration 2 - 9 July 2014 - 23 July 2014
+* Iteration 3 - 23 July 2014 - 06 Aug 2014
+* Iteration 4 - 06 Aug 2014 - 20 Aug 2014
+* Iteration 5 - 20 Aug 2014 - 03 Sept 2014
+* Iteration 6 - 03 Sept 2014 - 17 Sept 2014
+* Iteration 7 - 17 Sept 2014 - 1 Oct 2014
+* Iteration 8 - 1 Oct 2014 - 15 Oct 2014
+* Iteration 9 - 15 Oct 2014 - 29 Oct 2014
+* Iteration 10 - 29 Oct 2014 - 12 Nov 2014
