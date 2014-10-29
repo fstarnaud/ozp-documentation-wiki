@@ -29,13 +29,13 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * 
 
 **Metrics -**
-*
-*
-
+* 
+* 
 
 **UI/UX -**
-*
-*
+* 
+* 
+
 
 ***
 
