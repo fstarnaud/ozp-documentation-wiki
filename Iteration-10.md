@@ -17,16 +17,22 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 **Center -**
 * 
 
+**Backend -**
+* 
+* 
+
+**Webtop -**
+* 
 
 **IWC -**
 * 
 * 
 
+**Metrics -**
+*
 
-
-
-**Webtop -**
-* 
+**UI/UX -**
+*
 
 ***
 
