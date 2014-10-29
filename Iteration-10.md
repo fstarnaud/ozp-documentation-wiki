@@ -5,7 +5,7 @@
 ### Next Milestone:
 15 Jan 2015 - Deploy IOB features to production servers
 
-MVI's (Minimum Value Increment) This is minimal delivered set of features with value[, which is related to the concept of minimal business increment.](http://www.netobjectives.com/minimal-business-increment).
+MVI's (Minimum Value Increment) This is minimal delivered set of features with value
 * Deployment package for OZP
 * IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics
 * Application data migration script from 7.16 store
@@ -16,7 +16,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 
 ### Iteration Goals:
 **Center/HUD -**
-*
+* 
+* 
 
 **Backend -**
 * 
