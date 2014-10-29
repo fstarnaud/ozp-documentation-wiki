@@ -8,6 +8,7 @@
 MVI's (Minimum Value Increment) This is minimal delivered set of features with value
 * Deployment package for OZP
 * IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics
+* PKI Login
 * Application data migration script from 7.16 store
 * Working Backend
 * OWF 7 Adapter
