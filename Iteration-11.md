@@ -26,8 +26,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Address multiple webtop instances issue ([#328](https://huboard.com/ozone-development/ozp-webtop#/issues/48416747))
 * Bug fixes and enhancements to Desktop layout
 * Enable OZP Bootstrap fork
-* App toolbar enhancements (e.g. #311)
-* Handle Launch Application intent (#187)
+* App toolbar enhancements (e.g. [#311](https://huboard.com/ozone-development/ozp-webtop#/issues/47839393))
+* Handle Launch Application intent ([#187](https://huboard.com/ozone-development/ozp-webtop#/issues/43237130))
 * Work with Rob on the test plan
 * Standard testing and bug fixes
 
