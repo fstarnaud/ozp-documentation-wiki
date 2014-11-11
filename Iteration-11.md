@@ -23,7 +23,13 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * 
 
 **Webtop -**
-* 
+* Address multiple webtop instances issue (#328)
+* Bug fixes and enhancements to Desktop layout
+* Enable OZP Bootstrap fork
+* App toolbar enhancements (e.g. #311)
+* Handle Launch Application intent (#187)
+* Work with Rob on the test plan
+* Standard testing and bug fixes
 
 **IWC -**
 * 
