@@ -26,10 +26,10 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Error message improvement
 
 **Webtop -**
-* Bug fixes (see Huboard)
-* Create JSON test data to load MP backend with. Should include all 25 of Center's sample listings, the bouncing balls application(s), and the stock trader examples
-* Use IWC and the system.api to get application data instead of current hard-coded local test data
-* Enhance UI, particularly the bottom toolbar (Application Toolbar), Add Applications modal dialog, and top toolbar (Common Toolbar) if designers have some html/css in place
+* ~~Bug fixes (see Huboard)~~
+* ~~Create JSON test data to load MP backend with. Should include all 25 of Center's sample listings, the bouncing balls application(s), and the stock trader examples~~
+* ~~Use IWC and the system.api to get application data instead of current hard-coded local test data~~
+* ~~Enhance UI, particularly the bottom toolbar (Application Toolbar), Add Applications modal dialog, and top toolbar (Common Toolbar) if designers have some html/css in place~~
 
 **IWC -**
 * Application launching
