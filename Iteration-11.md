@@ -17,10 +17,15 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* 
+* Implement Help Modal
+* Allow QuickView to open from other routes. (Refactor Modal routing)
+* Listings Management View for AppsMall Stewards.
+* Implement Reviews tab (QuickView)
+* How do we handle logout?
+* Unit Testing/Documentation.
 
 **Backend -**
-* 
+* Implement Org Steward approval workflow.
 
 **Webtop -**
 * Address multiple webtop instances issue ([#328](https://github.com/ozone-development/ozp-webtop/issues/328))
