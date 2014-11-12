@@ -40,8 +40,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Scope legacy widget adapter
 
 **Metrics -**
-* Deploy to a team accessible server
-* Continue to integrate events into center
+* ~~Deploy to a team accessible server~~
+* ~~Continue to integrate events into center~~
 * Test plan
 * Merge Piwik updates with Center-UI Master
 
