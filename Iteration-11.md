@@ -38,8 +38,8 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * 
 
 **UI/UX -**
-* 
-
+* Clean up OZP Bootstrap repo
+* Refactor OZP toolbar HTML to work with OZP Bootstrap repo
 
 ***
 
