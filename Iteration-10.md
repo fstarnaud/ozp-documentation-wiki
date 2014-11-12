@@ -32,10 +32,10 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * ~~Enhance UI, particularly the bottom toolbar (Application Toolbar), Add Applications modal dialog, and top toolbar (Common Toolbar) if designers have some html/css in place~~
 
 **IWC -**
-* Application launching
+* ~~Application launching~~
 * Technical Debt
-* Intent Broadcasting
-* Integration with backend and webtop
+* ~~Intent Broadcasting~~
+* ~~Integration with backend and webtop~~
 * version IWC 0.1.0
 * Scope legacy widget adapter
 
