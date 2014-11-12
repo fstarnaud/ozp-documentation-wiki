@@ -5,7 +5,7 @@
 ### Next Milestone:
 21 Jan 2015 - Deploy IOB features to production servers
 
-MVI's (Minimum Value Increment) This is minimal delivered set of features with value
+Minimal delivered set of features
 * Deployment package for OZP
 * IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics
 * PKI Login
