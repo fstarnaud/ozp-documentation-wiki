@@ -46,9 +46,9 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Merge Piwik updates with Center-UI Master
 
 **UI/UX -**
-* Engage community outreach team
-* setup weekly UI/UX meeting
-* Mockups for webtop toolbar
+* ~~Engage community outreach team~~
+* ~~setup weekly UI/UX meeting~~
+* ~~Mockups for webtop toolbar~~
 
 
 ***
@@ -57,5 +57,5 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * VM's for metrics
 * Mock Govport services
 * Integration of Common Toolbar across platform
-* Conversation on Bootstrap override 
+* ~~Conversation on Bootstrap override~~ 
 ***
