@@ -47,5 +47,5 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * VM's for metrics
 * Mock Govport services
 * Integration of Common Toolbar across platform
-* Conversation on Bootstrap override 
+
 ***
