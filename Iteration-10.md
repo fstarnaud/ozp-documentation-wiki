@@ -18,7 +18,7 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 ### Iteration Goals:
 **Center/HUD -**
 * ~~Finish Center Management page~~
-* ~~Bug - reordering bug~~
+* ~~Allow reordering inside of folders~~
 
 **Backend -**
 * ~~Draft Listing~~
