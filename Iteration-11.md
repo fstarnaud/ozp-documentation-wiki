@@ -40,7 +40,8 @@ Minimal delivered set of features
 * 
 
 **Metrics -**
-* 
+* Open up public endpoint to Piwik interface
+* Roll metrics changes into center-ui branches
 
 **UI/UX -**
 * Clean up OZP Bootstrap repo
