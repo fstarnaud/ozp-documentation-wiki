@@ -17,13 +17,13 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 
 ### Iteration Goals:
 **Center/HUD -**
-* Finish Center Management page
-* Bug - reordering bug
+* ~~Finish Center Management page~~
+* ~~Bug - reordering bug~~
 
 **Backend -**
-* Draft Listing
+* ~~Draft Listing~~
 * Roles for Steward
-* Error message improvement
+* ~~Error message improvement~~
 
 **Webtop -**
 * ~~Bug fixes (see Huboard)~~
