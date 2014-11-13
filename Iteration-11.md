@@ -22,7 +22,7 @@ Minimal delivered set of features
 * Listings Management View for AppsMall Stewards.
 * Implement Draft listings.
 * How do we handle logout?
-* Unit Testing/Documentation.
+* Setup Unit Testing/Documentation.
 
 **Backend -**
 * Implement Org Steward approval workflow
