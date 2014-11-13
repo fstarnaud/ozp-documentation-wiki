@@ -39,7 +39,15 @@ Minimal delivered set of features
 * Standard testing and bug fixes
 
 **IWC -**
-* 
+* Technical Debt
+* Review public interface
+  * Mock data
+  * Content types
+* Integration guide
+* Bug fixes
+* Add Grunt release
+* IWC v0.1.0
+* Scope legacy widget adapter
 
 **Metrics -**
 * Open up public endpoint to Piwik interface
