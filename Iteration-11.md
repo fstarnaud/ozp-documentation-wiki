@@ -48,6 +48,7 @@ Minimal delivered set of features
 * Add Grunt release
 * IWC v0.1.0
 * Scope legacy widget adapter
+* Talking points for why IWC is different the standard HTML5
 
 **Metrics -**
 * Open up public endpoint to Piwik interface
