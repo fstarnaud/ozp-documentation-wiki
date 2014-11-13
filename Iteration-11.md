@@ -20,7 +20,7 @@ Minimal delivered set of features
 * Implement Help Modal
 * Allow QuickView to open from other routes. (Refactor Modal routing)
 * Listings Management View for AppsMall Stewards.
-* Implement Reviews tab (QuickView)
+* Implement Draft listings.
 * How do we handle logout?
 * Unit Testing/Documentation.
 
