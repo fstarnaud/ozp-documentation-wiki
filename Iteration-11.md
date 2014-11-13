@@ -64,5 +64,7 @@ Minimal delivered set of features
 * VM's for metrics
 * Mock Govport services
 * Integration of Common Toolbar across platform
+* How to handle multiple tabs/windows in IWC-enabled applications (multiple webtop windows, logout functionality, etc)
+* IWC and Firefox issue
 
 ***
