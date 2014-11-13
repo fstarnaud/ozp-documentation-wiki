@@ -26,6 +26,7 @@ Minimal delivered set of features
 
 **Backend -**
 * Implement Org Steward approval workflow
+* Roles for Steward
 * Investigate the Security Solution for the Implementation
 
 **Webtop -**
