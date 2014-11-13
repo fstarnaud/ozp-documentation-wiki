@@ -46,6 +46,7 @@ MVI's (Minimum Value Increment) This is minimal delivered set of features with v
 * Merge Piwik updates with Center-UI Master
 
 **UI/UX -**
+* ~~Upgrade to Bootstrap 3.3.0~~
 * ~~Engage community outreach team~~
 * ~~setup weekly UI/UX meeting~~
 * ~~Mockups for webtop toolbar~~
