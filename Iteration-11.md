@@ -45,7 +45,7 @@ Minimal delivered set of features
   * Content types
 * Integration guide
 * Bug fixes
-* Add Grunt release
+* ~~Add Grunt release~~
 * IWC v0.1.0
 * Scope legacy widget adapter
 * Talking points for why IWC is different the standard HTML5
