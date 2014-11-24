@@ -55,8 +55,8 @@ Minimal delivered set of features
 * Roll metrics changes into center-ui branches
 
 **UI/UX -**
-* Clean up OZP Bootstrap repo
-* Refactor OZP toolbar HTML to work with OZP Bootstrap repo
+* ~~Clean up OZP Bootstrap repo~~
+* ~~Refactor OZP toolbar HTML to work with OZP Bootstrap repo~~
 
 ***
 
