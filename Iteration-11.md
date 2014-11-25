@@ -30,13 +30,13 @@ Minimal delivered set of features
 * Investigate the Security Solution for the Implementation
 
 **Webtop -**
-* Address multiple webtop instances issue ([#328](https://github.com/ozone-development/ozp-webtop/issues/328))
-* Bug fixes and enhancements to Desktop layout
+* ~~Address multiple webtop instances issue ([#328](https://github.com/ozone-development/ozp-webtop/issues/328))~~ (keeping ticket around, but will delay official support for multiple webtop instances until a later time)
+* Bug fixes and enhancements to Desktop layout (carrying over to next iteration)
 * ~~Enable OZP Bootstrap fork~~
 * ~~App toolbar enhancements (e.g. [#311](https://github.com/ozone-development/ozp-webtop/issues/311))~~
-* Handle Launch Application intent ([#187](https://github.com/ozone-development/ozp-webtop/issues/187))
-* Work with Rob on the test plan
-* Standard testing and bug fixes
+* Handle Launch Application intent ([#187](https://github.com/ozone-development/ozp-webtop/issues/187)) (this work was sidelined in favor of [#133](https://github.com/ozone-development/ozp-webtop/issues/133)
+* Work with Rob on the test plan (carrying over to next iteration)
+* ~~Standard testing and bug fixes~~
 
 **IWC -**
 * Technical Debt
