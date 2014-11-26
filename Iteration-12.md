@@ -21,7 +21,7 @@ Minimal delivered set of features
 * Allow Org Stewards to Edit Listings in their Stewarded Organization
 * Allow Org Stewards the ability to Approve and Reject listings
 * AppsMall Stewards need the ability to set a Listing as Featured
-* Reviews tab for Listing Details View
+* Reviews tab for Listing Details View (Stretch Goal)
 
 **Backend -**
 * Security Plugin implementation for production
