@@ -39,13 +39,13 @@ Minimal delivered set of features
 * ~~Standard testing and bug fixes~~
 
 **IWC -**
-* Technical Debt
-* Review public interface
-  * Mock data
-  * Content types
-* Integration guide
-* Bug fixes
-* ~~Add Grunt release~~
+* ~~Technical Debt ([integration](https://github.com/ozone-development/ozp-iwc/wiki/IWC-Backend-Integration) [application](https://github.com/ozone-development/ozp-iwc/wiki/IWC-App-Integration) [#146](https://github.com/ozone-development/ozp-iwc/pull/146) [#151](https://github.com/ozone-development/ozp-iwc/pull/151) [#156](https://github.com/ozone-development/ozp-iwc/pull/156))~~(ongoing)
+* ~~Review public interface~~
+  * ~~Mock data([built simple CRUD data.api backend for testing/example](https://github.com/ozone-development/ozp-iwc-integrationDemo))~~
+  * ~~Content types ([#150](https://github.com/ozone-development/ozp-iwc/pull/150))~~
+* ~~Integration guide~~ ([v1](https://github.com/ozone-development/ozp-iwc/wiki/IWC-Backend-Integration))
+* ~~Bug fixes ([#153](https://github.com/ozone-development/ozp-iwc/issues/153))~~ (ongoing)
+* ~~Add Grunt release ([#147](https://github.com/ozone-development/ozp-iwc/issues/147))~~
 * IWC v0.1.0
 * Scope legacy widget adapter
 * Talking points for why IWC is different the standard HTML5
