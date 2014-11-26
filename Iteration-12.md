@@ -66,7 +66,7 @@ Minimal delivered set of features
 ***
 
 **Roadblocks:**
-* Mock Govport services
+* IWC and Firefox issue
 * Integration of Common Toolbar across platform
 
 ***
