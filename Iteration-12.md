@@ -29,7 +29,21 @@ Minimal delivered set of features
 * Time permitting, work [#187](https://github.com/ozone-development/ozp-webtop/issues/187) (handle IWC Intents to launch applications into Webtop)
 
 **IWC -**
-* 
+* Bug fixes
+    * [Firefox api loading throws restricted URI](https://github.com/ozone-development/ozp-iwc/issues/144)
+    * [Create/Delete localstorage key on Firefox 17 (potentially other browsers) doesn't generate an event](https://github.com/ozone-development/ozp-iwc/issues/123)
+    
+* Technical Debt
+    * [Restructure IWC state unloading](https://github.com/ozone-development/ozp-iwc/issues/155)
+    * [Data.api child persistence](https://github.com/ozone-development/ozp-iwc/issues/158)
+    * [Move client IWC to use promises for connection](https://github.com/ozone-development/ozp-iwc/issues/157)
+    * Endpoint loading algorithm evaluation/update
+* Guides
+    * Integration Guide v2
+    * Application Guide v1
+* IWC v0.1.0
+* Scope legacy widget adapter
+* Talking points for why IWC is different the standard HTML5
 
 **Metrics -**
 * 
