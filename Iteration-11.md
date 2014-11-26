@@ -25,9 +25,9 @@ Minimal delivered set of features
 * ~~Setup Unit Testing/Documentation.~~
 
 **Backend -**
-* Implement Org Steward approval workflow
-* Roles for Steward
-* Investigate the Security Solution for the Implementation
+* ~~Implement Org Steward approval workflow~~
+* ~~Roles for Steward~~
+* ~~Investigate the Security Solution for the Implementation~~ (Investigation complete - actual development in progress)
 
 **Webtop -**
 * ~~Address multiple webtop instances issue ([#328](https://github.com/ozone-development/ozp-webtop/issues/328))~~ (keeping ticket around, but will delay official support for multiple webtop instances until a later time)
