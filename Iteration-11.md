@@ -17,12 +17,12 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Implement Help Modal
-* Allow QuickView to open from other routes. (Refactor Modal routing)
-* Listings Management View for AppsMall Stewards.
-* Implement Draft listings.
-* How do we handle logout?
-* Setup Unit Testing/Documentation.
+* ~Implement Help Modal~
+* ~Allow QuickView to open from other routes. (Refactor Modal routing)~
+* Listings Management View for AppsMall Admins.
+* ~Implement Draft listings.~
+* ~How do we handle logout?~
+* ~Setup Unit Testing/Documentation.~
 
 **Backend -**
 * Implement Org Steward approval workflow
