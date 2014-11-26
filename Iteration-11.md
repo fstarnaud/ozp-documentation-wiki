@@ -51,7 +51,7 @@ Minimal delivered set of features
 * Talking points for why IWC is different the standard HTML5
 
 **Metrics -**
-* Open up public endpoint to Piwik interface
+* ~~Open up public endpoint to Piwik interface~~
 * Roll metrics changes into center-ui branches
 
 **UI/UX -**
