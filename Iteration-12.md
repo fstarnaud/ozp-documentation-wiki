@@ -17,7 +17,11 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* 
+* Finish Listing Management AppsMall admin page
+* Allow Org Stewards to Edit Listings in their Stewarded Organization
+* Allow Org Stewards the ability to Approve and Reject listings
+* AppsMall Stewards need the ability to set a Listing as Featured
+* Reviews tab for Listing Details View
 
 **Backend -**
 * Security Plugin implementation for production
