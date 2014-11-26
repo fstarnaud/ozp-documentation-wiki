@@ -20,7 +20,9 @@ Minimal delivered set of features
 * 
 
 **Backend -**
-* 
+* Security Plugin implementation for production
+* Image storage for screenshots, etc
+* Access controls on Featured flag
 
 **Webtop -**
 * Cleanup and integrate [#133](https://github.com/ozone-development/ozp-webtop/issues/133), which prevents the DOM from being torn down when switching layout views or dashboards (for dashboards marked as 'sticky')
