@@ -52,7 +52,9 @@ Minimal delivered set of features
 * Talking points for why IWC is different the standard HTML5
 
 **Metrics -**
-* 
+* Stay in sync with center-ui 
+* Tag up with UI/UX to investigate modifications to PIWIK UI
+* Tag up Rob W for testing environment 
 
 **UI/UX -**
 * Waiting on research 
@@ -64,7 +66,6 @@ Minimal delivered set of features
 ***
 
 **Roadblocks:**
-* VM's for metrics
 * Mock Govport services
 * Integration of Common Toolbar across platform
 
