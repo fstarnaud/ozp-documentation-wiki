@@ -46,6 +46,9 @@ Minimal delivered set of features
 * ~~Integration guide~~ ([v1](https://github.com/ozone-development/ozp-iwc/wiki/IWC-Backend-Integration))
 * ~~Bug fixes ([#153](https://github.com/ozone-development/ozp-iwc/issues/153))~~ (ongoing)
 * ~~Add Grunt release ([#147](https://github.com/ozone-development/ozp-iwc/issues/147))~~
+* Guides
+    * Integration Guide v2
+    * Application Guide v1
 * IWC v0.1.0
 * Scope legacy widget adapter
 * Talking points for why IWC is different the standard HTML5
