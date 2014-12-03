@@ -36,12 +36,12 @@ Minimal delivered set of features
 
 **IWC -**
 * Bug fixes
-    * [Firefox api loading throws restricted URI](https://github.com/ozone-development/ozp-iwc/issues/144)
+    * ~~[Firefox api loading throws restricted URI](https://github.com/ozone-development/ozp-iwc/issues/144)~~
     * [Create/Delete localstorage key on Firefox 17 (potentially other browsers) doesn't generate an event](https://github.com/ozone-development/ozp-iwc/issues/123)
     
 * Technical Debt
-    * [Restructure IWC state unloading](https://github.com/ozone-development/ozp-iwc/issues/155)
-    * [Data.api child persistence](https://github.com/ozone-development/ozp-iwc/issues/158)
+    * ~~[Restructure IWC state unloading](https://github.com/ozone-development/ozp-iwc/issues/155)~~
+    * ~~[Data.api child persistence](https://github.com/ozone-development/ozp-iwc/issues/158)~~
     * [Move client IWC to use promises for connection](https://github.com/ozone-development/ozp-iwc/issues/157)
     * Endpoint loading algorithm evaluation/update
 * Guides
