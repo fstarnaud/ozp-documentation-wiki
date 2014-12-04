@@ -1,6 +1,6 @@
-What we deploying
+What we are deploying
 
 
-How we packaging and deploying
+How we are packaging and deploying
 
 
