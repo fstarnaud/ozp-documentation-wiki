@@ -38,7 +38,11 @@ Minimal delivered set of features
 * 
 
 **UI/UX -**
-* 
+* Develop a Piwik Theme for AML Metrics
+* Continue refining Bootstrap as it is integrated
+* Waiting on research 
+* Waiting on global toolbar integration 
+* Waiting on webtop toolbar integration 
 
 ***
 
