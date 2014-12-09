@@ -60,8 +60,8 @@ Minimal delivered set of features
 * Waiting on research 
 * Waiting on global toolbar integration 
 * Waiting on webtop toolbar integration 
-* Continue refining Bootstrap as it is integrated
-* Set up to support Metrics through research and graphics
+* ~~Continue refining Bootstrap as it is integrated~~
+* ~~Set up to support Metrics through research and graphics~~
 
 ***
 
