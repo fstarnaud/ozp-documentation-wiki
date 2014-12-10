@@ -26,7 +26,7 @@ Minimal delivered set of features
 * Add simple no-cache headers to fix IE problems
 * Document Listing JSON representations
 * Implementation Security Plugin
- * Get new code high-side
+ * Get new code to implementation network
  * Initial merge of implementation-specific code with new code
 
 **Webtop -**
