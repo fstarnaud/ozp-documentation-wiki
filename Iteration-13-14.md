@@ -53,7 +53,8 @@ Minimal delivered set of features
     * Application Guide v2
 
 **Metrics -**
-* 
+* Complete PKI login to metrics interface
+* Deploy metrics UI enhancements
 
 **UI/UX -**
 * Develop a Piwik Theme for AML Metrics
