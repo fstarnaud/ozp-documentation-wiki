@@ -33,12 +33,19 @@ Minimal delivered set of features
 
 **IWC -**
 * Bug fixes
-    * 
+    * [Create/Delete localstorage key on Firefox 17 (potentially other browsers) doesn't generate an event](https://github.com/ozone-development/ozp-iwc/issues/123) **Blocking v0.1**
     
-* Technical Debt
-    * 
+* Technical Debt **v0.2**
+    * Client library cleanup.
+    * REST Normalization/Refactor
+    * Legacy Widget Adapter
+    * IWC ABAC standards
+    * IWC in-browser ABAC implementation
+
+
 * Guides
-    * 
+    * Integration Guide v2
+    * Application Guide v2
 
 **Metrics -**
 * 
