@@ -43,11 +43,11 @@ Minimal delivered set of features
 * Technical Debt
     * ~~[Restructure IWC state unloading](https://github.com/ozone-development/ozp-iwc/issues/155)~~
     * ~~[Data.api child persistence](https://github.com/ozone-development/ozp-iwc/issues/158)~~
-    * [Move client IWC to use promises for connection](https://github.com/ozone-development/ozp-iwc/issues/157)
+    * ~~[Move client IWC to use promises for connection](https://github.com/ozone-development/ozp-iwc/issues/157)~~
     * Endpoint loading algorithm evaluation/update
 * Guides
     * Integration Guide v2
-    * Application Guide v1
+    * ~~Application Guide v1~~
 * IWC v0.1.0
 * Scope legacy widget adapter
 * Talking points for why IWC is different the standard HTML5
