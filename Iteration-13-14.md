@@ -22,6 +22,7 @@ Minimal delivered set of features
 **Backend -**
 * *Note: Ross' availability over next few sprints is uncertain*
 * Finish Image Server
+* Add simple no-cache headers to fix IE problems
 
 **Webtop -**
 * Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)
