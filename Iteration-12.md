@@ -53,9 +53,9 @@ Minimal delivered set of features
 * Talking points for why IWC is different the standard HTML5
 
 **Metrics -**
-* Stay in sync with center-ui 
-* Tag up with UI/UX to investigate modifications to PIWIK UI
-* Tag up Rob W for testing environment 
+* ~~Stay in sync with center-ui~~
+* ~~Tag up with UI/UX to investigate modifications to PIWIK UI~~
+* ~~Tag up Rob W for testing environment~~
 
 **UI/UX -**
 * Waiting on research 
