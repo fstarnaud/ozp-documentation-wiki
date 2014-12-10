@@ -20,7 +20,7 @@ Minimal delivered set of features
 * 
 
 **Backend -**
-* 
+* Finish Image Server
 
 **Webtop -**
 * Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)
