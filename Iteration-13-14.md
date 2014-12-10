@@ -24,6 +24,9 @@ Minimal delivered set of features
 * Finish Image Server
 * Add simple no-cache headers to fix IE problems
 * Document Listing JSON representations
+* Implementation Security Plugin
+ * Get new code high-side
+ * Initial merge of implementation-specific code with new code
 
 **Webtop -**
 * Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)
