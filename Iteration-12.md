@@ -25,8 +25,9 @@ Minimal delivered set of features
 
 **Backend -**
 * Security Plugin implementation for production
-* Image storage for screenshots, etc - This was delayed because of scope and requirement changes
+* Image storage for screenshots, etc - Delayed because of scope and requirement changes; Current status: feature development almost complete
 * ~~Access controls on Featured flag~~
+* ~~Admin filters for Listing retrieval~~
 
 **Webtop -**
 * ~~Cleanup and integrate [#133](https://github.com/ozone-development/ozp-webtop/issues/133), which prevents the DOM from being torn down when switching layout views or dashboards (for dashboards marked as 'sticky')~~
