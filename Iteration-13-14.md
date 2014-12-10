@@ -20,6 +20,7 @@ Minimal delivered set of features
 * 
 
 **Backend -**
+* *Note: Ross' availability over next few sprints is uncertain*
 * Finish Image Server
 
 **Webtop -**
