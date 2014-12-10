@@ -49,8 +49,8 @@ Minimal delivered set of features
     * Integration Guide v2
     * ~~Application Guide v1~~
 * IWC v0.1.0
-* Scope legacy widget adapter
-* Talking points for why IWC is different the standard HTML5
+* ~~Scope legacy widget adapter~~
+* ~~Talking points for why IWC is different the standard HTML5~~
 
 **Metrics -**
 * ~~Stay in sync with center-ui~~
