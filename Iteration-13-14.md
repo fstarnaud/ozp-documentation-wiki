@@ -68,5 +68,9 @@ Minimal delivered set of features
 **Roadblocks:**
 * IWC and Firefox issue
 * Integration of Common Toolbar across platform
+* Need SA to attend Iteration Planning
+* Metrics on standards port
+* Additional VM's
+* Expiring domain names
 
 ***
