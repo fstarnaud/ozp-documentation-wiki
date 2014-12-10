@@ -29,8 +29,8 @@ Minimal delivered set of features
 * Access controls on Featured flag
 
 **Webtop -**
-* Cleanup and integrate [#133](https://github.com/ozone-development/ozp-webtop/issues/133), which prevents the DOM from being torn down when switching layout views or dashboards (for dashboards marked as 'sticky')
-* Desktop layout enhancements from previous iteration (bugs and features required to support #133)
+* ~~Cleanup and integrate [#133](https://github.com/ozone-development/ozp-webtop/issues/133), which prevents the DOM from being torn down when switching layout views or dashboards (for dashboards marked as 'sticky')~~
+* ~~Desktop layout enhancements from previous iteration (bugs and features required to support #133)~~
 * Upgrade to latest ozp-bootstrap (currently working off a version ~2 weeks old)
 * Time permitting, work [#187](https://github.com/ozone-development/ozp-webtop/issues/187) (handle IWC Intents to launch applications into Webtop)
 
