@@ -17,16 +17,16 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Finish Listing Management AppsMall admin page
-* Allow Org Stewards to Edit Listings in their Stewarded Organization
-* Allow Org Stewards the ability to Approve and Reject listings
-* AppsMall Stewards need the ability to set a Listing as Featured
-* Reviews tab for Listing Details View (Stretch Goal)
+* ~~Finish Listing Management AppsMall admin page~~
+* ~~Allow Org Stewards to Edit Listings in their Stewarded Organization~~
+* ~~Allow Org Stewards the ability to Approve and Reject listings~~
+* ~~AppsMall Stewards need the ability to set a Listing as Featured~~
+* ~~Reviews tab for Listing Details View (Stretch Goal)~~
 
 **Backend -**
 * Security Plugin implementation for production
-* Image storage for screenshots, etc
-* Access controls on Featured flag
+* Image storage for screenshots, etc - This was delayed because of scope and requirement changes
+* ~~Access controls on Featured flag~~
 
 **Webtop -**
 * ~~Cleanup and integrate [#133](https://github.com/ozone-development/ozp-webtop/issues/133), which prevents the DOM from being torn down when switching layout views or dashboards (for dashboards marked as 'sticky')~~
