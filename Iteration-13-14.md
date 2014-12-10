@@ -17,7 +17,8 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* 
+* Add unit tests for All AML Listings page
+* Add Required links and options to Marketplace Drop-Down
 
 **Backend -**
 * *Note: Ross' availability over next few sprints is uncertain*
