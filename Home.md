@@ -1,7 +1,7 @@
 ### OZONE: 
 The continuous effort to unite the entire community on a single computing platform.
 
-### Goals For Next Generation:
+### Goals For OZONE PLatform:
 * Software as a Service
 * Modified Front End HTML5 CSS3
 * Scalable Elastic infrastructure
