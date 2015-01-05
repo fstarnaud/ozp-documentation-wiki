@@ -10,4 +10,5 @@ How we are packaging and deploying
 
 [https://github.com/ozone-development/ozp-iwc/wiki/IWC-Backend-Integration](https://github.com/ozone-development/ozp-iwc/wiki/IWC-Backend-Integration)
 
-
+### Webtop
+Webtop is purely client-side - to deploy, generate the production files and statically serve them. To generate the production files, clone the `ozp-webtop` repo (npm install, bower install, etc as per the README), run `grunt`, which generates a `bin/` directory containing an `assets` directory and `index.html` file. Serve these files, navigate to the `index.html` file, and you're good to go
