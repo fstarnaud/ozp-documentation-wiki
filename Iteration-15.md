@@ -40,8 +40,8 @@ Minimal delivered set of features
 * Remove hard coded links in all products that are being deployed
 * Integration of Common Toolbar across platform
 * Need SA to attend Iteration Planning
-* Metrics on standards port
 * Additional VM's
+* SSL configuration Discussion
 
 
 ***
