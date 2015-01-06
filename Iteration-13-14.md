@@ -63,6 +63,7 @@ Minimal delivered set of features
 * ~~Meet to determine IWC UI needs~~
 * ~~Provide documentation for AML icon font~~
 * ~~Meet with ADG to review UX/UI recommendations~~
+* ~~Provide select mockups to visualize recommendations~~
 * Roadblocks:
   * Waiting on research 
   * Waiting on global toolbar integration 
