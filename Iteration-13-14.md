@@ -58,8 +58,8 @@ Minimal delivered set of features
 * Deploy metrics UI enhancements
 
 **UI/UX -**
-* Develop a Piwik Theme for AML Metrics
-* Continue refining Bootstrap as it is integrated
+* ~~Develop a Piwik Theme for AML Metrics~~
+* ~~Continue refining Bootstrap as it is integrated~~
 * ~~Meet to determine IWC UI needs~~
 * ~~Provide documentation for AML icon font~~
 * Roadblocks:
