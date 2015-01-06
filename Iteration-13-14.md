@@ -62,6 +62,7 @@ Minimal delivered set of features
 * ~~Continue refining Bootstrap as it is integrated~~
 * ~~Meet to determine IWC UI needs~~
 * ~~Provide documentation for AML icon font~~
+* ~~Meet with ADG to review UX/UI recommendations~~
 * Roadblocks:
   * Waiting on research 
   * Waiting on global toolbar integration 
