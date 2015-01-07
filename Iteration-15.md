@@ -43,6 +43,7 @@ Minimal delivered set of features
 **Metrics -**
 * Ensure proper metrics are being collected and reported correctly
 * Meeting with stakeholders 
+* Discussion with Center on how immediate search reacts 
 
 **UI/UX -**
 * Continue refining Bootstrap / Piwik as it is integrated
