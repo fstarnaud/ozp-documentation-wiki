@@ -22,9 +22,9 @@ Minimal delivered set of features
 
 **Backend -**
 * *Note: Ross' availability over next few sprints is uncertain*
-* Finish Image Server
-* Add simple no-cache headers to fix IE problems
-* Document Listing JSON representations
+* ~~Finish Image Server~~
+* ~~Add simple no-cache headers to fix IE problems~~
+* ~~Document Listing JSON representations~~
 * Implementation Security Plugin
  * ~~Get new code to implementation network~~
  * ~~Initial merge of implementation-specific code with new code~~
