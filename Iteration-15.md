@@ -40,8 +40,7 @@ Minimal delivered set of features
 * 
 
 **UI/UX -**
-* Package Piwik Theme for AML Metrics and work with Greg for initial implementation
-* Continue refining Bootstrap as it is integrated
+* Continue refining Bootstrap / Piwik as it is integrated
 * Roadblocks:
   * Waiting on research 
   * Waiting on global toolbar integration 
