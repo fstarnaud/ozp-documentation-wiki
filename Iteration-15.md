@@ -12,6 +12,7 @@ Minimal delivered set of features
 * IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics
 * Working Backend
 * OWF 7 Adapter
+* Basic Metrics 
 
 ***
 
