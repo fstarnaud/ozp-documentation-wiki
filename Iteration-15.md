@@ -23,7 +23,10 @@ Minimal delivered set of features
 * 
 
 **Webtop -**
-* 
+* Make the IWC bus configurable [#371](https://github.com/ozone-development/ozp-webtop/issues/371)
+* Set the URLs for HUD, Center, and Webtop correctly in the ozp-common-toolbar (or use Intents) [#372](https://github.com/ozone-development/ozp-webtop/issues/372)
+* Make BasicAuth credentials configurable [#373](https://github.com/ozone-development/ozp-webtop/issues/373)
+* Update to latest ozp-bootstrap [#366](https://github.com/ozone-development/ozp-webtop/issues/366)
 
 **IWC -**
 * 
@@ -47,6 +50,7 @@ Minimal delivered set of features
 * Need SA to attend Iteration Planning
 * Additional VM's
 * SSL configuration Discussion
+* IWC support for Basic Authentication credentials in the iwcClient
 
 
 ***
