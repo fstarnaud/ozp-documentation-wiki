@@ -42,6 +42,7 @@ Minimal delivered set of features
 
 **Metrics -**
 * Ensure proper metrics are being collected and reported correctly
+* Meeting with stakeholders 
 
 **UI/UX -**
 * Continue refining Bootstrap / Piwik as it is integrated
@@ -60,6 +61,7 @@ Minimal delivered set of features
 * Additional VM's
 * SSL configuration Discussion
 * IWC support for Basic Authentication credentials in the iwcClient
+* Tester needed
 
 
 ***
