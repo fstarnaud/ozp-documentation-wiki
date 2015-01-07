@@ -20,9 +20,10 @@ Minimal delivered set of features
 * Org Steward Listing Management
 * Reviews on Detailed View
 * Unified Toolbar
+* Image Server Uploads
 
 **Backend -**
-* Image Server Uploads
+* Notifications design spike
 * Security Plugin
 
 **Webtop -**
