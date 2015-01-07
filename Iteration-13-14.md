@@ -30,11 +30,11 @@ Minimal delivered set of features
  * Initial merge of implementation-specific code with new code
 
 **Webtop -**
-* Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)
+* ~~Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)~~
 * Update to latest ozp-bootstrap and global toolbar markup
 * Numerous issues such as:
-  * [#355](https://github.com/ozone-development/ozp-webtop/issues/355)
-  * [#354](https://github.com/ozone-development/ozp-webtop/issues/354)
+  * ~~[#355](https://github.com/ozone-development/ozp-webtop/issues/355)~~
+  * ~~[#354](https://github.com/ozone-development/ozp-webtop/issues/354)~~
   * [#341](https://github.com/ozone-development/ozp-webtop/issues/341)
 
 **IWC -**
