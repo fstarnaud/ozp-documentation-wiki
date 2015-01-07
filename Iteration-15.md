@@ -39,7 +39,7 @@ Minimal delivered set of features
 * Begin legacy widget adapter
 
 **Metrics -**
-* 
+* Ensure proper metrics are being collected and reported correctly
 
 **UI/UX -**
 * Continue refining Bootstrap / Piwik as it is integrated
