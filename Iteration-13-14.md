@@ -76,8 +76,8 @@ Minimal delivered set of features
 * ~~IWC and Firefox issue~~
 * Integration of Common Toolbar across platform
 * Need SA to attend Iteration Planning
-* Metrics on standards port
-* Additional VM's
+* ~~ Metrics on standards port ~~
+* ~~ Additional VM's ~~
 * ~~Expiring domain names~~
 
 ***
