@@ -17,8 +17,8 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Add unit tests for All AML Listings page
-* Add Required links and options to Marketplace Drop-Down
+* ~~Add unit tests for All AML Listings page~~
+* ~~Add Required links and options to Marketplace Drop-Down~~
 
 **Backend -**
 * *Note: Ross' availability over next few sprints is uncertain*
@@ -26,8 +26,8 @@ Minimal delivered set of features
 * Add simple no-cache headers to fix IE problems
 * Document Listing JSON representations
 * Implementation Security Plugin
- * Get new code to implementation network
- * Initial merge of implementation-specific code with new code
+ * ~~Get new code to implementation network~~
+ * ~~Initial merge of implementation-specific code with new code~~
 
 **Webtop -**
 * ~~Update 'sticky' dashboard logic as per [#353](https://huboard.com/ozone-development/ozp-webtop#/issues/51341875)~~
