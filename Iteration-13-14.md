@@ -38,8 +38,8 @@ Minimal delivered set of features
   * [#341](https://github.com/ozone-development/ozp-webtop/issues/341)
 
 **IWC -**
-* Bug fixes
-    * [Create/Delete localstorage key on Firefox 17 (potentially other browsers) doesn't generate an event](https://github.com/ozone-development/ozp-iwc/issues/123) **Blocking v0.1**
+* ~~Bug fixes~~
+    * ~~[Create/Delete localstorage key on Firefox 17 (potentially other browsers) doesn't generate an event](https://github.com/ozone-development/ozp-iwc/issues/123) **Blocking v0.1**~~
     
 * Technical Debt **v0.2**
     * Client library cleanup.
