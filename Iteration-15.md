@@ -19,7 +19,7 @@ Minimal delivered set of features
 **Center/HUD -**
 * Org Steward Listing Management
 * Reviews on Detailed View
-* Unified Toolbar
+* Unified Toolbar (HUD)
 * Image Server Uploads
 
 **Backend -**
