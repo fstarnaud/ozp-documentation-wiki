@@ -34,7 +34,8 @@ Minimal delivered set of features
 * Z-index bug in Desktop layout [#341](https://github.com/ozone-development/ozp-webtop/issues/341)
 
 **IWC -**
-* 
+* Initial implementation of ABAC
+* Begin legacy widget adapter
 
 **Metrics -**
 * 
