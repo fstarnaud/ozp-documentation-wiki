@@ -41,6 +41,7 @@ Minimal delivered set of features
 
 **UI/UX -**
 * Continue refining Bootstrap / Piwik as it is integrated
+* Provide feedback on current page iterations
 * Roadblocks:
   * Waiting on research 
   * Waiting on global toolbar integration 
