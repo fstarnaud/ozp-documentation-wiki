@@ -21,7 +21,6 @@ Minimal delivered set of features
 * ~~Add Required links and options to Marketplace Drop-Down~~
 
 **Backend -**
-* *Note: Ross' availability over next few sprints is uncertain*
 * ~~Finish Image Server~~
 * ~~Add simple no-cache headers to fix IE problems~~
 * ~~Document Listing JSON representations~~
