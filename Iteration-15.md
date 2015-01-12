@@ -22,6 +22,7 @@ Minimal delivered set of features
 * Reviews on Detailed View
 * Unified Toolbar (HUD)
 * Image Server Uploads
+* Add temporary banners to center
 
 **Backend -**
 * Notifications design spike
