@@ -20,14 +20,14 @@ Minimal delivered set of features
 **Center/HUD -**
 * Org Steward Listing Management
 * Reviews on Detailed View
-* Unified Toolbar (HUD)
-* Image Server Uploads
-* Add temporary banners to center
+~~* Unified Toolbar (HUD)~~
+~~* Image Server Uploads~~
+~~* Add temporary banners to center~~
 
 **Backend -**
 * Notifications design spike
-* Security Plugin
-* Create Public URI configuration
+~~* Security Plugin~~
+~~* Create Public URI configuration~~
 
 **Webtop -**
 * Make the IWC bus configurable [#371](https://github.com/ozone-development/ozp-webtop/issues/371)
