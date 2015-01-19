@@ -27,6 +27,7 @@ Minimal delivered set of features
 **Backend -**
 * Notifications design spike
 * Security Plugin
+* Create Public URI configuration
 
 **Webtop -**
 * Make the IWC bus configurable [#371](https://github.com/ozone-development/ozp-webtop/issues/371)
