@@ -37,12 +37,13 @@ Minimal delivered set of features
 *  
 
 **UI/UX -**
-*  
+*  Waiting on research
+*  Reviewing development and adding bugs in
 
 ***
 
 **Roadblocks:**
-* 
+* UX Research Survey
 
 
 ***
