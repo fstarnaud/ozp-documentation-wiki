@@ -36,7 +36,7 @@ Minimal delivered set of features
 * Update to latest ozp-bootstrap [#366](https://github.com/ozone-development/ozp-webtop/issues/366)
 * ~~Z-index bug in Desktop layout [#341](https://github.com/ozone-development/ozp-webtop/issues/341)~~
 * Prevent scrolling in desktop layout [#343](https://github.com/ozone-development/ozp-webtop/issues/343)
-* Disable classification banners in gh pages [#367](https://github.com/ozone-development/ozp-webtop/issues/367)
+* ~~Disable classification banners in gh pages [#367](https://github.com/ozone-development/ozp-webtop/issues/367)~~
 
 **IWC -**
 * Initial implementation of ABAC
