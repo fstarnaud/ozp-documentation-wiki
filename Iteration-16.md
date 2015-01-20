@@ -3,6 +3,7 @@
 ***
 
 ### Next Milestones:
+OWF7 Adapter
 26 Feb 2015 - TRR
 26 March 2015 - ATO
 2 April 2015 - ORR
@@ -15,7 +16,7 @@ Minimal delivered set of features
 * IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics
 * Working Backend
 * OWF 7 Adapter
-* Basic Metrics 
+
 
 ***
 
