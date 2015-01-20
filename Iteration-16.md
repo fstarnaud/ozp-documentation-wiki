@@ -38,7 +38,7 @@ Minimal delivered set of features
 
 **UI/UX -**
 *  Waiting on research
-*  Waiting on global toolbar integration
+*  Waiting on global toolbar / webtop toolbar integration
 *  Reviewing development and adding bugs in
 
 ***
