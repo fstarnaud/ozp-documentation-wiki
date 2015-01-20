@@ -22,10 +22,15 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* 
+* Complete Reviews Tab for the Detail View
+* Add image upload for the Intents
+* Add Recent Activity page for AML Steward
+* Remove Enable/Disable option from listing menu (no need for duplicate functionality)
+* Display Organization Short name on listings
 
 **Backend -**
-* 
+* Implement the Notification Service
+* Create external configuration file
 
 **Webtop -**
 * 
