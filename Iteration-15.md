@@ -48,8 +48,8 @@ Minimal delivered set of features
 * Discussion with Center on how immediate search reacts 
 
 **UI/UX -**
-* Continue refining Bootstrap / Piwik as it is integrated
-* Provide feedback on current page iterations
+* ~~Continue refining Bootstrap / Piwik as it is integrated~~
+* ~~Provide feedback on current page iterations~~
 * Roadblocks:
   * Waiting on research 
   * Waiting on global toolbar integration 
