@@ -34,7 +34,7 @@ Minimal delivered set of features
 * Set the URLs for HUD, Center, and Webtop correctly in the ozp-common-toolbar (or use Intents) [#372](https://github.com/ozone-development/ozp-webtop/issues/372) - TBD: Do we treat Center, HUD, Webtop as POLOs (Plain Old Listing Objects) or not?
 * ~~Make BasicAuth credentials configurable [#373](https://github.com/ozone-development/ozp-webtop/issues/373)~~
 * Update to latest ozp-bootstrap [#366](https://github.com/ozone-development/ozp-webtop/issues/366)
-* Z-index bug in Desktop layout [#341](https://github.com/ozone-development/ozp-webtop/issues/341)
+* ~~Z-index bug in Desktop layout [#341](https://github.com/ozone-development/ozp-webtop/issues/341)~~
 * Prevent scrolling in desktop layout [#343](https://github.com/ozone-development/ozp-webtop/issues/343)
 * Disable classification banners in gh pages [#367](https://github.com/ozone-development/ozp-webtop/issues/367)
 
