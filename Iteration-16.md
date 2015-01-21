@@ -51,7 +51,10 @@ Minimal delivered set of features
 * Investigate LOE for translating the OWF 7 Drag & Drop API.
 
 **Metrics -**
-*  
+* Implement reporting for submitted apps, approved apps, app reviews submitted, app reviews viewed
+* Update search metric to report after slight delay
+* Investigate use of govport groups to give metrics user permissions
+
 
 **UI/UX -**
 *  Waiting on research
