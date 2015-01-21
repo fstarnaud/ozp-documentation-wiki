@@ -21,12 +21,12 @@ Minimal delivered set of features
 * Org Steward Listing Management
 * Reviews on Detailed View
 * ~~Unified Toolbar (HUD)~~
-* ~~Image Server Uploads~~
+* ~~Image Server Uploads for Listings~~
 * ~~Add temporary banners to center~~
 
 **Backend -**
-* Notifications design spike
-* ~~Security Plugin~~
+* ~~Notifications design spike~~
+* ~~Security Plugin Development~~
 * ~~Create Public URI configuration~~
 
 **Webtop -**
