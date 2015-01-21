@@ -39,7 +39,16 @@ Minimal delivered set of features
 * Extensive testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
 
 **IWC -**
-* 
+* Continue ABAC Implementation & Review.
+* Investigate slow performance in Internet Explorer.
+* BUG: IWC improperly concatenates urls in some situations.
+* BUG: IWC needlessly fetches `_linked` resources that are also `_embedded`.
+
+
+**Legacy Widget Adapter -**
+* Translate OWF 7 pubsub to broadcast intents.
+* Translate the OWF 7 "launch" API.
+* Investigate LOE for translating the OWF 7 Drag & Drop API.
 
 **Metrics -**
 *  
