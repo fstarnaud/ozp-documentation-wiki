@@ -63,7 +63,7 @@ Minimal delivered set of features
 * ~~Need SA to attend Iteration Planning~~
 * Additional VM's
 * ~~SSL configuration Discussion~~
-* IWC support for Basic Authentication credentials in the iwcClient
+* ~~IWC support for Basic Authentication credentials in the iwcClient~~
 * ~~Tester needed~~
 
 
