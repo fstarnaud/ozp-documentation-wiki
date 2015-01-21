@@ -18,7 +18,7 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Org Steward Listing Management
+* ~~Org Steward Listing Management~~
 * Reviews on Detailed View
 * ~~Unified Toolbar (HUD)~~
 * ~~Image Server Uploads for Listings~~
