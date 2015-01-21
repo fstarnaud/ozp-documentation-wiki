@@ -58,13 +58,13 @@ Minimal delivered set of features
 ***
 
 **Roadblocks:**
-* Remove hard coded links in all products that are being deployed
-* Integration of Common Toolbar across platform
-* Need SA to attend Iteration Planning
+* ~Remove hard coded links in all products that are being deployed~
+* Integration of Common Toolbar across platform for Center ( This will happen after IOB)
+* ~Need SA to attend Iteration Planning~
 * Additional VM's
-* SSL configuration Discussion
+* ~SSL configuration Discussion~
 * IWC support for Basic Authentication credentials in the iwcClient
-* Tester needed
+* ~Tester needed~
 
 
 ***
