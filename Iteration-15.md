@@ -43,9 +43,9 @@ Minimal delivered set of features
 * Begin legacy widget adapter
 
 **Metrics -**
-* Ensure proper metrics are being collected and reported correctly
-* Meeting with stakeholders 
-* Discussion with Center on how immediate search reacts 
+* ~~Ensure proper metrics are being collected and reported correctly~~
+* ~~Meeting with stakeholders~~ 
+* ~~Discussion with Center on how immediate search reacts~~ 
 
 **UI/UX -**
 * ~~Continue refining Bootstrap / Piwik as it is integrated~~
