@@ -34,7 +34,9 @@ Minimal delivered set of features
 * Create external configuration file
 
 **Webtop -**
-* 
+* Remove hardcoded dummy usernames [#381](https://github.com/ozone-development/ozp-webtop/issues/381)
+* Resolve issue of hardcoded URLs to HUD, Center, and Webtop [#372](https://github.com/ozone-development/ozp-webtop/issues/372)
+* Extensive testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
 
 **IWC -**
 * 
