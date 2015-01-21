@@ -22,7 +22,7 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Complete Reviews Tab for the Detail View
+* Complete Reviews Tab for the Detail View [Filter by star rating, allow org stewards to manage reviews]
 * Add image upload for the Intents
 * Add Recent Activity page for AML Steward
 * Remove Enable/Disable option from listing menu (no need for duplicate functionality)
