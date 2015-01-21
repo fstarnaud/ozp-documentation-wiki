@@ -61,6 +61,7 @@ Minimal delivered set of features
 *  Waiting on research
 *  Waiting on global toolbar / webtop toolbar integration
 *  Reviewing development and adding bugs in
+*  Redo of OWFGOSS site and move to gh-page
 
 ***
 
