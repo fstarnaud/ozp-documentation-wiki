@@ -42,7 +42,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * IWC Code:  https://github.com/ozone-development/ozp-iwc
 
 Production Deployment Repos
-* OZONE Platform - https://github.com/ozone-platform
+* OZONE Platform - https://github.com/ozoneplatform
 
 ### OZONE Support ###
 [OZONE Platform StackExchange](http://area51.stackexchange.com/proposals/82636/ozone-platform-stack-exchange-is-a-question-and-answer-site-for-ozone-platform-de?referrer=fwgGmaJWzcFpt7RiP2iCNA2)
@@ -53,4 +53,4 @@ Production Deployment Repos
   * Direct links to these Groups can also be found [here](https://owfgoss.org/support.html).
 
 ### OZONE Web Page ###
-* [OZONE Platform](http://www.ozoneplatform.org/)
+* [OZONE Platform](http://www.ozoneplatform.org/) http://www.ozoneplatform.org
