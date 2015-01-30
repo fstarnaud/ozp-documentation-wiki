@@ -39,23 +39,18 @@ The continuous effort to unite the entire community on a single computing platfo
 ### Links to Code:
 * Ozone Development: https://github.com/ozone-development
 * Weptop: ozp-webtop https://github.com/ozone-development/ozp-webtop
-* Controller: ozp-controller-jvm https://github.com/ozone-development/ozp-controller-jvm
 * IWC Code:  https://github.com/ozone-development/ozp-iwc
 
-Legacy Code
-* 7.refactor: https://github.com/ozone-development/owf7-refactor
-* 7.refactor/Metrics: https://github.com/ozone-development/owf7-refactor/tree/owf-metrics-tools
-* 7.refactor/Performance: https://github.com/ozone-development/owf7-refactor/tree/pre-refactor
-
 Production Deployment Repos
-* OZONE Platform - https://github.com/ozoneplatform
-* OZONE Center - https://github.com/ozonecenter
+* OZONE Platform - https://github.com/ozone-platform
 
-### OZONE Google Groups ###
+### OZONE Support ###
+[OZONE Platform StackExchange](http://area51.stackexchange.com/proposals/82636/ozone-platform-stack-exchange-is-a-question-and-answer-site-for-ozone-platform-de?referrer=fwgGmaJWzcFpt7RiP2iCNA2)
+
 * [ozoneplatform-users](https://groups.google.com/forum/#!forum/ozoneplatform-users) - For users, system administrators, App Component ("widget") developers.
 * [ozoneplatform-dev](https://groups.google.com/forum/#!forum/ozoneplatform-dev) - For developers interested in contributing to the platform. A good place for public design discussions and planning.
 * [ozoneplatform-announce](https://groups.google.com/forum/#!forum/ozoneplatform-announce) - Announcements from the OZONE project.
   * Direct links to these Groups can also be found [here](https://owfgoss.org/support.html).
 
-### OZONE GOSS Page ###
-* [OWF GOSS](https://owfgoss.org/)
+### OZONE Web Page ###
+* [OZONE Platform](http://www.ozoneplatform.org/)
