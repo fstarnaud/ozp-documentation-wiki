@@ -5,12 +5,11 @@ The continuous effort to unite the entire community on a single computing platfo
 * Software as a Service
 * Modified Front End HTML5 CSS3
 * Scalable Elastic infrastructure
-* Front Door to IC Cloud
 
 
 ### Links to Information:
 
-* Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iteration-1
+* Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iterations
 
 
 **Development Guidelines:**
@@ -40,6 +39,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * Ozone Development: https://github.com/ozone-development
 * Weptop: ozp-webtop https://github.com/ozone-development/ozp-webtop
 * IWC Code:  https://github.com/ozone-development/ozp-iwc
+* Center: https://github.com/ozone-development/center-ui
 
 Production Deployment Repos
 * OZONE Platform - https://github.com/ozoneplatform
