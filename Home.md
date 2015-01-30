@@ -1,7 +1,7 @@
 ### OZONE: 
 The continuous effort to unite the entire community on a single computing platform.
 
-### Goals For OZONE PLatform:
+### Goals For OZONE Platform:
 * Software as a Service
 * Modified Front End HTML5 CSS3
 * Scalable Elastic infrastructure
@@ -43,6 +43,8 @@ The continuous effort to unite the entire community on a single computing platfo
 
 Production Deployment Repos
 * OZONE Platform - https://github.com/ozoneplatform
+
+* Demo Site - http://ozone-development.github.io/
 
 ### OZONE Support ###
 [OZONE Platform StackExchange](http://area51.stackexchange.com/proposals/82636/ozone-platform-stack-exchange-is-a-question-and-answer-site-for-ozone-platform-de?referrer=fwgGmaJWzcFpt7RiP2iCNA2)
