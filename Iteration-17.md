@@ -4,10 +4,10 @@
 
 ### Next Milestones:
 OWF7 Adapter
-26 Feb 2015 - TRR
-26 March 2015 - ATO
-2 April 2015 - ORR
-16 April 2015 - IOB
+<br>26 Feb 2015 - TRR
+<br>26 March 2015 - ATO
+<br>2 April 2015 - ORR
+<br>16 April 2015 - IOB
 
 Minimal delivered set of features
 * PKI Login
