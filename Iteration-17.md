@@ -22,7 +22,16 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* 
+* Profile information will be shown when clicking on the Owner of the listing
+* Frontend- As an Admin, I want to be able to create system wide notifications
+* As a Org Steward I want the ability to see all of the listing activity in my Organization
+* As a Owner I want the ability to see all of the listing activity for my listings
+* Launch a Widget into a Webtop from the HUD
+* Launch a widget into Webtop - Webtop
+* Launch App using account default method
+* Remove Log out
+* The Metrics link in the HUD and Center User drop downs should not be accessible to users
+* Changes for HUD UI 
 
 **Backend -**
 * 
