@@ -34,7 +34,7 @@ Minimal delivered set of features
 * Changes for HUD UI 
 
 **Backend -**
-* 
+* Implement the back end for the Notification Service
 
 **Webtop -**
 *  
