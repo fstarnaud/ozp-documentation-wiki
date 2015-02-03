@@ -71,7 +71,7 @@ Minimal delivered set of features
 
 **Roadblocks:**
 * UX Research Survey
-* Need artifacts from ADG 
+* ~~Need artifacts from ADG~~
 
 
 ***
