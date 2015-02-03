@@ -22,20 +22,19 @@ Minimal delivered set of features
 
 ### Iteration Goals:
 **Center/HUD -**
-* Complete Reviews Tab for the Detail View [Filter by star rating, allow org stewards to manage reviews, testing, developer doc]
-* Add image upload for the Intents
-* Add Recent Activity page for AML Steward
-* Remove Enable/Disable option from listing menu (no need for duplicate functionality)
-* Display Organization Short name on listings
-* Create external configuration file(s)
-* Added Global Nav Bar into the Center (Brought into iteration mid-sprint)
-* Profile page (Brought into iteration mid-sprint)
-* Notification Administration page (Brought into iteration mid-sprint)
+* ~~Complete Reviews Tab for the Detail View [Filter by star rating, allow org stewards to manage reviews, testing, developer doc]~~
+* ~~Add image upload for the Intents~~
+* ~~Add Recent Activity page for AML Steward~~ (Dev work complete)
+* ~~Remove Enable/Disable option from listing menu (no need for duplicate functionality)~~
+* ~~Display Organization Short name on listings~~
+* ~~Create external configuration file(s)~~
+* ~~Added Global Nav Bar into the Center~~ (Brought into iteration mid-sprint)
+* Profile page (Brought into iteration mid-sprint) - In progress 
 
 **Backend -**
 * Implement the Notification Service
-* Create external configuration file
-* Sorting listings Alphabetically for the Listing Management pages (Brought into iteration mid-sprint)
+* ~~Create external configuration file~~
+* ~~Sorting listings Alphabetically for the Listing Management pages~~ (Brought into iteration mid-sprint)
 
 **Webtop -**
 * Remove hardcoded dummy usernames [#381](https://github.com/ozone-development/ozp-webtop/issues/381)
