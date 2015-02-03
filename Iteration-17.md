@@ -42,7 +42,7 @@ Minimal delivered set of features
 
 
 **UI/UX -**
-* 
+* Continue refining Ozone marketing website
 
 ***
 
