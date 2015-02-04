@@ -1,4 +1,4 @@
-## Iteration 17 (4 Feb 2015 - 18 Feb 2015)
+# Iteration 17 (4 Feb 2015 - 18 Feb 2015)
 
 ***
 
@@ -20,8 +20,8 @@ Minimal delivered set of features
 
 ***
 
-### Iteration Goals:
-**Center/HUD -**
+## Iteration Goals:
+### Center/HUD
 * Profile information will be shown when clicking on the Owner of the listing
 * Frontend- As an Admin, I want to be able to create system wide notifications
 * As a Org Steward I want the ability to see all of the listing activity in my Organization
@@ -33,13 +33,13 @@ Minimal delivered set of features
 * The Metrics link in the HUD and Center User drop downs should not be accessible to users
 * Changes for HUD UI 
 
-**Backend -**
+### Backend
 * Implement the back end for the Notification Service
 
-**Webtop -**
+### Webtop
 *  
 
-**IWC -**
+### IWC
 Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 localStorage events per second on our configuration.  The latencies quickly skyrocket as it gets further and further behind.  Firefox seems to handle hundreds without difficulty.  
 * [Issue 188](https://github.com/ozone-development/ozp-iwc/issues/188): Measure performance of IE 10 and IE 11 to determine the scope of the problem. Investigate the viability of different approaches to making IE work better:
   * [Issue 202](https://github.com/ozone-development/ozp-iwc/issues/202): OPTION: [Nagle's Algorithm](http://en.wikipedia.org/wiki/Nagle's_algorithm) for the KeyBasedLocalStorageLink.  This would also require a "noDelay" flag for packets that are time sensitive (i.e. leadership election).
@@ -55,7 +55,7 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
   * [Issue 194](https://github.com/ozone-development/ozp-iwc/issues/194): Don't fetch a _link if the resource is also _embedded.
 
 
-**Legacy Widget Adapter -**
+### Legacy Widget Adapter
 
 _COMPLETED in 16_
 * OWF.Eventing, OWF.Launcher, documentation and approach for Drag & Drop
@@ -65,16 +65,16 @@ _Goals for 17_
 * Drag and Drop support (think that we can get complete compatibility!)
 
 
-**Metrics -**
+### Metrics
 * 
 
 
-**UI/UX -**
+### UI/UX
 * Continue refining Ozone marketing website
 
 ***
 
-**Roadblocks:**
+## Roadblocks
 * UX Research Survey
 
 
