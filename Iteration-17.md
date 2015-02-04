@@ -40,11 +40,30 @@ Minimal delivered set of features
 *  
 
 **IWC -**
-* 
+Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 localStorage events per second on our configuration.  The latencies quickly skyrocket as it gets further and further behind.  Firefox seems to handle hundreds without difficulty.  
+* [Issue 188](https://github.com/ozone-development/ozp-iwc/issues/188): Measure performance of IE 10 and IE 11 to determine the scope of the problem. Investigate the viability of different approaches to making IE work better:
+  * [Issue 202](https://github.com/ozone-development/ozp-iwc/issues/202): OPTION: [Nagle's Algorithm](http://en.wikipedia.org/wiki/Nagle's_algorithm) for the KeyBasedLocalStorageLink.  This would also require a "noDelay" flag for packets that are time sensitive (i.e. leadership election).
+  * [Issue 201](https://github.com/ozone-development/ozp-iwc/issues/201): OPTION: "BulkGet" action for APIs to get all values who have keys that match a pattern.  The N+1 antipattern of "list" N items and N "get"s on those items exists in the IWC and would reduce a lot of traffic for applications starting up.  e.g. the debugger lists all keys and does individual gets on them, causing a flood of 500+ packets within a second or two at startup.
+  * [Issue 200](https://github.com/ozone-development/ozp-iwc/issues/200): OPTION: Have each RouterWatchdog aggregate the heartbeat packets for a peer into one, instead of each peer sending 7+ "set" packets to names.api every 10 seconds.
+  * [Issue 199](https://github.com/ozone-development/ozp-iwc/issues/199): OPTION: Investigate other link options that work on IE 9 (e.g. Flash or ActiveX shims)
+* Peer review the security implementation.
+  * [Issue 192](https://github.com/ozone-development/ozp-iwc/issues/192): Continue to implement the PEPs.
+  * [Issue 198](https://github.com/ozone-development/ozp-iwc/issues/198): Document the OZP-specific security attributes and policies.
+* Refactor how the APIs load data from the server
+  * [Issue 197](https://github.com/ozone-development/ozp-iwc/issues/197): Treat the endpoints as a flat list instead of the head of a tree.  This eliminates the recursive crawl and the fragile counting that sometimes prevents the data.api from knowing that it's ready to start work.
+  * [Issue 193](https://github.com/ozone-development/ozp-iwc/issues/193): Remove the attempts to manually resolve relative links.  It's a remnant from before we understood that HAL requires absolute links (or at least root-relative) that triggers at odd times.
+  * [Issue 194](https://github.com/ozone-development/ozp-iwc/issues/194): Don't fetch a _link if the resource is also _embedded.
 
 
 **Legacy Widget Adapter -**
-* 
+
+_COMPLETED in 16_
+* OWF.Eventing, OWF.Launcher, documentation and approach for Drag & Drop
+* Preferences, findWidgets, and a number of other calls work on the OWF 7-based OZP backend.  Since they rely on the server to respond to a window.name transport request, other backends will not work without additional work.
+
+_Goals for 17_
+* Drag and Drop support (think that we can get complete compatibility!)
+
 
 **Metrics -**
 * 
