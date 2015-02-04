@@ -60,9 +60,9 @@ Minimal delivered set of features
 * ~~Preferences, findWidgets, and a number of other calls work on the OWF 7-based OZP backend.  Since they rely on the server to respond to a window.name transport request, other backends will not work without additional work.~~
 
 **Metrics -**
-* ~Implement reporting for submitted apps, approved apps, app reviews submitted, app reviews viewed~
-* ~Update search metric to report after slight delay~
-* ~Investigate use of govport groups to give metrics user permissions~
+* ~~Implement reporting for submitted apps, approved apps, app reviews submitted, app reviews viewed~~
+* ~~Update search metric to report after slight delay~~
+* ~~Investigate use of govport groups to give metrics user permissions~~
 
 
 **UI/UX -**
