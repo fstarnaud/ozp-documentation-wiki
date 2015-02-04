@@ -41,6 +41,7 @@ Minimal delivered set of features
 * Resolve issue of hardcoded URLs to HUD, Center, and Webtop [#372](https://github.com/ozone-development/ozp-webtop/issues/372)
 * Extensive testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
 * Add right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
+* ~~Set draggable area to be entire chrome bar [#387](https://github.com/ozone-development/ozp-webtop/issues/387)~~
 
 **IWC -**
 * Continue ABAC Implementation & Review.
