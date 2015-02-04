@@ -57,6 +57,7 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
   * [Issue 197](https://github.com/ozone-development/ozp-iwc/issues/197): Treat the endpoints as a flat list instead of the head of a tree.  This eliminates the recursive crawl and the fragile counting that sometimes prevents the data.api from knowing that it's ready to start work.
   * [Issue 193](https://github.com/ozone-development/ozp-iwc/issues/193): Remove the attempts to manually resolve relative links.  It's a remnant from before we understood that HAL requires absolute links (or at least root-relative) that triggers at odd times.
   * [Issue 194](https://github.com/ozone-development/ozp-iwc/issues/194): Don't fetch a _link if the resource is also _embedded.
+  * Update app & backend integration guides
 
 
 ### Legacy Widget Adapter
