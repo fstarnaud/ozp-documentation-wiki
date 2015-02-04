@@ -41,7 +41,7 @@ Minimal delivered set of features
 * Remove hardcoded dummy usernames [#381](https://github.com/ozone-development/ozp-webtop/issues/381)
 * Resolve issue of hardcoded URLs to HUD, Center, and Webtop [#372](https://github.com/ozone-development/ozp-webtop/issues/372)
 * Extensive testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
-* Add right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
+* Finish right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
 
 ### IWC
 Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 localStorage events per second on our configuration.  The latencies quickly skyrocket as it gets further and further behind.  Firefox seems to handle hundreds without difficulty.  
