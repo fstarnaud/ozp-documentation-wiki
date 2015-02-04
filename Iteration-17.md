@@ -56,12 +56,6 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
 
 
 ### Legacy Widget Adapter
-
-_COMPLETED in 16_
-* OWF.Eventing, OWF.Launcher, documentation and approach for Drag & Drop
-* Preferences, findWidgets, and a number of other calls work on the OWF 7-based OZP backend.  Since they rely on the server to respond to a window.name transport request, other backends will not work without additional work.
-
-_Goals for 17_
 * Drag and Drop support (think that we can get complete compatibility!)
 
 
