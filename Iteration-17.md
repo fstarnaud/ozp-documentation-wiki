@@ -37,7 +37,7 @@ Minimal delivered set of features
 * Implement the back end for the Notification Service
 
 ### Webtop
-* Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394)
+* Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
 
 ### IWC
 Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 localStorage events per second on our configuration.  The latencies quickly skyrocket as it gets further and further behind.  Firefox seems to handle hundreds without difficulty.  
