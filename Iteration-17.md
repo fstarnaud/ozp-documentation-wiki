@@ -64,7 +64,8 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
 
 
 ### Metrics
-* 
+* Deploy Govport groups updates
+* Change to allow users to view metrics based on membership in a govport group
 
 
 ### UI/UX
