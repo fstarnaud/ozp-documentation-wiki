@@ -54,6 +54,9 @@ Minimal delivered set of features
 * Translate the OWF 7 "launch" API.
 * Investigate LOE for translating the OWF 7 Drag & Drop API.
 
+* ~~OWF.Eventing, OWF.Launcher, documentation and approach for Drag & Drop~~
+* ~~Preferences, findWidgets, and a number of other calls work on the OWF 7-based OZP backend.  Since they rely on the server to respond to a window.name transport request, other backends will not work without additional work.~~
+
 **Metrics -**
 * Implement reporting for submitted apps, approved apps, app reviews submitted, app reviews viewed
 * Update search metric to report after slight delay
