@@ -69,7 +69,7 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
 
 
 ### UI/UX
-* Continue refining Ozone marketing website
+* Refine content of Ozone marketing website
 
 ***
 
