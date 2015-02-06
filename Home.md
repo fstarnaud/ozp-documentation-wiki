@@ -9,9 +9,7 @@ The continuous effort to unite the entire community on a single computing platfo
 
 ### Links to Information:
 * Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iterations
-
-**Development Guidelines:**
-[Docs](https://github.com/ozone-development/ozp-documentation/blob/master/README.md)
+* Development Guidelines https://github.com/ozone-development/ozp-documentation/blob/master/README.md
 
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
