@@ -8,18 +8,10 @@ The continuous effort to unite the entire community on a single computing platfo
 
 
 ### Links to Information:
-
 * Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iterations
 
-
 **Development Guidelines:**
-
-1. [Developer Guidelines and Standards](https://github.com/ozone-development/ozp-documentation/blob/master/developer-guidance.md)
-2. [Testing Standards](https://github.com/ozone-development/ozp-documentation/blob/master/testing-standards.md)
-3. [Browser Support Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/browser-support.md)
-4. [User Experience / User Interface Guidelines](https://www.owfgoss.org/confluence/x/sYJrAQ)
-5. [508 Disability Compliance Guidelines](https://github.com/ozone-development/ozp-documentation/blob/master/508-compliance.md)
-6. [Deployment Strategies](https://github.com/ozone-development/ozp-documentation/blob/master/deployment-strategies.md)
+[Docs](https://github.com/ozone-development/ozp-documentation/blob/master/README.md)
 
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
