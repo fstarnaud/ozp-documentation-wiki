@@ -47,4 +47,4 @@ Production Deployment Repos
   * Direct links to these Groups can also be found [here](https://owfgoss.org/support.html).
 
 ### OZONE Web Page ###
-* [OZONE Platform](http://www.ozoneplatform.org/) http://www.ozoneplatform.org
+* [OZONE Platform](http://ozone-development.github.io/ozone-website/) http://ozone-development.github.io/ozone-website/
