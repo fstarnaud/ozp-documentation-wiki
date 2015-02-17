@@ -11,7 +11,7 @@ OWF7 Adapter
 <br>16 April 2015 - IOB
 
 Minimal delivered set of features
-* PKI Login
+* ~~PKI Login~~
 * Application data migration script from 7.16 store
 * Deployment package for OZP
 * ~~IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics~~
@@ -32,17 +32,17 @@ Minimal delivered set of features
 * 
 
 ### IWC
-*
+* Need Updated users guides
 
 ### Legacy Widget Adapter
-* 
+* Need Updated users guides specifically for the legacy adapter
 
 
 ### Metrics
 * Connect HUD App launches to Piwik
 
 ### UI/UX
-* 
+* Continue Iterations on Help feature
 
 ***
 
