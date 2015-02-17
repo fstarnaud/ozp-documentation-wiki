@@ -43,6 +43,8 @@ Minimal delivered set of features
 
 ### UI/UX
 * Continue Iterations on Help feature
+* Begin discussion on other future UIs (AppBuilder, etc)
+* Redo coloring on OZP website
 
 ***
 
