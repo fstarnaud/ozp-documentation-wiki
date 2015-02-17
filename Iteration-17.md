@@ -65,9 +65,10 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
 
 
 ### Metrics
-* Deploy Govport groups updates
-* Change to allow users to view metrics based on membership in a govport group
-* Work with Clark to get deployed high side
+* ~~Deploy Govport groups updates~~
+* ~~Change to allow users to view metrics based on membership in a govport group~~
+* ~~Add in new users metric~~
+* Work with Clark to get deployed high side (waiting for Doug)
 
 ### UI/UX
 * ~~Refine content of Ozone marketing website~~
