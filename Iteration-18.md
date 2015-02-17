@@ -44,6 +44,7 @@ Minimal delivered set of features
 
 ### Metrics
 * Connect HUD App launches to Piwik
+* Work with Clark to get deployed high side (waiting for Doug)
 
 ### UI/UX
 * Continue Iterations on Help feature
