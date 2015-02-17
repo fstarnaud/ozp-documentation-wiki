@@ -51,6 +51,6 @@ Minimal delivered set of features
 ***
 
 ## Roadblocks
-* 
+* User Research Survey
 
 ***
