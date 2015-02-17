@@ -23,10 +23,13 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* 
+* Update Search and Discovery Page for UI enhancements
+* Update the Create/Edit Page for UI enhancements
+* Update Marketplace Management pages for consistent system icons
+* Error modal for the logging in of Center
 
 ### Backend
-* 
+* N/A
 
 ### Webtop
 * 
