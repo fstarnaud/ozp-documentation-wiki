@@ -22,19 +22,19 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* Profile information will be shown when clicking on the Owner of the listing
+* ~~Profile information will be shown when clicking on the Owner of the listing~~
 * Frontend- As an Admin, I want to be able to create system wide notifications
-* As a Org Steward I want the ability to see all of the listing activity in my Organization
-* As a Owner I want the ability to see all of the listing activity for my listings
+* ~~As a Org Steward I want the ability to see all of the listing activity in my Organization~~
+* ~~As a Owner I want the ability to see all of the listing activity for my listings~~
 * Launch a Widget into a Webtop from the HUD
-* Launch a widget into Webtop - Webtop
-* Launch App using account default method
-* Remove Log out
-* The Metrics link in the HUD and Center User drop downs should not be accessible to users
-* Changes for HUD UI 
+* ~~Launch a widget into Webtop - Webtop~~
+* ~~Launch App using account default method~~
+* ~~Remove Log out~~
+* ~~The Metrics link in the HUD and Center User drop downs should not be accessible to users~~
+* ~~Changes for HUD UI~~
 
 ### Backend
-* Implement the back end for the Notification Service
+* ~~Implement the back end for the Notification Service~~
 
 ### Webtop
 * Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
