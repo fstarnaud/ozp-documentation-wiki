@@ -23,6 +23,7 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
+* QA Notifications front end
 * Update Search and Discovery Page for UI enhancements
 * Update the Create/Edit Page for UI enhancements
 * Update Marketplace Management pages for consistent system icons
