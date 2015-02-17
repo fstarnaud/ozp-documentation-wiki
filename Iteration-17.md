@@ -70,8 +70,9 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
 * Work with Clark to get deployed high side
 
 ### UI/UX
-* Refine content of Ozone marketing website
+* ~~Refine content of Ozone marketing website~~
 * ~~Redesign demo launchpad to match Ozone marketing website~~
+* ~~Start future planning on help center~~
 
 ***
 
