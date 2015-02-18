@@ -30,7 +30,7 @@ Minimal delivered set of features
 * Error modal for the logging in of Center
 
 ### Backend
-* N/A
+* Add HAL links for Notifications
 
 ### Webtop
 * 
