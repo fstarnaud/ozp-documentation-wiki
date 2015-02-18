@@ -50,6 +50,7 @@ Minimal delivered set of features
 * Continue Iterations on Help feature
 * Begin discussion on other future UIs (AppBuilder, etc)
 * Redo coloring on OZP website
+* Unify page title language (currently "OZP Webtop", "Ozone HUD", and "Center")
 * Continue modifications of Center and HUD interface styling
 * Customize error messages
 * Support user documentation development
