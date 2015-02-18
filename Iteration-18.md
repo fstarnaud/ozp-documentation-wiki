@@ -67,7 +67,7 @@ Iteration 18 is a user guide update iteration for Kevin. As well as a performanc
 * Customize error messages
 * Support user documentation development
 * Support metrics documentation development
-***
+
 
 ## Roadblocks
 * User Research Survey
