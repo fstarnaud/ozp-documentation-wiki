@@ -34,7 +34,11 @@ Minimal delivered set of features
 * Implement profile search call
 
 ### Webtop
-* 
+* Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
+* Further testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
+* Finish right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
+* Update Global Toolbar  [#403](https://github.com/ozone-development/ozp-webtop/issues/403)
+* Bug/Style fixes
 
 ### IWC
 Iteration 18 is a user guide update iteration for Kevin. As well as a performance enhancement iteration for the IWC team. Kevin is collaborating with Alan for debugger enhancements, making it a better single page app for developer use.
