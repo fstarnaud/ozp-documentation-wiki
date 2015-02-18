@@ -36,7 +36,13 @@ Minimal delivered set of features
 * 
 
 ### IWC
-* Need Updated users guides
+Iteration 18 is a user guide update iteration for Kevin. As well as a performance enhancement iteration for the IWC team. Kevin is collaborating with Alan for debugger enhancements, making it a better single page app for developer use.
+* Updated users guides
+* Debugger enhancements: utility merging.
+* Security Code review.
+* Performance enhancements:
+   * [Issue 197](https://github.com/ozone-development/ozp-iwc/issues/197): Treat the endpoints as a flat list instead of the head of a tree.  This eliminates the recursive crawl and the fragile counting that sometimes prevents the data.api from knowing that it's ready to start work.
+   * [Issue 188](https://github.com/ozone-development/ozp-iwc/issues/188): Measure performance of IE 10 and IE 11 to determine the scope of the problem. Investigate the viability of different approaches to making IE work better:
 
 ### Legacy Widget Adapter
 * Need Updated users guides specifically for the legacy adapter
