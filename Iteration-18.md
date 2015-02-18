@@ -62,7 +62,7 @@ Iteration 18 is a user guide update iteration for Kevin. As well as a performanc
 * Continue Iterations on Help feature
 * Begin discussions on next UIs (Profile, Settings, AppBuilder, etc)
 * Redo coloring on OZP website
-* Unify page title language (currently "OZP Webtop", "Ozone HUD", and "Center")
+* ~~Unify page title language (currently "OZP Webtop", "Ozone HUD", and "Center")~~
 * Continue modifications of Center and HUD interface styling
 * Customize error messages
 * Support user documentation development
