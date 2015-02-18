@@ -50,13 +50,13 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
   * [Issue 201](https://github.com/ozone-development/ozp-iwc/issues/201): OPTION: "BulkGet" action for APIs to get all values who have keys that match a pattern.  The N+1 antipattern of "list" N items and N "get"s on those items exists in the IWC and would reduce a lot of traffic for applications starting up.  e.g. the debugger lists all keys and does individual gets on them, causing a flood of 500+ packets within a second or two at startup.
   * [Issue 200](https://github.com/ozone-development/ozp-iwc/issues/200): OPTION: Have each RouterWatchdog aggregate the heartbeat packets for a peer into one, instead of each peer sending 7+ "set" packets to names.api every 10 seconds.
   * [Issue 199](https://github.com/ozone-development/ozp-iwc/issues/199): OPTION: Investigate other link options that work on IE 9 (e.g. Flash or ActiveX shims)
-* Peer review the security implementation.
-  * [Issue 192](https://github.com/ozone-development/ozp-iwc/issues/192): Continue to implement the PEPs.
+* Peer review the security implementation. __Awaiting Review__
+  * ~~[Issue 192](https://github.com/ozone-development/ozp-iwc/issues/192): Continue to implement the PEPs.~~
   * [Issue 198](https://github.com/ozone-development/ozp-iwc/issues/198): Document the OZP-specific security attributes and policies.
 * Refactor how the APIs load data from the server
   * [Issue 197](https://github.com/ozone-development/ozp-iwc/issues/197): Treat the endpoints as a flat list instead of the head of a tree.  This eliminates the recursive crawl and the fragile counting that sometimes prevents the data.api from knowing that it's ready to start work.
-  * [Issue 193](https://github.com/ozone-development/ozp-iwc/issues/193): Remove the attempts to manually resolve relative links.  It's a remnant from before we understood that HAL requires absolute links (or at least root-relative) that triggers at odd times.
-  * [Issue 194](https://github.com/ozone-development/ozp-iwc/issues/194): Don't fetch a _link if the resource is also _embedded.
+  * ~~[Issue 193](https://github.com/ozone-development/ozp-iwc/issues/193): Remove the attempts to manually resolve relative links.  It's a remnant from before we understood that HAL requires absolute links (or at least root-relative) that triggers at odd times.~~
+  * ~~[Issue 194](https://github.com/ozone-development/ozp-iwc/issues/194): Don't fetch a _link if the resource is also _embedded.~~ (Validating)
   * Update app & backend integration guides
 
 
