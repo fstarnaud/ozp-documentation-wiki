@@ -56,6 +56,7 @@ Iteration 18 is a user guide update iteration for Kevin. As well as a performanc
 ### Metrics
 * Connect HUD App launches to Piwik
 * Work with deployment team to get Metrics deployed to production environment
+* Add user permissions to HUD piwik site
 
 ### UI/UX
 * Continue Iterations on Help feature
