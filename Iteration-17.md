@@ -52,7 +52,7 @@ Iteration 16 performance testing indicates that IE 9 falls apart at more than 6 
   * [Issue 199](https://github.com/ozone-development/ozp-iwc/issues/199): OPTION: Investigate other link options that work on IE 9 (e.g. Flash or ActiveX shims)
 * Peer review the security implementation. __Awaiting Review__
   * ~~[Issue 192](https://github.com/ozone-development/ozp-iwc/issues/192): Continue to implement the PEPs.~~
-  * [Issue 198](https://github.com/ozone-development/ozp-iwc/issues/198): Document the OZP-specific security attributes and policies.
+  * ~~[Issue 198](https://github.com/ozone-development/ozp-iwc/issues/198): Document the OZP-specific security attributes and policies.~~
 * Refactor how the APIs load data from the server
   * [Issue 197](https://github.com/ozone-development/ozp-iwc/issues/197): Treat the endpoints as a flat list instead of the head of a tree.  This eliminates the recursive crawl and the fragile counting that sometimes prevents the data.api from knowing that it's ready to start work.
   * ~~[Issue 193](https://github.com/ozone-development/ozp-iwc/issues/193): Remove the attempts to manually resolve relative links.  It's a remnant from before we understood that HAL requires absolute links (or at least root-relative) that triggers at odd times.~~
