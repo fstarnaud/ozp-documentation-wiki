@@ -31,6 +31,7 @@ Minimal delivered set of features
 
 ### Backend
 * Add HAL links for Notifications
+* Implement profile search call
 
 ### Webtop
 * 
