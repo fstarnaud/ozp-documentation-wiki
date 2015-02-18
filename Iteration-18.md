@@ -66,7 +66,7 @@ Iteration 18 is a user guide update iteration for Kevin. As well as a performanc
 * Continue modifications of Center and HUD interface styling
 * Customize error messages
 * Support user documentation development
-* Support metrics documentation development
+* ~~Support metrics documentation development~~
 
 
 ## Roadblocks
