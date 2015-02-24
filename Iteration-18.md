@@ -41,7 +41,7 @@ Minimal delivered set of features
 * Bug/Style fixes
 
 ### IWC
-Iteration 18 is a user guide update iteration for Kevin. As well as a performance enhancement iteration for the IWC team. Kevin is collaborating with Alan for debugger enhancements, making it a better single page app for developer use.
+Iteration 18 is a user guide update iteration. As well as a performance enhancement iteration for the IWC team. Team is collaborating for debugger enhancements, making it a better single page app for developer use.
 * Updated users guides
 * Debugger enhancements: utility merging.
 * Security Code review.
@@ -57,6 +57,7 @@ Iteration 18 is a user guide update iteration for Kevin. As well as a performanc
 * Connect HUD App launches to Piwik
 * Work with deployment team to get Metrics deployed to production environment
 * Add user permissions to HUD piwik site
+* Add banners
 
 ### UI/UX
 * Continue Iterations on Help feature
