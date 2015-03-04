@@ -70,9 +70,10 @@ Iteration 18 is a user guide update iteration. As well as a performance enhancem
 * ~~Redo coloring on OZP website~~
 * ~~Unify page title language (currently "OZP Webtop", "Ozone HUD", and "Center")~~
 * ~~Support metrics requirements checklist visualization~~
-* Continue modifications of Center and HUD interface styling
-* Customize error messages
-* Support user documentation development
+* ~~Continue modifications of Center and HUD interface styling~~
+* ~~Customize error messages~~
+* ~~Support user documentation development~~
+* ~~Update piwik styling to work with newly updated version~~
 
 
 ## Roadblocks
