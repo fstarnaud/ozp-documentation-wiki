@@ -36,8 +36,8 @@ Minimal delivered set of features
 * ~~Researched needed service calls for legacy widgets~~
 
 ### Webtop
-* Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
-* Further testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
+* ~~Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**~~
+* ~~Further testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)~~
 * Finish right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
 * ~~Finish integrating the Global Toolbar  [#403](https://github.com/ozone-development/ozp-webtop/issues/403)~~
 * ~~Add ozoneconfig.js file [#398](https://github.com/ozone-development/ozp-webtop/issues/398)~~
