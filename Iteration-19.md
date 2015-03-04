@@ -67,7 +67,8 @@ Minimal delivered set of features
 * TODO
 
 ### UI/UX
-* TODO
+* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
+* Provide support for platform UI bugs and inconsistencies
 
 ## Roadblocks
 * User Research Survey
