@@ -39,8 +39,11 @@ Minimal delivered set of features
 * Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
 * Further testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
 * Finish right click directive [#383](https://github.com/ozone-development/ozp-webtop/issues/383)
-* Finish integrating the Global Toolbar  [#403](https://github.com/ozone-development/ozp-webtop/issues/403)
-* Bug/Style fixes
+* ~~Finish integrating the Global Toolbar  [#403](https://github.com/ozone-development/ozp-webtop/issues/403)~~
+* ~~Add ozoneconfig.js file [#398](https://github.com/ozone-development/ozp-webtop/issues/398)~~
+* ~~Create add dashboard modals [#408](https://github.com/ozone-development/ozp-webtop/issues/408)~~
+* ~~Edit dashboards other than current dashboard [#424](https://github.com/ozone-development/ozp-webtop/issues/424)~~
+* ~~Various Bug/Style fixes~~
 
 ### IWC
 Iteration 18 is a user guide update iteration. As well as a performance enhancement iteration for the IWC team. Team is collaborating for debugger enhancements, making it a better single page app for developer use.
