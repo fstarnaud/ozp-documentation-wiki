@@ -42,7 +42,7 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* Validate and fixing IE bugs found during TRR.
+* Validate and fix IE bugs found during TRR.
 * Add more unit tests
 * Separate cereteEdit/index.jsx into separate files
 * Styling for type and org dropdowns
