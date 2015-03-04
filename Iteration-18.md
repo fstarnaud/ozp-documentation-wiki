@@ -77,6 +77,6 @@ Iteration 18 is a user guide update iteration. As well as a performance enhancem
 
 ## Roadblocks
 * User Research Survey
-* Launch a Widget into a Webtop from the HUD need feedback from PRoduct Owner
+* ~~Launch a Widget into a Webtop from the HUD need feedback from Product Owner~~
 
 ***
