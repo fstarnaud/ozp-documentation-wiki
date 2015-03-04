@@ -62,14 +62,14 @@ Iteration 18 is a user guide update iteration. As well as a performance enhancem
 * Add banners
 
 ### UI/UX
-* Continue Iterations on Help feature
-* Begin discussions on next UIs (Profile, Settings, AppBuilder, etc)
+* ~~Continue Iterations on Help feature~~
+* ~~Begin discussions on next UIs (Profile, Settings, AppBuilder, etc)~~
 * ~~Redo coloring on OZP website~~
 * ~~Unify page title language (currently "OZP Webtop", "Ozone HUD", and "Center")~~
+* ~~Support metrics requirements checklist visualization~~
 * Continue modifications of Center and HUD interface styling
 * Customize error messages
 * Support user documentation development
-* ~~Support metrics requirements checklist visualization~~
 
 
 ## Roadblocks
