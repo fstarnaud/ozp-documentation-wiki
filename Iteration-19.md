@@ -72,6 +72,9 @@ Minimal delivered set of features
 ### UI/UX
 * Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
 * Provide support for platform UI bugs and inconsistencies
+* Style new features as they are implemented
+* Ensure that all priority tasks have workflow diagrams
+* Work on the AppsMall Cookbook Supplement for developers
 
 ## Roadblocks
 * Font Icons?
