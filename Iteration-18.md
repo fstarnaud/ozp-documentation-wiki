@@ -56,10 +56,10 @@ Iteration 18 is a user guide update iteration. As well as a performance enhancem
 
 
 ### Metrics
-* Connect HUD App launches to Piwik
-* Work with deployment team to get Metrics deployed to production environment
-* Add user permissions to HUD piwik site
-* Add banners
+* ~~Connect HUD App launches to Piwik~~
+* ~~Work with deployment team to get Metrics deployed to production environment~~
+* ~~Add user permissions to HUD piwik site~~
+* ~~Add banners~~
 
 ### UI/UX
 * ~~Continue Iterations on Help feature~~
