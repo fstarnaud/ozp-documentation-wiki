@@ -23,10 +23,13 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* TODO
+* Add more unit tests
+* Cleanup with some bug fixes
 
 ### Backend
-* TODO
+* Complete performance improvements for the loading of the Search and Discovery page (limiting unnecessary calls)
+* Separate cereteEdut/index.jsx into separate files
+* Legacy REST Calls
 
 ### Webtop
 * TODO
