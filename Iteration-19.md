@@ -67,7 +67,7 @@ Minimal delivered set of features
 * Documentation
 
 ### Metrics
-* TODO
+* Update to piwik 2.11.1
 
 ### UI/UX
 * Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
