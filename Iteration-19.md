@@ -54,10 +54,14 @@ Minimal delivered set of features
 * TODO
 
 ### IWC
-* TODO
+0.2 has been released. 0.3 will be a hardening release.
+* Endpoint loading enhancements to reduce HTTP requests.
+* Further standardizing the debugger.
+* IE Support.
+* IWC user guide updates (`/docs`) Current version covers setup, overview, getting started, API overview, and Data api. System, Names, Intents API guides are next
 
 ### Legacy Widget Adapter
-* TODO
+* Documentation
 
 ### Metrics
 * TODO
