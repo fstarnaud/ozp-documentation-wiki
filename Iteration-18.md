@@ -23,15 +23,17 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* QA Notifications front end
-* Update Search and Discovery Page for UI enhancements
-* Update the Create/Edit Page for UI enhancements
-* Update Marketplace Management pages for consistent system icons
-* Error modal for the logging in of Center
+* ~~QA Notifications front end~~
+* ~~Update Search and Discovery Page for UI enhancements~~ (QA and styling still to be completed)
+* ~~Update the Create/Edit Page for UI enhancements~~ (QA still to be completed)
+* ~~Update Marketplace Management pages for consistent system icons~~
+* ~~Error modal for the logging in of Center~~
 
 ### Backend
 * Add HAL links for Notifications
-* Implement profile search call
+* ~~Implement profile search call~~
+* Started work on performance of Search and Discovery page
+* ~~Researched needed service calls for legacy widgets~~
 
 ### Webtop
 * Re-add ability to open a new widget in webtop via a URL as per [#394](https://github.com/ozone-development/ozp-webtop/issues/394) **note limitations of this approach!**
