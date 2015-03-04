@@ -57,7 +57,7 @@ Minimal delivered set of features
 * Further testing in preparation for real deployment [#382](https://github.com/ozone-development/ozp-webtop/issues/382)
 * Fix dead links in top toolbar (settings, help, & profile modals, other dead links point to appropriate pages) [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
 * Handle unbookmarking of dashboard app [#411](https://github.com/ozone-development/ozp-webtop/issues/411)
-* Various Bug/Style fixes [#451](https://github.com/ozone-development/ozp-webtop/issues/451), [#455](https://github.com/ozone-development/ozp-webtop/issues/455)
+* Various Bug/Style fixes [#451](https://github.com/ozone-development/ozp-webtop/issues/451), [#455](https://github.com/ozone-development/ozp-webtop/issues/455), [#390](https://github.com/ozone-development/ozp-webtop/issues/390), more...
 
 ### IWC
 0.2 has been released. 0.3 will be a hardening release.
