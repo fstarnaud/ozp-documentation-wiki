@@ -45,6 +45,5 @@ Minimal delivered set of features
 
 ## Roadblocks
 * User Research Survey
-* Launch a Widget into a Webtop from the HUD need feedback from Product Owner
 
 ***
