@@ -73,6 +73,7 @@ Minimal delivered set of features
 * Update to piwik 2.11.1
 
 ### UI/UX
+* Provide SVG resources, styling and support for replacing icon font
 * Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
 * Provide support for platform UI bugs and inconsistencies
 * Style new features as they are implemented
