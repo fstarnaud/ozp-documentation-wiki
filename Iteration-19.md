@@ -25,13 +25,13 @@ TRR Feedback:
 ### Next Milestones:
 OWF7 Adapter
 <br>26 Feb 2015 - TRR
-<br>26 March 2015 - ATO
-<br>2 April 2015 - ORR
-<br>16 April 2015 - IOB
+<br>   March 2015 - ATO
+<br>27 May 2015 - ORR
+<br>11 June 2015 - IOB
 
 Minimal delivered set of features
 * ~~PKI Login~~
-* Application data migration script from 7.16 store
+* ~~Application data migration script from 7.16 store~~
 * Deployment package for OZP
 * ~~IOB Features for Center/HUD, Webtop, Backend, IWC, Metrics~~
 * ~~Working Backend~~
