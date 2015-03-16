@@ -14,6 +14,7 @@ Goals:
 * OWF 7 Adapter with documentation
 * Implement Gitflow
 * DI2E Build Server (remove dependencies on owfgoss infrastructure)
+* Performance test for Backend
 ***
 ## Iteration Goals:
 ### Center/HUD
