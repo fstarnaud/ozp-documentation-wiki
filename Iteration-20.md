@@ -36,7 +36,9 @@ Goals:
 * Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app
 
 ### UI/UX
-* 
+* Remove as much Webtop CSS overrides as possible
+* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
+* Provide support for platform UI bugs and inconsistencies
 
 ## Roadblocks
 * Bouncing Balls demo in IE - need some new IWC-enabled demo apps
