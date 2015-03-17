@@ -77,6 +77,7 @@ Minimal delivered set of features
 * ~~Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)~~
 * ~~Provide support for platform UI bugs and inconsistencies~~
 * ~~Style new features as they are implemented~~
+* ~~Update ozone demo page coloring to match ozone website~~
 * Ensure that all priority tasks have workflow diagrams
 * Work on the AppsMall Cookbook Supplement for developers
 
