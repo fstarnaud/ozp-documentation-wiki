@@ -73,15 +73,15 @@ Minimal delivered set of features
 * Update to piwik 2.11.1
 
 ### UI/UX
-* Provide SVG resources, styling and support for replacing icon font
-* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
-* Provide support for platform UI bugs and inconsistencies
-* Style new features as they are implemented
+* ~~Provide SVG resources, styling and support for replacing icon font~~
+* ~~Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)~~
+* ~~Provide support for platform UI bugs and inconsistencies~~
+* ~~Style new features as they are implemented~~
 * Ensure that all priority tasks have workflow diagrams
 * Work on the AppsMall Cookbook Supplement for developers
 
 ## Roadblocks
-* Font Icons?
+* ~~Font Icons?~~
 * Bouncing Balls demo in IE - need some new IWC-enabled demo apps
 * User Research Survey
 
