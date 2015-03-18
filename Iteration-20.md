@@ -21,7 +21,7 @@ Goals:
 
 ### Center/HUD
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
-* Merge `temp-master` with `master` and begin switching to GitFlow structure.
+* Merge `temp-master` with `master` to begin switching to GitFlow structure. (after TRR)
 * Normalize / Automate generation of Shrinkwrap file. 
 
 ### Backend
