@@ -29,7 +29,7 @@ Goals:
 * Work on performance scripts (update gatling scripts used for legacy version)
 
 ### Webtop
-* 
+* Hide metrics link unless user is an app mall steward or content steward
 
 ### IWC
 * 
