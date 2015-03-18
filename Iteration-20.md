@@ -33,7 +33,7 @@ Goals:
 
 ### Webtop
 * Hide metrics link unless user is an app mall admin
-* Lots of dead links in the top toolbar
+* Lots of dead links in the top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
 * Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
 * Handle closing IWC widgets (deregister)
 
