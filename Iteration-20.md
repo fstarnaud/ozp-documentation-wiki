@@ -59,7 +59,6 @@ Current build v0.2.4
 * Provide support for platform UI bugs and inconsistencies
 
 ## Roadblocks
-* Bouncing Balls demo in IE - need some new IWC-enabled demo apps
-* User Research Survey
+* IWC Documentation for Legacy Adapter and Rest Endpoints
 
 ***
