@@ -51,6 +51,7 @@ Current build v0.2.4
 
 ### Metrics
 * Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app
+* Implement groups in GP cache
 
 ### UI/UX
 * Remove as much Webtop CSS overrides as possible
