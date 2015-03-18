@@ -70,7 +70,7 @@ Minimal delivered set of features
 * Documentation
 
 ### Metrics
-* Update to piwik 2.11.1
+* ~~Update to piwik 2.11.1~~
 
 ### UI/UX
 * ~~Provide SVG resources, styling and support for replacing icon font~~
