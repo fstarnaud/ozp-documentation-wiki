@@ -42,15 +42,15 @@ Minimal delivered set of features
 
 ## Iteration Goals:
 ### Center/HUD
-* Validate and fix IE bugs found during TRR.
+* ~~Validate and fix IE bugs found during TRR.~~
 * Add more unit tests
-* Separate cereteEdit/index.jsx into separate files
-* Styling for type and org dropdowns
+* Separate creteEdit/index.jsx into separate files
+* ~~Styling for type and org dropdowns~~
 * Move action controller calls to services.
-* Cleanup with some bug fixes
+* ~~Cleanup with some bug fixes~~
 
 ### Backend
-* Complete performance improvements for the loading of the Search and Discovery page (limiting unnecessary calls)
+* ~~Complete performance improvements for the loading of the Search and Discovery page (limiting unnecessary calls)~~
 * Legacy REST Calls
 
 ### Webtop
