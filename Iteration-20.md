@@ -31,6 +31,8 @@ Goals:
 ### Webtop
 * Hide metrics link unless user is an app mall steward or content steward
 * Lots of dead links in the top toolbar
+* Widget resize is flaky at best in both Grid and Desktop layouts (IE9)
+* Handle closing IWC widgets (deregister)
 
 ### IWC
 * 
