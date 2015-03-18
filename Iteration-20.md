@@ -35,7 +35,7 @@ Goals:
 * Hide metrics link unless user is an app mall admin [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * Lots of dead links in the top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
 * Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
-* Handle closing IWC widgets (deregister)
+* Handle closing IWC widgets (deregister) [#497](https://github.com/ozone-development/ozp-webtop/issues/497)
 
 ### IWC
 Current build v0.2.4
