@@ -4,7 +4,7 @@ The continuous effort to unite the entire community on a single computing platfo
 ### Goals For OZONE Platform:
 * Software as a Service
 * Modified Front End HTML5 CSS3
-* Scalable Elastic infrastructure
+* Scalable infrastructure
 
 
 ### Links to Information:
