@@ -58,6 +58,7 @@ Minimal delivered set of features
 * Fix dead links in top toolbar (settings, help, & profile modals, other dead links point to appropriate pages) [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
 * ~~Handle unbookmarking of dashboard app [#411](https://github.com/ozone-development/ozp-webtop/issues/411)~~
 * ~~Handle url redirect when user goes to webtop base url [#461](https://github.com/ozone-development/ozp-webtop/issues/461)~~
+* ~~Switch out fontawesome icons for custom icons.~~
 * ~~Various Bug/Style fixes [#451](https://github.com/ozone-development/ozp-webtop/issues/451), [#455](https://github.com/ozone-development/ozp-webtop/issues/455),~~ [#390](https://github.com/ozone-development/ozp-webtop/issues/390),~~[#478](https://github.com/ozone-development/ozp-webtop/issues/478)~~, more...
 
 ### IWC
