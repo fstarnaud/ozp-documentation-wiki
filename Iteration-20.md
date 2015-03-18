@@ -38,7 +38,13 @@ Goals:
 * Handle closing IWC widgets (deregister)
 
 ### IWC
-* 
+Current build v0.2.4
+* locks.api + enhanced elections
+* api refactor (internal modules not user functionality)
+* Endpoint loading enhancements to reduce HTTP requests.
+* Add karma-runnter to build scripts & Travis CI
+* Further Debugger standardizing.
+* IWC user guide updates (`/docs`) Current version covers setup, overview, getting started, API overview, and Data api. System, Names, Intents API guides are next
 
 ### Legacy Widget Adapter
 * Documentation
