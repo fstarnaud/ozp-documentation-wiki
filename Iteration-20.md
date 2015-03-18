@@ -23,9 +23,10 @@ Goals:
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
 * Merge `temp-master` with `master` to begin switching to GitFlow structure. (after TRR)
 * Normalize / Automate generation of Shrinkwrap file. 
+* Fix bugs
 
 ### Backend
-* 
+* Work on performance scripts (update gatling scripts used for legacy version)
 
 ### Webtop
 * 
