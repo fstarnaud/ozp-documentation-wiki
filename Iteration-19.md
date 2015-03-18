@@ -83,7 +83,7 @@ Minimal delivered set of features
 
 ## Roadblocks
 * ~~Font Icons?~~
-* Bouncing Balls demo in IE - need some new IWC-enabled demo apps
+* ~~Bouncing Balls demo in IE - need some new IWC-enabled demo apps~~
 * User Research Survey
 
 ***
