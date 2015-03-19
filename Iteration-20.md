@@ -13,10 +13,10 @@ Goals:
 * Deployment and development packages for OZP with documentation
 * OWF 7 Adapter with documentation
 * Implement Gitflow (everyone read this: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
-* DI2E Build Server (remove dependencies on owfgoss infrastructure)
-  * DI2E Jenkins instance
-  * DI2E VMs for builds (CentOS)
-  * DI2E VMs for deployment (will be behind a VPN)
+* Build Server (remove dependencies on owfgoss infrastructure)
+  * Jenkins instance
+  * VMs for builds (CentOS)
+  * VMs for deployment (will be behind a VPN)
 * Performance test for Backend
 ***
 
