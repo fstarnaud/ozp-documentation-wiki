@@ -3,7 +3,6 @@
 *** 
 ### Next Milestones:
 OWF7 Adapter
-<br>   March 2015 - ATO
 <br> 12 May 2015 - App Data transistion
 <br>27 May 2015 - ORR
 <br>11 June 2015 - IOB
