@@ -20,8 +20,8 @@ OWF7 Adapter
 ***
 
 ### NC 
-* Work on performance scripts (update gatling scripts used for legacy version)
-* Documenation:
+* Performance scripts 
+* Documentation:
   * Users Guide
   * Developers Guide
   * Deployment Guide
