@@ -1,4 +1,4 @@
-# Iteration 21 (1 April 2015 - April)
+# Iteration 21 (1 April 2015 - 15 April 2015)
 
 *** 
 ### Next Milestones:
@@ -25,11 +25,12 @@ OWF7 Adapter
   * Users Guide
   * Developers Guide
   * Deployment Guide
-* Fix Bugs
+* Testing
+* Continue to Fix Bugs
 
 ### Center/HUD/Backend
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
-* Fix bugs
+* Continue to Fix Bugs
 
 
 
@@ -38,9 +39,9 @@ OWF7 Adapter
 * Lots of dead links in the top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
 * Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
 * Handle closing IWC widgets (deregister) [#497](https://github.com/ozone-development/ozp-webtop/issues/497)
+* Continue to Fix Bugs
 
 ### IWC
-Current build v0.2.4
 * 
 
 ### Metrics
