@@ -42,7 +42,6 @@ Production Deployment Repos
 
 
 * [ozoneplatform-users](https://groups.google.com/forum/#!forum/ozoneplatform-users) - For users, system administrators, App Component ("widget") developers.
-* [ozoneplatform-dev](https://groups.google.com/forum/#!forum/ozoneplatform-dev) - For developers interested in contributing to the platform. A good place for public design discussions and planning.
 * [ozoneplatform-announce](https://groups.google.com/forum/#!forum/ozoneplatform-announce) - Announcements from the OZONE project.
   * Direct links to these Groups can also be found [here](https://owfgoss.org/support.html).
 
