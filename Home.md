@@ -10,6 +10,8 @@ The continuous effort to unite the entire community on a single computing platfo
 ### Links to Information:
 * Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iterations
 * Development Guidelines https://github.com/ozone-development/ozp-documentation/blob/master/README.md
+* IWC Docs - https://github.com/ozone-development/ozp-iwc/tree/master/docs/iwc_guide
+* IWC Legacy Adapter - https://github.com/ozone-development/ozp-iwc-owf7-widget-adapter 
 
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
@@ -29,11 +31,10 @@ The continuous effort to unite the entire community on a single computing platfo
 * Ozone Development: https://github.com/ozone-development
 * Weptop: ozp-webtop https://github.com/ozone-development/ozp-webtop
 * IWC Code:  https://github.com/ozone-development/ozp-iwc
-* Center: https://github.com/ozone-development/center-ui
+* Center: https://github.com/ozone-development/ozp-center
 
 Production Deployment Repos
 * OZONE Platform - https://github.com/ozoneplatform
-
 * Demo Site - http://ozone-development.github.io/
 
 ### OZONE Support ###
