@@ -37,7 +37,7 @@ OWF7 Adapter
 ### Webtop
 * Hide metrics link unless user is an app mall admin [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * Frames can get 'stuck' to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
-* Disappearing words on mouse over [#484](https://github.com/ozone-development/ozp-webtop/issues/484)
+* New dashboard name requires refresh [#504](https://github.com/ozone-development/ozp-webtop/issues/504)
 * Continue to Fix Bugs
 
 ### IWC
