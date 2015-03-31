@@ -53,9 +53,9 @@ Current build v0.2.4
 * Implement groups in GP cache
 
 ### UI/UX
-* Remove as much Webtop CSS overrides as possible
-* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
-* Provide support for platform UI bugs and inconsistencies
+~~* Remove as much Webtop CSS overrides as possible~~
+~~* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)`~~
+~~* Provide support for platform UI bugs and inconsistencies`~~
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
