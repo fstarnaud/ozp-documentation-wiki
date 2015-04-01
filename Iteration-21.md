@@ -35,6 +35,7 @@ OWF7 Adapter
 
 ### Webtop
 * Hide metrics link unless user is an app mall admin [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
+* Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
 * Frames can get 'stuck' to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * New dashboard name requires refresh [#504](https://github.com/ozone-development/ozp-webtop/issues/504)
 * Continue to Fix Bugs
