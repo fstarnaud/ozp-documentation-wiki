@@ -26,7 +26,10 @@ OWF7 Adapter
 
 ### Center/HUD/Backend
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
-* Continue to Fix Bugs
+* Users can bookmark their own draft submission [#160](https://github.com/ozone-development/ozp-center/issues/164)
+* Update main page to show user's newly submitted rating [#145](https://github.com/ozone-development/ozp-center/issues/160)
+* Notifications Menu - Closes when any notification is dismissed [#62](https://github.com/ozone-development/ozp-center/issues/62)
+* Small browser screen resolution makes some icons inaccessible [#164](https://github.com/ozone-development/ozp-center/issues/164)
 
 
 
