@@ -47,6 +47,7 @@ OWF7 Adapter
 ### Metrics
 * Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app
 * Implement groups in GP cache
+* Look at Metrics setup on Prod
 
 ### UI/UX
 * Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
