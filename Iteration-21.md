@@ -13,14 +13,10 @@ OWF7 Adapter
 * OWF 7 Adapter with documentation
 * Implement Gitflow (everyone read this: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
 * Build Server (remove dependencies on owfgoss infrastructure)
-  * Jenkins instance
-  * VMs for builds (CentOS)
-  * VMs for deployment (will be behind a VPN)
-* Performance test for Backend
 ***
 
 ### NC 
-* Performance scripts 
+* Performance test for Backend
 * Documentation:
   * Users Guide
   * Developers Guide
