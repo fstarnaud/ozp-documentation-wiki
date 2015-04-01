@@ -23,12 +23,12 @@ Goals:
 
 ### Center/HUD
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
-* Merge `temp-master` with `master` to begin switching to GitFlow structure. (after TRR)
-* Normalize / Automate generation of Shrinkwrap file. 
-* Fix bugs
+* ~~Merge `temp-master` with `master` to begin switching to GitFlow structure. (after TRR)~~ - Now in the Develop Branch
+* ~~Normalize / Automate generation of Shrinkwrap file. ~~ Shrinkwrap has been removed for the time being
+* Fix bugs - This is continuing on to the next iteration
 
 ### Backend
-* Work on performance scripts (update gatling scripts used for legacy version)
+* Work on performance scripts (update gatling scripts used for legacy version) - Scripts have been updated to work with the new system but still require fine tuning and need to be run.
 
 ### Webtop
 * Hide metrics link unless user is an app mall admin [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
