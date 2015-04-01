@@ -37,7 +37,8 @@ OWF7 Adapter
 * Continue to Fix Bugs
 
 ### IWC
-* 
+* Legacy Adapter IOB Features
+* Continue to Fix Bugs
 
 ### Metrics
 * Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app
