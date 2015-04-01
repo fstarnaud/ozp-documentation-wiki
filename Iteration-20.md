@@ -25,13 +25,13 @@ Goals:
 * Investigate providing app submitters instructions on how to allow OZP collect metrics on their app 
 * ~~Merge `temp-master` with `master` to begin switching to GitFlow structure. (after TRR)~~ - Now in the Develop Branch
 * ~~Normalize / Automate generation of Shrinkwrap file.~~ Shrinkwrap has been removed for the time being
-* ~~bugs~~
-* Text Input/Dropdown combos need to save input on click outside/in other boxes
- [#141](https://github.com/ozone-development/ozp-center/issues/141)
-* Tag issues - Not adding warning class when over 16 chars, not allowing spaces
- [#124](https://github.com/ozone-development/ozp-center/issues/124)
-* Update main page to show user's newly submitted rating
- [#145](https://github.com/ozone-development/ozp-center/issues/145)
+* ~~Text Input/Dropdown combos need to save input on click outside/in other boxes
+ [#141](https://github.com/ozone-development/ozp-center/issues/141)~~
+* ~~Tag issues - Not adding warning class when over 16 chars, not allowing spaces
+ [#124](https://github.com/ozone-development/ozp-center/issues/124)~~
+* ~~Update main page to show user's newly submitted rating
+ [#145](https://github.com/ozone-development/ozp-center/issues/145)~~
+* ~~misc. bugs~~
 
 ### Backend
 * Work on performance scripts (update gatling scripts used for legacy version) - Scripts have been updated to work with the new system but still require fine tuning and need to be run.
