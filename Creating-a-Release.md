@@ -4,8 +4,8 @@ Prep:
 
 1. `git pull` on both `master` and `develop`
 2. make sure there are no commits on master that are not also on develop: `git log origin/develop..origin/master
-2a. If there are, `git checkout develop; git merge master --no-ff; git push;`
-3. Review the commits to be added to master: `git log origin/master..origin/develop`
+3. If there are, `git checkout develop; git merge master --no-ff; git push;`
+4. Review the commits to be added to master: `git log origin/master..origin/develop`
 
 Release:
 
