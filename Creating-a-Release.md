@@ -10,9 +10,9 @@ Prep:
 Release:
 
 1. merge develop into master `git checkout master; git merge develop;`
-2. bump the version number in `package.json` and `bower.json` (or `application.properties` in `ozp-rest`). Be sure to append `-rc` (release candidate) to the end of the version number. i.e. `0.7.3-rc`. The `rc` will be removed after full testing has been completed
+2. bump the version number in `package.json` and `bower.json` (or `application.properties` in `ozp-rest`). Be sure to append `-rc` (release candidate) to the end of the version number. i.e. `1.2.3-rc`. The `rc` will be removed after full testing has been completed
 3. generate the changelog (usually `grunt changelog` or `gulp changelog`)
-4. commit the release `git commit -am "release-vX.Y.Z-rc"`
-5. tag the release `git tag -a vX.Y.Z-rc -m "vX.Y.Z-rc"`
+4. commit the release `git commit -am "release-v1.2.3-rc"`
+5. tag the release `git tag -a v1.2.3-rc -m "v1.2.3-rc"`
 6. `git push --follow-tags`
 7. update gh-pages (maybe)
