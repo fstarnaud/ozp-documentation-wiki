@@ -9,10 +9,10 @@ OWF7 Adapter
 
 ## Iteration Goals:
 * Continue to work off Bugs
-* Deployment and development packages for OZP with documentation
+* ~~Deployment and development packages for OZP with documentation~~
 * OWF 7 Adapter with documentation
-* Implement Gitflow (everyone read this: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
-* Build Server (remove dependencies on owfgoss infrastructure)
+* ~~Implement Gitflow (everyone read this: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)~~
+* ~~Build Server (remove dependencies on owfgoss infrastructure)~~
 ***
 
 ### NC 
