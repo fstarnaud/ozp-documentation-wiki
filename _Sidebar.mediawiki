@@ -20,5 +20,3 @@
 ** [[Iteration 12]]
 ** [[Iteration 11]]
 ** [[Iteration 10]]
-
-** [[Iteration 1]]
