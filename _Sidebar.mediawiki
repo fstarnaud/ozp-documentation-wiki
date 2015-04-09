@@ -1,6 +1,6 @@
 ====[[Home]]====
 * [[OZONE Info]]
-** [[OZP Platform Vision]]
+** [[OZONE Platform Vision]]
 ** [[OZP Backlog]]
 ** [[Taxonomy]]
 ** [[Workflows]]
