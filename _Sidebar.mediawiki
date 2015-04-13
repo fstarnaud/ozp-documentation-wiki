@@ -4,7 +4,6 @@
 ** [[OZP Backlog]]
 ** [[Taxonomy]]
 ** [[Workflows]]
-** [[Prototype]]
 * [[Processes]]
 ** [[Dev Process]]
 ** [[Deployment]]
