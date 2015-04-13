@@ -2,9 +2,7 @@
 
 *** 
 ### Next Milestones:
-OWF7 Adapter
-OZP Rest to include OWF7 Adapter calls
-<br> 12 May 2015 - App Data transition
+12 May 2015 - App Data transition
 <br>27 May 2015 - ORR
 <br>11 June 2015 - IOB
 
