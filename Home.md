@@ -5,6 +5,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * Software as a Service
 * Modified Front End HTML5 CSS3
 * Scalable infrastructure
+* Search and discovery of Apps
 
 
 ### Links to Information:
