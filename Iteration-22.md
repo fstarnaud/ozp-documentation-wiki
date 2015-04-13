@@ -10,7 +10,7 @@ OZP Rest to include OWF7 Adapter calls
 
 ## Iteration Goals:
 * Continue to work off Bugs
-* OWF 7 Adapter with documentation
+* OWF 7 Adapter
 
 
 ### NC 
