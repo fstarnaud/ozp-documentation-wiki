@@ -58,6 +58,7 @@ OWF7 Adapter
 * ~~Discuss possibilities for Center search and discovery~~
 * ~~Continue development support and fixing styling issues~~
 * ~~Provide mockup for dev metrics setup modal when submitting an app~~
+* ~~Design process diagram graphic~~
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
