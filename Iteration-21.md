@@ -41,6 +41,7 @@ OWF7 Adapter
 * Frames can get 'stuck' to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * ~~New dashboard name requires refresh [#504](https://github.com/ozone-development/ozp-webtop/issues/504)~~
 * ~~iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390)~~
+* ~~Make API_URL the same in webtop's OzoneConfig as in Center and HUD [#515](https://github.com/ozone-development/ozp-webtop/issues/515)~~
 * Continue to Fix Bugs
 
 ### IWC
