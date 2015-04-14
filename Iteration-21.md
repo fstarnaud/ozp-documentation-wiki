@@ -52,8 +52,8 @@ OWF7 Adapter
 * Look at Metrics setup on Prod
 
 ### UI/UX
-* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
-* Continue development support and fixing styling issues
+* ~~Discuss possibilities for Center search and discovery~~
+* ~~Continue development support and fixing styling issues~~
 * ~~Provide mockup for dev metrics setup modal when submitting an app~~
 
 ## Roadblocks
