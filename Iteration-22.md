@@ -29,6 +29,10 @@
 * Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 
+#### OZP-HUD
+* HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64)
+* Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77)
+
 #### OZP-WEBTOP
 * Open bookmarked apps modal - Find more apps hardcoded to github [#517](https://github.com/ozone-development/ozp-webtop/issues/517)
 * "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)
