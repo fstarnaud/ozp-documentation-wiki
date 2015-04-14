@@ -40,6 +40,7 @@ OWF7 Adapter
 * Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
 * Frames can get 'stuck' to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * ~~New dashboard name requires refresh [#504](https://github.com/ozone-development/ozp-webtop/issues/504)~~
+* ~~iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390)~~
 * Continue to Fix Bugs
 
 ### IWC
