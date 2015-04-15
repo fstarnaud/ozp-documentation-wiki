@@ -43,7 +43,6 @@ OWF7 Adapter
 * ~~New dashboard name requires refresh [#504](https://github.com/ozone-development/ozp-webtop/issues/504)~~
 * ~~iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390)~~
 * ~~Make API_URL the same in webtop's OzoneConfig as in Center and HUD [#515](https://github.com/ozone-development/ozp-webtop/issues/515)~~
-* Continue to Fix Bugs
 
 ### IWC
 * Legacy Adapter IOB Features
