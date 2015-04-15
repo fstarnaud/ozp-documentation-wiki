@@ -62,8 +62,14 @@
   * Deployment Guide
 * Testing
 
-### Center/HUD/Backend
+### Center/HUD
 * Continue to Fix Bugs
+
+### Backend
+* create owf7 VM running RB for testing and validation purposes (also required for IWC legacy adapter work)
+* Legacy REST endpoints (first couple, maybe?) [#41](https://github.com/ozone-development/ozp-rest/issues/41) 
+* Add portion marking to URL [#60](https://github.com/ozone-development/ozp-rest/issues/60)
+* Add portion marking to images [#61](https://github.com/ozone-development/ozp-rest/issues/61)
 
 ### Webtop
 * Continue to Fix Bugs
