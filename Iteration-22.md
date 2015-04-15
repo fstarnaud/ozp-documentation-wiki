@@ -25,7 +25,6 @@
 * Listing URLs with spaces cause problems [#176](https://github.com/ozone-development/ozp-center/issues/176)
 * Detailed View - Descriptions not showing carriage returns [#139](https://github.com/ozone-development/ozp-center/issues/139)
 * Global Toolbar - Shrinking windows pushes icons out of sight [#164](https://github.com/ozone-development/ozp-center/issues/164)
-* Global Toolbar - Add configurable feedback link [#158](https://github.com/ozone-development/ozp-center/issues/158)
 * Search & Discovery - Show a specific message if search returns no results [#147](https://github.com/ozone-development/ozp-center/issues/147)
 * Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)
@@ -34,6 +33,7 @@
 * Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
 * Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
+* Listing Intermittently doesn't save [#196](https://github.com/ozone-development/ozp-center/issues/196)
 
 #### OZP-HUD
 * HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64)
@@ -47,7 +47,6 @@
 * Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
-* Listing intermittently doesn't save [#485](https://github.com/ozone-development/ozp-webtop/issues/485)
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
 
 
