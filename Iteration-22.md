@@ -24,7 +24,7 @@
 * Recent Activity - Change to screenshot not in list [#179](https://github.com/ozone-development/ozp-center/issues/179)
 * Listing URLs with spaces cause problems [#176](https://github.com/ozone-development/ozp-center/issues/176)
 * Detailed View - Descriptions not showing carriage returns [#139](https://github.com/ozone-development/ozp-center/issues/139)
-* Global Toolbar - Shrinking windows pushes icons out of sight [#164](https://github.com/ozone-development/ozp-center/issues/164)
+~~* Global Toolbar - Shrinking windows pushes icons out of sight [#164](https://github.com/ozone-development/ozp-center/issues/164)~~
 * Search & Discovery - Show a specific message if search returns no results [#147](https://github.com/ozone-development/ozp-center/issues/147)
 * Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)
