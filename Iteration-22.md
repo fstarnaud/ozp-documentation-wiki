@@ -48,6 +48,7 @@
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
+* Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
 
 
 ***
