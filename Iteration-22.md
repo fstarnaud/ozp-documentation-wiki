@@ -60,6 +60,7 @@
   * Users Guide
   * Developers Guide
   * Deployment Guide
+* Help implementing legacy REST endpoints in backend
 * Testing
 
 ### Center/HUD
