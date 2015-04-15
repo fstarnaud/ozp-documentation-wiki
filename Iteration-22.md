@@ -64,7 +64,7 @@
 
 ### Center/HUD
 * Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
-~~Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)~~
+* ~~Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)~~
 * Create/Edit - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
 * Create/Edit Page - Need duplicate name error message [#156](https://github.com/ozone-development/ozp-center/issues/156)
 * Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
