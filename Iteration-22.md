@@ -6,6 +6,9 @@
 <br>27 May 2015 - ORR
 <br>11 June 2015 - IOB
 
+## Iteration Goals:
+* Continue to work off Bugs for IOB
+* OWF 7 Adapter
 ### Open IOB Issues
 
 #### OZP-REST
@@ -45,10 +48,6 @@
 * IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
 * Listing intermittently doesn't save [#485](https://github.com/ozone-development/ozp-webtop/issues/485)
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
-
-## Iteration Goals:
-* Continue to work off Bugs
-* OWF 7 Adapter
 
 
 ### NC 
