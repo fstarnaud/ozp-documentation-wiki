@@ -41,13 +41,9 @@
 
 #### OZP-WEBTOP
 * Open bookmarked apps modal - Find more apps hardcoded to github [#517](https://github.com/ozone-development/ozp-webtop/issues/517)
-* "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)
-* Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * Dead links in top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
-* Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
-* Listing intermittently doesn't save [#485](https://github.com/ozone-development/ozp-webtop/issues/485)
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
 
 
