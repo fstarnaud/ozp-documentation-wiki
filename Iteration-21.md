@@ -29,7 +29,7 @@ OWF7 Adapter
 * ~~Users can bookmark their own draft submission [#160](https://github.com/ozone-development/ozp-center/issues/160)~~
 * ~~Update main page to show user's newly submitted rating [#145](https://github.com/ozone-development/ozp-center/issues/145)~~
 * ~~Notifications Menu - Closes when any notification is dismissed [#62](https://github.com/ozone-development/ozp-center/issues/62)~~
-* Small browser screen resolution makes some icons inaccessible [#164](https://github.com/ozone-development/ozp-center/issues/164)
+* ~~Small browser screen resolution makes some icons inaccessible [#164](https://github.com/ozone-development/ozp-center/issues/164)~~
 * ~~Detailed View - resources are not showing up on the resources tab [#149](https://github.com/ozone-development/ozp-center/issues/149)~~
 * ~~Fixing issue with tags in the createEdit view [#123](https://github.com/ozone-development/ozp-center/issues/123)~~
 * ~~Listing management scroll bar [#167](https://github.com/ozone-development/ozp-center/issues/167)~~
