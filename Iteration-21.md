@@ -50,9 +50,8 @@ OWF7 Adapter
 * Continue to Fix Bugs
 
 ### Metrics
-* Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app
-* Implement groups in GP cache
-* Look at Metrics setup on Prod
+* ~~Investigate allowing app owners/submitters creating a project in our metrics to allow metrics be collected on their app~~
+* ~~Look at Metrics setup on Prod~~
 
 ### UI/UX
 * ~~Discuss possibilities for Center search and discovery~~
