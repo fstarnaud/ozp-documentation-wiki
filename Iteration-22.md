@@ -40,7 +40,7 @@
 * ~~Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77)~~
 
 #### OZP-WEBTOP
-* Open bookmarked apps modal - Find more apps hardcoded to github [#517](https://github.com/ozone-development/ozp-webtop/issues/517)
+* ~~Open bookmarked apps modal - Find more apps hardcoded to github [#517](https://github.com/ozone-development/ozp-webtop/issues/517)~~
 * "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)
 * Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * Dead links in top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
