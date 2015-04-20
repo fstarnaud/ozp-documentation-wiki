@@ -19,8 +19,8 @@
 
 #### OZP-CENTER
 * ~~Global Toolbar - Add configurable feedback link [#158](https://github.com/ozone-development/ozp-center/issues/158)~~
-* Listing Management - "Pending Org" highlight [#183](https://github.com/ozone-development/ozp-center/issues/183)
-* Listing Management - Filters shown incorrectly [#152](https://github.com/ozone-development/ozp-center/issues/152)
+* ~~Listing Management - "Pending Org" highlight [#183](https://github.com/ozone-development/ozp-center/issues/183)~~
+* ~~Listing Management - Filters shown incorrectly [#152](https://github.com/ozone-development/ozp-center/issues/152)~~
 * Recent Activity - Change to screenshot not in list [#179](https://github.com/ozone-development/ozp-center/issues/179)
 * Listing URLs with spaces cause problems [#176](https://github.com/ozone-development/ozp-center/issues/176)
 * ~~Detailed View - Descriptions not showing carriage returns [#139](https://github.com/ozone-development/ozp-center/issues/139)~~
