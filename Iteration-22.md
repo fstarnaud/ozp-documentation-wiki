@@ -102,6 +102,6 @@
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
-* CI environment accounts for Testers
+* ~~CI environment accounts for Testers~~
 
 ***
