@@ -58,25 +58,11 @@
 * Testing
 
 ### Center/HUD
-* Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
-development/ozp-center/issues/155)~~
-* Create/Edit - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
-* Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
-* Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
-* Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
+
 
 ### Backend
-* create owf7 VM running RB for testing and validation purposes (also required for IWC legacy adapter work)
-* Legacy REST endpoints (first couple, maybe?) [#41](https://github.com/ozone-development/ozp-rest/issues/41) 
-* Add portion marking to URL [#60](https://github.com/ozone-development/ozp-rest/issues/60)
-* Add portion marking to images [#61](https://github.com/ozone-development/ozp-rest/issues/61)
 
 ### Webtop
-* Open bookmarked apps modal - Find more apps hardcoded to github [#517](https://github.com/ozone-development/ozp-webtop/issues/517)
-* Dead links in top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)
-* Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
-* IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
-* Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
 
 ### IWC
 * Legacy Adapter IOB Features
@@ -92,6 +78,5 @@ development/ozp-center/issues/155)~~
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
-* CI environment accounts for Testers
 
 ***
