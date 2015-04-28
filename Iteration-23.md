@@ -86,7 +86,7 @@
 * Test OWF7 App with legacy adapter 
 
 ### Metrics
-* Metrics permissions for App Owners
+* Continue implementation of metrics site creation for App Owners
 
 ### UI/UX
 * Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
