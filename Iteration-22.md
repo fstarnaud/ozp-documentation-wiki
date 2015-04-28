@@ -96,8 +96,7 @@
 * Metrics permissions for App Owners
 
 ### UI/UX
-* Continue discussions and mockups on future UIs (Help, Profile, Settings, AppBuilder, etc)
-* Continue development support and fixing styling issues
+* ~~Continue development support and fixing styling issues~~
 * Conduct Accessibility Status Check
 
 ## Roadblocks
