@@ -20,14 +20,15 @@
 
 #### OZP-CENTER
 ##### Open
-* Create/Edit - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
+* Create/Edit Page - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
 * Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)
 * Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 * Create/Edit Page - Listing Intermittently doesn't save [#196](https://github.com/ozone-development/ozp-center/issues/196) (Intermittent Issue)
-* Create / Edit Page - Unable to save Listing if only one Screenshot image (of 2) is added [#205] (https://github.com/ozone-development/ozp-center/issues/211)
+* Create/Edit Page - Unable to save Listing if only one Screenshot image (of 2) is added [#205] (https://github.com/ozone-development/ozp-center/issues/211)
 * Create/Edit Page - Encoded URLs should not change after edits [#222](https://github.com/ozone-development/ozp-center/issues/222)
+* Detailed View - URL length [#221](https://github.com/ozone-development/ozp-center/issues/221)
 * MP Settings - Add Portion Marking Admin Page [#198](https://github.com/ozone-development/ozp-center/issues/198)
 * Notifications - Created-At should show the date & time that the notification was created [#203](https://github.com/ozone-development/ozp-center/issues/203)
 * Recent Activity - Change to screenshot not in list [#179](https://github.com/ozone-development/ozp-center/issues/179) (Intermittent Issue)
