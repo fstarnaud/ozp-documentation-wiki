@@ -45,6 +45,8 @@
 #### OZP-HUD
 * HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64) (QA)
 * Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77) (QA)
+* Bookmarks - After removing listing(s) from a folder, scrollbar disappears [#81](https://github.com/ozone-development/ozp-hud/issues/81)
+* Bookmarks - If DB is down, HUD displays "no apps" [#78](https://github.com/ozone-development/ozp-hud/issues/78)
 
 
 #### OZP-WEBTOP
