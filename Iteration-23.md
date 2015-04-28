@@ -27,6 +27,7 @@
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 * Create/Edit Page - Listing Intermittently doesn't save [#196](https://github.com/ozone-development/ozp-center/issues/196) (Intermittent Issue)
 * Create/Edit Page - Unable to save Listing if only one Screenshot image (of 2) is added [#205] (https://github.com/ozone-development/ozp-center/issues/211)
+* Create/Edit Page - Errors display when fields are added [#220](https://github.com/ozone-development/ozp-center/issues/220)
 * Create/Edit Page - Encoded URLs should not change after edits [#222](https://github.com/ozone-development/ozp-center/issues/222)
 * Detailed View - URL length [#221](https://github.com/ozone-development/ozp-center/issues/221)
 * MP Settings - Add Portion Marking Admin Page [#198](https://github.com/ozone-development/ozp-center/issues/198)
