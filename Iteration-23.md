@@ -27,9 +27,13 @@
 * Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 * Listing Intermittently doesn't save [#196](https://github.com/ozone-development/ozp-center/issues/196) (Intermittent Issue)
-
+* Listing Management - Preview does not work if full description is empty [#213](https://github.com/ozone-development/ozp-center/issues/196) (QA)
+* OzoneConfig - Update the file to match Webtop & HUD [#211] (https://github.com/ozone-development/ozp-center/issues/211) (QA)
+* Create / Edit Page - Unable to save Listing if only one Screenshot image (of 2) is added [#205] (https://github.com/ozone-development/ozp-center/issues/211)
+* Create/Edit Page - Validation messages for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
 #### OZP-HUD
 * HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64) (QA)
+
 
 #### OZP-WEBTOP
 * "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)
