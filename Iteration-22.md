@@ -93,7 +93,7 @@
 * Test OWF7 App with legacy adapter 
 
 ### Metrics
-* Metrics permissions for App Owners
+* ~~Metrics permissions for App Owners~~
 
 ### UI/UX
 * ~~Continue development support and fixing styling issues~~
