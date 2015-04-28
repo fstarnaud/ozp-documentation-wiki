@@ -25,18 +25,18 @@
 * Listing URLs with spaces cause problems [#176](https://github.com/ozone-development/ozp-center/issues/176)
 * ~~Detailed View - Descriptions not showing carriage returns [#139](https://github.com/ozone-development/ozp-center/issues/139)~~
 * ~~Global Toolbar - Shrinking windows pushes icons out of sight [#164](https://github.com/ozone-development/ozp-center/issues/164)~~
-* Search & Discovery - Show a specific message if search returns no results [#147](https://github.com/ozone-development/ozp-center/issues/147)
+* ~~Search & Discovery - Show a specific message if search returns no results [#147](https://github.com/ozone-development/ozp-center/issues/147)~~
 * Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit Page - Navigation Tabs need to follow user [#155](https://github.com/ozone-development/ozp-center/issues/155)
 * Create/Edit - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
 * ~~Create/Edit Page - Need duplicate name error message [#156](https://github.com/ozone-development/ozp-center/issues/156)~~
-* Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
+* Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191) (QA)
 * Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 * Listing Intermittently doesn't save [#196](https://github.com/ozone-development/ozp-center/issues/196)
 
 #### OZP-HUD
-* HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64)
+* HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64) (QA)
 * ~~Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77)~~
 
 #### OZP-WEBTOP
