@@ -42,9 +42,9 @@
 * OzoneConfig - Update the file to match Webtop & HUD [#211] (https://github.com/ozone-development/ozp-center/issues/211)
 
 
-
 #### OZP-HUD
 * HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64) (QA)
+* Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77) (QA)
 
 
 #### OZP-WEBTOP
