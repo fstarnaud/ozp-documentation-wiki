@@ -52,15 +52,13 @@
 
 #### OZP-WEBTOP
 ##### Open
-* "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)
+* ~~"Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)~~
+* Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)
 * Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
-* IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
+* (IE9) - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
 * Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
-
-##### RESOLVED
-* Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)
 
 ##### QA
 * Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
@@ -86,6 +84,10 @@
 ### Backend
 
 ### Webtop
+* Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
+* IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
+* Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
+
 
 ### IWC
 * Legacy Adapter IOB Features
