@@ -46,7 +46,7 @@
 * ~~Dead links in top toolbar [#423](https://github.com/ozone-development/ozp-webtop/issues/423)~~
 * ~~Add profile modal and link from ozp toolbar [#530](https://github.com/ozone-development/ozp-webtop/issues/530)~~
 * Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)
-* Add help modal and link from ozp toolbar [#531](https://github.com/ozone-development/ozp-webtop/issues/531)
+* ~~Add help modal and link from ozp toolbar [#531](https://github.com/ozone-development/ozp-webtop/issues/531)~~
 * Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
 * IE9 - Launching new tab not working as expected [#508](https://github.com/ozone-development/ozp-webtop/issues/508)
