@@ -81,7 +81,11 @@
 * Testing
 
 ### Center/HUD
-
+* Create/Edit Page - Required listing type missing error message [#157](https://github.com/ozone-development/ozp-center/issues/157)
+* Create/Edit - Form not resetting when accessing from Global toolbar [#151](https://github.com/ozone-development/ozp-center/issues/151)
+* Create/Edit Listing Page - Validation message for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
+* Create/Edit Page - Add portion markings to images [#193](https://github.com/ozone-development/ozp-center/issues/193)
+* Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 
 ### Backend
 * Legacy REST endpoints [#42](https://github.com/ozone-development/ozp-rest/issues/42)
