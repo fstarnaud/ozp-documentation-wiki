@@ -76,7 +76,7 @@
 * Create/Edit Page - Add portion markings to URLs [#192](https://github.com/ozone-development/ozp-center/issues/192)
 
 ### Backend
-* create owf7 VM running RB for testing and validation purposes (also required for IWC legacy adapter work)
+* create owf7 VM running RB for testing and validation purposes (also required for IWC legacy adapter work) *got working locally but not in vagrant vm*
 * Legacy REST endpoints (first couple, maybe?) [#41](https://github.com/ozone-development/ozp-rest/issues/41) 
 * Add portion marking to URL [#60](https://github.com/ozone-development/ozp-rest/issues/60)
 * Add portion marking to images [#61](https://github.com/ozone-development/ozp-rest/issues/61)
