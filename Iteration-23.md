@@ -84,8 +84,11 @@
 
 
 ### Backend
-* Add portion marking to URL #60
-* Add portion marking to images #61
+* Legacy REST endpoints [#42](https://github.com/ozone-development/ozp-rest/issues/42)
+* Legacy REST endpoints [#48](https://github.com/ozone-development/ozp-rest/issues/48)
+* Legacy REST endpoints [#43](https://github.com/ozone-development/ozp-rest/issues/43)
+* Add portion marking to URL [#60](https://github.com/ozone-development/ozp-rest/issues/60)
+* Add portion marking to images [#61](https://github.com/ozone-development/ozp-rest/issues/61)
 
 
 ### Webtop
