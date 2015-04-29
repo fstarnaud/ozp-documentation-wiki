@@ -84,6 +84,9 @@
 
 
 ### Backend
+* Add portion marking to URL #60
+* Add portion marking to images #61
+
 
 ### Webtop
 * Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
