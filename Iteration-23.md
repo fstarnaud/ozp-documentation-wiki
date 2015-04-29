@@ -103,7 +103,12 @@
 
 ### IWC
 * Legacy Adapter IOB Features
+    * Drag and drop review
+    * Intents
+    * Logging
+* Documentation for legacy adapter usage (currently is in README form)
 * Test OWF7 App with legacy adapter 
+    * OWF7 Example apps + others.
 
 ### Metrics
 * Continue implementation of metrics site creation for App Owners
