@@ -1,4 +1,4 @@
-## OZONE Platform - Vision & Direction
+## Vision & Direction of Ozone Platform (OZP)
 
 ### Overview
 I'm sure for many of you, the big questions are "What are we doing here?" and "What are we making?"  As with any program or project, we need to understand what it is we're building so we can provide the best product possible.  Being that we are one of the largest open source communities in the U.S. Government, we cannot operate in a vacuum.  This should provide you with a general idea & basic goals so that we can continue moving forward.
