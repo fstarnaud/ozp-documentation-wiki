@@ -31,8 +31,12 @@
 * Fallback for legacy actions in Administration Tab ChangeLog [#240](http://github.com/ozone-development/ozp-center/issues/240)
 
 #### OZP-HUD
+##### Open
+* Bookmarks - If DB is down, HUD displays "no apps" [#78](http://github.com/ozone-development/ozp-center/issues/78)
+* Bookmarks - After removing listing(s) from a folder, scrollbar disappears [#81](http://github.com/ozone-development/ozp-center/issues/81)
 
-
+##### QA
+* Add configurable feedback link to common toolbar [#77](http://github.com/ozone-development/ozp-center/issues/77)
 
 #### OZP-WEBTOP
 ##### Open
