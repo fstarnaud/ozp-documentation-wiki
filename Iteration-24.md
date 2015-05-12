@@ -45,15 +45,15 @@
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
 
 ##### QA
-* iframe size is too small in layout view [#390]
-* Load system notifications from backend [#397]
-* Deleting a dashboard causes an unnecessary dashboard change [#419]
-* Hide metrics link unless user is an app mall steward or content steward [#490]
-* dashboard name length limit [#511]
-* Put real data in Profile modal [#534]
-* Global Toolbar - Update Dev Resources to open in new tab [#541]
-* Add Listing Management data to RestInterface.js [#548]
-* App Toolbar Images too large need to be scaled [#555]
+* iframe size is too small in layout view [#390](http://github.com/ozone-development/ozp-webtop/issues/390)
+* Load system notifications from backend [#397](http://github.com/ozone-development/ozp-webtop/issues/397)
+* Deleting a dashboard causes an unnecessary dashboard change [#419](http://github.com/ozone-development/ozp-webtop/issues/419)
+* Hide metrics link unless user is an app mall steward or content steward [#490](http://github.com/ozone-development/ozp-webtop/issues/490)
+* dashboard name length limit [#511](http://github.com/ozone-development/ozp-webtop/issues/511)
+* Put real data in Profile modal [#534](http://github.com/ozone-development/ozp-webtop/issues/534)
+* Global Toolbar - Update Dev Resources to open in new tab [#541](http://github.com/ozone-development/ozp-webtop/issues/541)
+* Add Listing Management data to RestInterface.js [#548](http://github.com/ozone-development/ozp-webtop/issues/548)
+* App Toolbar Images too large need to be scaled [#555](http://github.com/ozone-development/ozp-webtop/issues/555)
 
 ***
 
