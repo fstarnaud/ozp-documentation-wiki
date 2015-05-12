@@ -18,6 +18,8 @@
 * Create/Edit Page - Add portion markings to images [#193](http://github.com/ozone-development/ozp-center/issues/193)
 * Create/Edit Page - Required listing type missing error message [#157](http://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit - Form not resetting when accessing Create/Edit from Global Toolbar [#151](http://github.com/ozone-development/ozp-center/issues/151)
+
+
 #### OZP-REST
 
 
