@@ -25,9 +25,10 @@
 * Create/Edit Page - Errors display when fields are added [#220](http://github.com/ozone-development/ozp-center/issues/220)
 
 ##### QA
+* Create/Edit Page - Listing Intermittently doesn't save [#196](http://github.com/ozone-development/ozp-center/issues/196)
+* Notifications - Created-At should show the date & time that the notification was created [#203](http://github.com/ozone-development/ozp-center/issues/203)
 * Create/Edit Page - Encoded URLs should not change after edits [#222](http://github.com/ozone-development/ozp-center/issues/222)
 * Fallback for legacy actions in Administration Tab ChangeLog [#240](http://github.com/ozone-development/ozp-center/issues/240)
-
 
 #### OZP-HUD
 
