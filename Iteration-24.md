@@ -10,7 +10,14 @@
 * OWF 7 Adapter
 
 ### Open IOB Issues
-
+* Create/Edit Page - Errors display when fields are added [#220](http://github.com/ozone-development/ozp-center/issues/220)
+* Notifications - Created-At should show the date & time that the notification was created [#203](http://github.com/ozone-development/ozp-center/issues/203)
+* Create/Edit Page - Add "Singleton" to the Details section [#199](http://github.com/ozone-development/ozp-center/issues/199)
+* MP Settings - Add Portion Marking Admin Page [#198](http://github.com/ozone-development/ozp-center/issues/198)
+* Create/Edit Page - Add portion markings to listing URL [#192](http://github.com/ozone-development/ozp-center/issues/192)
+* Create/Edit Page - Add portion markings to images [#193](http://github.com/ozone-development/ozp-center/issues/193)
+* Create/Edit Page - Required listing type missing error message [#157](http://github.com/ozone-development/ozp-center/issues/157)
+* Create/Edit - Form not resetting when accessing Create/Edit from Global Toolbar [#151](http://github.com/ozone-development/ozp-center/issues/151)
 #### OZP-REST
 
 
