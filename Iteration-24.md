@@ -60,7 +60,8 @@
 ### Metrics
 
 ### UI/UX
-
+* Continuing development support
+* Planning / researching Dashboards implementation possibilities
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
