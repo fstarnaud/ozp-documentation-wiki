@@ -41,10 +41,19 @@
 #### OZP-WEBTOP
 ##### Open
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
+* Create separate modal for edit dashboard and create dashboard [#469]
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
 
 ##### QA
-
+* iframe size is too small in layout view [#390]
+* Load system notifications from backend [#397]
+* Deleting a dashboard causes an unnecessary dashboard change [#419]
+* Hide metrics link unless user is an app mall steward or content steward [#490]
+* dashboard name length limit [#511]
+* Put real data in Profile modal [#534]
+* Global Toolbar - Update Dev Resources to open in new tab [#541]
+* Add Listing Management data to RestInterface.js [#548]
+* App Toolbar Images too large need to be scaled [#555]
 
 ***
 
