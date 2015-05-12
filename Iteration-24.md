@@ -16,7 +16,11 @@
 
 #### OZP-CENTER
 ##### Open
-
+Create/Edit Page - Errors display when fields are added [#220](http://github.com/ozone-development/ozp-center/issues/220)
+MP Settings - Add Portion Marking Admin Page [#198](http://github.com/ozone-development/ozp-center/issues/198)
+Create/Edit Page - Add portion markings to images [#193](http://github.com/ozone-development/ozp-center/issues/193)
+Create/Edit Page - Add portion markings to listing URL [#192](http://github.com/ozone-development/ozp-center/issues/192)
+Create/Edit Page - Required listing type missing error message [#157](http://github.com/ozone-development/ozp-center/issues/157)
 
 ##### QA
 
