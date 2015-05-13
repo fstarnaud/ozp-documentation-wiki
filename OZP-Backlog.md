@@ -7,6 +7,7 @@
 * Implement Dashboards (as a listing type) in HUD and Marketplace
 * Share Dashboards with other users
 * Share all listing types with other users
+* Control intents & visualize on-going data-transmission within Webtop
 * Metrics for App listing with Roles/Permissions for App Owners
 * Metrics for all Apps within Orgs for Org Stewards
 * Open Search API
@@ -20,7 +21,6 @@
 * Customize the data analysis framework usage (Preferences, menus, and launching activity)
 * Import / Export listings in HUD
 * Import / Export listings in Marketplace
-
 * Scheduled import
 
 ###Tech Debt
