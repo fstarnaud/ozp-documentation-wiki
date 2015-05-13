@@ -11,7 +11,7 @@
 ###Tech Debt
 * Investigate Image Server Setup
 
-#Future Release Ideas
+##Future Release Ideas
 * Share all listing types with other users
 * Control intents & visualize on-going data-transmission within Webtop
 * Implement usage of draft listings in HUD
