@@ -22,6 +22,8 @@
 * Import / Export listings in HUD
 * Import / Export listings in Marketplace
 * Scheduled import
+* Include Toolkits and Suites as listing types in Marketplace
+
 
 ###Tech Debt
 * Investigate Image Server Setup
