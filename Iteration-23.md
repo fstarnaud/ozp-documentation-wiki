@@ -55,16 +55,16 @@
 #### OZP-WEBTOP
 ##### Open
 * ~~"Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509)~~
-* Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)
-* Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)
-* Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)
+* ~~Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)~~
+* ~~Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397)~~
+* ~~Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)~~
 
 
 ##### QA
 * Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390) 
 * Global Toolbar - Update Dev Resources to open in new tab [#541](https://github.com/ozone-development/ozp-webtop/issues/541) 
-* Add profile modal and link from ozp toolbar [#530](https://github.com/ozone-development/ozp-webtop/issues/530)
+* ~~Add profile modal and link from ozp toolbar [#530](https://github.com/ozone-development/ozp-webtop/issues/530)~~
 
 ***
 
@@ -94,8 +94,8 @@
 
 
 ### Webtop
-* Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)
-* Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)
+* Frames can get stuck to cursor in Grid layout [#285](https://github.com/ozone-development/ozp-webtop/issues/285)--Backlog
+* Widget resize is flaky at best in both Grid and Desktop layouts (IE9) [#439](https://github.com/ozone-development/ozp-webtop/issues/439)--Backlog
 
 
 ### IWC
