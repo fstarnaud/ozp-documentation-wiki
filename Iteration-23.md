@@ -54,7 +54,7 @@
 
 #### OZP-WEBTOP
 ##### Open
-*"Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509) --Resolved
+* "Open in webtop" does not work after default dashboard has been deleted [#509](https://github.com/ozone-development/ozp-webtop/issues/509) --Resolved
 * Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534) --Resolved
 * Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397) --Resolved
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520) --Resolved
