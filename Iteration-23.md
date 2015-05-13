@@ -58,10 +58,10 @@
 * Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534) --Resolved
 * Load system notifications from backend [#397](https://github.com/ozone-development/ozp-webtop/issues/397) --Resolved
 * Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520) --Resolved
+* Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490) --Resolved
 
 
 ##### QA
-* Hide metric link [#490](https://github.com/ozone-development/ozp-webtop/issues/490)
 * iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390) 
 * Global Toolbar - Update Dev Resources to open in new tab [#541](https://github.com/ozone-development/ozp-webtop/issues/541) 
 * ~~Add profile modal and link from ozp toolbar [#530](https://github.com/ozone-development/ozp-webtop/issues/530)~~
