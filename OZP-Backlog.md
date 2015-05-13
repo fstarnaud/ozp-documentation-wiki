@@ -18,7 +18,6 @@
 * Table View for Listing Management
 * Notifications for Organizations
 * Notifications for Apps
-* Intents visualization in Webtop
 * Customize the data analysis framework usage (Preferences, menus, and launching activity)
 * Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
 * Scheduled import
