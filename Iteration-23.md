@@ -100,12 +100,12 @@
 
 ### IWC
 * Legacy Adapter IOB Features
-    * Drag and drop review
-    * Intents
+    * ~~Drag and drop review~~ (FF working, Chrome todo)
+    * Intents (In review)
     * Logging
-* Documentation for legacy adapter usage (currently is in README form)
-* Test OWF7 App with legacy adapter 
-    * OWF7 Example apps + others.
+* ~~Documentation for legacy adapter usage (currently is in README form)~~
+* ~~Test OWF7 App with legacy adapter~~ (Eventing widgets added, Intent widgets added)
+    * ~~OWF7 Example apps + others.~~
 
 ### Metrics
 * Continue implementation of metrics site creation for App Owners
