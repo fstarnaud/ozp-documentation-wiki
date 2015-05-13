@@ -91,7 +91,14 @@
 * Looking into several other bugs to finish before IOB but need to discuss further
 
 ### IWC
-
+* ozp-iwc
+  * Api Base refactor review
+* legacy adapter
+  * Intents (in review)
+  * Preferences
+  * Logging
+  * Transport related support.
+  * owf7 example app testing.
 
 ### Metrics
 
