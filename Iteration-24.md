@@ -26,7 +26,7 @@
 
 #### OZP-CENTER
 ##### Open
-* Create/Edit - Form not resetting when accessing Create/Edit from Global Toolbar [#151](http://github.com/ozone-development/ozp-center/issues/151)
+* ~~Create/Edit - Form not resetting when accessing Create/Edit from Global Toolbar [#151](http://github.com/ozone-development/ozp-center/issues/151)~~
 * Create/Edit Page - Required listing type missing error message [#157](http://github.com/ozone-development/ozp-center/issues/157)
 * Create/Edit Page - Add portion markings to listing URL [#192](http://github.com/ozone-development/ozp-center/issues/192)
 * Create/Edit Page - Add portion markings to images [#193](http://github.com/ozone-development/ozp-center/issues/193)
