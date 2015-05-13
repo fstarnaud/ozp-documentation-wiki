@@ -53,7 +53,6 @@
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
 * Create separate modal for edit dashboard and create dashboard [#469](http://github.com/ozone-development/ozp-webtop/issues/469)
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
-* Widget z-index not being set correctly [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 
 ##### QA
 * iframe size is too small in layout view [#390](http://github.com/ozone-development/ozp-webtop/issues/390)
