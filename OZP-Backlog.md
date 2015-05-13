@@ -14,13 +14,13 @@
 * Personalized HUD (Widgets, Metrics visualization, etc.)
 * User Management
 * Group Management
+* Sub-Organizations
 * Table View for Listing Management
 * Notifications for Organizations
 * Notifications for Apps
 * Intents visualization in Webtop
 * Customize the data analysis framework usage (Preferences, menus, and launching activity)
-* Import / Export listings in HUD
-* Import / Export listings in Marketplace
+* Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
 * Scheduled import
 * Include Toolkits and Suites as listing types in Marketplace
 
