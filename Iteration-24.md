@@ -105,6 +105,7 @@
 ### UI/UX
 * Continuing development support
 * Planning / researching Dashboards implementation possibilities
+* Tutorial video
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
