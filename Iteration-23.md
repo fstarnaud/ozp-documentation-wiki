@@ -31,7 +31,7 @@
 * Create/Edit Page - Unable to save Listing if only one Screenshot image (of 2) is added [#205] (https://github.com/ozone-development/ozp-center/issues/211)
 * Create/Edit Page - Errors display when fields are added [#220](https://github.com/ozone-development/ozp-center/issues/220)
 * ~~Create/Edit Page - Encoded URLs should not change after edits [#222](https://github.com/ozone-development/ozp-center/issues/222)~~
-* Detailed View - URL length [#221](https://github.com/ozone-development/ozp-center/issues/221)
+* ~~Detailed View - URL length [#221](https://github.com/ozone-development/ozp-center/issues/221)~~
 * MP Settings - Add Portion Marking Admin Page [#198](https://github.com/ozone-development/ozp-center/issues/198)
 * ~~Detailed View - If a listing has more than one contact the Detailed View throws an error [#243]~~
 * Notifications - Created-At should show the date & time that the notification was created [#203](https://github.com/ozone-development/ozp-center/issues/203)
