@@ -1,16 +1,21 @@
 #Highlevel Backlog
-
+## Next Release
 ###Features
 * Private Listings
 * Interactive Help (Tutorial and Modal)
-* Implement usage of draft listings in HUD
-* Implement Dashboards (as a listing type) in HUD and Marketplace
 * Share Dashboards with other users
+* Metrics for App listing with Roles/Permissions for App Owners
+* Implement Dashboards (as a listing type) in HUD and Marketplace
+* Open Search API
+
+###Tech Debt
+* Investigate Image Server Setup
+
+#Future Release Ideas
 * Share all listing types with other users
 * Control intents & visualize on-going data-transmission within Webtop
-* Metrics for App listing with Roles/Permissions for App Owners
+* Implement usage of draft listings in HUD
 * Metrics for all Apps within Orgs for Org Stewards
-* Open Search API
 * Personalized HUD (Widgets, Metrics visualization, etc.)
 * User Management
 * Group Management
@@ -22,7 +27,3 @@
 * Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
 * Scheduled import
 * Include Toolkits and Suites as listing types in Marketplace
-
-
-###Tech Debt
-* Investigate Image Server Setup
