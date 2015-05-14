@@ -37,15 +37,6 @@
 * Notifications - Created-At should show the date & time that the notification was created [#203](https://github.com/ozone-development/ozp-center/issues/203)
 * Recent Activity - Change to screenshot not in list [#179](https://github.com/ozone-development/ozp-center/issues/179) (Intermittent Issue)
 
-##### QA
-* Create/Edit Page - Validation messages for Resources are not appearing [#191](https://github.com/ozone-development/ozp-center/issues/191)
-* Create/Edit Page - Mark "Intents" field as optional [#200](https://github.com/ozone-development/ozp-center/issues/200)
-* Detailed View - Approval buttons need to be styled differently relative to who is looking at the admin tab [#201](https://github.com/ozone-development/ozp-center/issues/201)
-* Global Toolbar - Selecting Developer Resources should open into a new tab [#212](https://github.com/ozone-development/ozp-center/issues/212)
-* Listing Management - Preview does not work if full description is empty [#213](https://github.com/ozone-development/ozp-center/issues/196)
-* OzoneConfig - Update the file to match Webtop & HUD [#211] (https://github.com/ozone-development/ozp-center/issues/211)
-
-
 #### OZP-HUD
 * HUD always shows "No bookmarks" on initial load [#64](https://github.com/ozone-development/ozp-hud/issues/64) (QA)
 * Add configurable feedback link to common toolbar [#77](https://github.com/ozone-development/ozp-hud/issues/77) (QA)
@@ -63,13 +54,6 @@
 * ~~Add configurable feedback link to common toolbar [#520](https://github.com/ozone-development/ozp-webtop/issues/520)~~
 * ~~Hook up RestInterface to profile modal to get real data [#534](https://github.com/ozone-development/ozp-webtop/issues/534)~~
 
-
-##### QA
-* iframe size is too small in layout view [#390](https://github.com/ozone-development/ozp-webtop/issues/390) 
-* Global Toolbar - Update Dev Resources to open in new tab [#541](https://github.com/ozone-development/ozp-webtop/issues/541) 
-* ~~Add profile modal and link from ozp toolbar [#530](https://github.com/ozone-development/ozp-webtop/issues/530)~~
-
-***
 
 
 ### NC 
