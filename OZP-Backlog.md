@@ -27,3 +27,4 @@
 * Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
 * Scheduled import
 * Include Toolkits and Suites as listing types in Marketplace
+* Migrate all management areas to HUD
