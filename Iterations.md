@@ -20,10 +20,10 @@
 * Iteration 20 - 18 Mar 2015 - 01 Apr 2015
 * Iteration 21 - 1 Apr 2015 - 15 Apr 2015
 * Iteration 22 - 15 Apr 2015 - 29 Apr 2015
-* Iteration 23 - 29 Apr 2015 - 06 May 2015
-* Iteration 24 - 06 May 2015 - 20 May 2015
-* Iteration 25 - 20 May 2015 - 3 Jun 2015
-* Iteration 26 - 3 Jun 2015 - 17 Jun 2015
-* Iteration 27 - 17 Jun 2015 - 1 July 2015
-* Iteration 28 - 1 July 2015 - 15 July 2015
-* Iteration 29 - 15 July 2015 - 29 July 2015
+* Iteration 23 - 29 Apr 2015 - 13 May 2015
+* Iteration 24 - 13 May 2015 - 27 May 2015
+* Iteration 25 - 27 May 2015 - 10 Jun 2015
+* Iteration 26 - 10 Jun 2015 - 24 Jun 2015
+* Iteration 27 - 24 Jun 2015 - 8 July 2015
+* Iteration 28 - 8 July 2015 - 22 July 2015
+* Iteration 29 - 22 July 2015 - 5 Aug 2015
