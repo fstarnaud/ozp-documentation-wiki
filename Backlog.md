@@ -28,3 +28,18 @@
 * Scheduled import
 * Include Toolkits and Suites as listing types in Marketplace
 * Migrate all management areas to HUD
+* Recommendation engine: a list of apps specific to your mission when you first sign up ("If you like this, you might like this!")
+* Tag Cloud
+* Pop-up notifications/names when scrolling over an app in HUD
+* User tags
+* 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
+* Documentation "service" - templates, examples, etc to creating documentations for app submission
+* List view in Listing Management
+* Notifications - most recent populates at top (top to bottom)
+* Multiple webtops
+* Expand AppsMall between two monitors (multiscreen support)
+* Multiple types of webtops
+* User feedback in OZP toolbar
+* Survey option in OZP toolbar
+* Show trending apps in Marketplace
+* Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
