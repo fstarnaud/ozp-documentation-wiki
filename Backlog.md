@@ -17,19 +17,25 @@
 * Share all listing types with other users
 * Metrics for all Apps within Orgs for Org Stewards
 * Table View for Listing Management
--------
+
+***
+
 * Recommendation engine: a list of apps specific to your mission when you first sign up ("If you like this, you might like this!")
 * Personalized HUD (Widgets, Metrics visualization, etc.)
 * Notifications for Organizations
 * Notifications for Apps
 * Pop-up notifications/names when scrolling over an app in HUD
------
+
+***
+
 * Tag Cloud
 * User tags
 * Infinite scroll on main page of Marketplace
 * Add button on Marketplace to go back to the top of main page
 * Multiple types of webtops
-----
+
+***
+
 ##Future Ideas that still need more discussions
 * Control intents & visualize on-going data-transmission within Webtop
 * Customize the data analysis framework usage (Preferences, menus, and launching activity)
