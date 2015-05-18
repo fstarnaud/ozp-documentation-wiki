@@ -1,7 +1,7 @@
 ====[[Home]]====
 * [[OZONE Info]]
 ** [[Ozone Platform (OZP) Vision]]
-** [[OZP Backlog]]
+** [[Backlog]]
 ** [[Taxonomy]]
 ** [[Workflows]]
 * [[Processes]]
