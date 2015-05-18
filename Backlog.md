@@ -7,9 +7,7 @@
 * Metrics for App listing with Roles/Permissions for App Owners
 * Implement Dashboards (as a listing type) in HUD and Marketplace
 * Open Search API
-
-###Tech Debt
-* Investigate Image Server Setup
+* Tech Debt -Investigate Image Server Setup
 
 ##Future Release Buckets
 * User Management
