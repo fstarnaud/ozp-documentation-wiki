@@ -16,7 +16,7 @@
 * Group Management
 * Share all listing types with other users
 * Metrics for all Apps within Orgs for Org Stewards
-* Table View for Listing Management
+* Table/List View for Listing Management
 
 ***
 
@@ -25,7 +25,7 @@
 * Notifications for Organizations
 * Notifications for Apps
 * Pop-up notifications/names when scrolling over an app in HUD
-
+* Notifications - most recent populates at top (top to bottom)
 ***
 
 * Tag Cloud
@@ -37,24 +37,17 @@
 ***
 
 ##Future Ideas that still need more discussions
+* Include Toolkits and Suites as listing types in Marketplace (Similar to Sharing Dashboards)
+* Show trending apps in Marketplace
+* Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
+* 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
+* Scheduled import
 * Control intents & visualize on-going data-transmission within Webtop
 * Customize the data analysis framework usage (Preferences, menus, and launching activity)
 * Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
-* Scheduled import
-* Include Toolkits and Suites as listing types in Marketplace
-* Migrate all management areas to HUD
-* 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
-* Documentation storage - store documents, such as user guides and developer cookbooks, the same way as images, and accessible via the Overview modal
 * Documentation "service" - templates, examples, etc to creating documentations for app submission
-* List view in Listing Management
-* Notifications - most recent populates at top (top to bottom)
-* Multiple webtops
 * Expand AppsMall between two monitors (multiscreen support)
-
 * User feedback in OZP toolbar
-* Survey option in OZP toolbar
-* Show trending apps in Marketplace
-* Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
 * AppBuilder:
 ** Tile layout builders
 ** IWC support
