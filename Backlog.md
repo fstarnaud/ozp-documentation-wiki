@@ -33,6 +33,7 @@
 * Pop-up notifications/names when scrolling over an app in HUD
 * User tags
 * 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
+* Documentation storage - store documents, such as user guides and developer cookbooks, the same way as images, and accessible via the Overview modal
 * Documentation "service" - templates, examples, etc to creating documentations for app submission
 * List view in Listing Management
 * Notifications - most recent populates at top (top to bottom)
@@ -43,3 +44,14 @@
 * Survey option in OZP toolbar
 * Show trending apps in Marketplace
 * Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
+* AppBuilder:
+** Tile layout builders
+** IWC support
+** IWC backwards compatibility
+** 508 assistance
+** developer documentation for building information dashboards
+* Featured Apps - two apps per organization
+* Infinite scroll on main page of Marketplace
+* Add button on Marketplace to go back to the top of main page
+* Featured Apps in individual categories
+* Metrics - track users that favorite a dashboard, as well as what widgets they add or subtract from it
