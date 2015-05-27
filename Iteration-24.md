@@ -53,6 +53,15 @@
 * ~~Create separate modal for edit dashboard and create dashboard [#469](http://github.com/ozone-development/ozp-webtop/issues/469)~~
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
 * Looking into several other bugs to finish before IOB but need to discuss further
+* ~~Load system notifications from backend [#397](http://github.com/ozone-development/ozp-webtop/issues/397)~~
+* ~~Deleting a dashboard causes an unnecessary dashboard change [#419](http://github.com/ozone-development/ozp-webtop/issues/419)~~
+* ~~Create a new dashboard" allows you to bypass dashboard limit[#503](http://github.com/ozone-development/ozp-webtop/issues/503)~~
+* ~~Apps Minimized in Desktop switch to Gridster and expand but have inactive icons [#561](http://github.com/ozone-development/ozp-webtop/issues/561)~~
+* ~~Edit dashboard name/layout type does not always save [#569](http://github.com/ozone-development/ozp-webtop/issues/569)~~
+* ~~dashboard name length limit [#511](http://github.com/ozone-development/ozp-webtop/issues/511)~~
+* ~~App Toolbar Images too large need to be scaled [#555](http://github.com/ozone-development/ozp-webtop/issues/555)~~
+* ~~508 compliance standards - Add "alt" tags to all webtop [#560](http://github.com/ozone-development/ozp-webtop/issues/560)~~
+* ~~508 compliance standards - Add "alt" tags to all webtop [#562](http://github.com/ozone-development/ozp-webtop/issues/562)~~
 
 
 ### IWC
