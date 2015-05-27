@@ -1,6 +1,16 @@
 This is about the process and UI for sharing listings from HUD. First, the items (as currently planned) allowed to be shared for the initial implementation will be dashboards. The policy issues are still being worked out. As those emerge and are decided, the UI will naturally evolve.
 
-## Mockups
+## Webtop Mockups
+*Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
+
+#### Dashboard Menu
+![Dashboard Menu](https://files.slack.com/files-pri/T02CYMFLT-F052C17CJ/webtop1.1-sharing.png?)
+We intend to integrate a share button into the dashboard menu so that a user could share any dashboard.
+
+#### Share Modal in Webtop
+
+
+## HUD Mockups
 
 #### Step 1 - Visit "My Bookmarks" in HUD
 ![My Bookmarks](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_00Bookmarks.png)
