@@ -2,7 +2,7 @@
 
 *** 
 ### Next Milestones:
-27 May 2015 - ORR
+~~27 May 2015 - ORR~~
 <br>11 June 2015 - IOB
 
 ## Iteration Goals:
@@ -76,7 +76,7 @@
   * ~~owf7 example app testing.~~
 
 ### Metrics
-* Working post IOB features
+* Working planning and design for post IOB features
 
 ### UI/UX
 * Continuing development support (Ongoing)
@@ -84,7 +84,7 @@
 * Tutorial video (Rumors of ADG taking over this project?)
 
 ## Roadblocks
-* IWC Documentation for Legacy Adapter and Rest Endpoints
+* ~~IWC Documentation for Legacy Adapter and Rest Endpoints~~
 * Waiting for accounts to continue Accessibility Status Check
 
 ***
