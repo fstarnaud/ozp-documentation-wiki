@@ -4,11 +4,11 @@ This is about the process and UI for sharing listings from HUD. First, the items
 *Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
 #### Dashboard Menu
-![Dashboard Menu](https://files.slack.com/files-pri/T02CYMFLT-F052C17CJ/webtop1.1-sharing.png?)
+![Dashboard Menu]()
 We intend to integrate a share button into the dashboard menu so that a user could share any dashboard.
 
 #### Share Modal in Webtop
-
+![Share Modal]()
 
 ## HUD Mockups
 
