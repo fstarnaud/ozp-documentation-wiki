@@ -59,8 +59,8 @@
 * ozp-iwc
   * Api Base refactor review
 * legacy adapter
-  *~~ Intents (in review)~~ _Callback blocked on Api Base refactor_
-  *~~ Preferences~~
+  * ~~Intents (in review)~~ _Callback blocked on Api Base refactor_
+  * ~~Preferences~~
   * Logging
   * ~~Transport related support.~~
   * ~~owf7 example app testing.~~
