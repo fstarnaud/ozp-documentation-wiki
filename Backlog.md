@@ -1,7 +1,7 @@
 #Highlevel Backlog
 ## Next Release
 ###Features
-* Private Listings
+* [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * Interactive Help (Tutorial and Modal)
 * Share Dashboards with other users
 * Metrics for App listing with Roles/Permissions for App Owners
