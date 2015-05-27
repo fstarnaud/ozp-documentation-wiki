@@ -20,3 +20,16 @@ To make a listing "Private", the system will utilize the same approval process a
 #### Request pending
 ![Request Pending](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivatePending.png)
 
+### Org. Steward
+
+#### Request pending for Org. Steward
+![Pending for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_OrgSteward_PrivatePending.png)
+
+
+### MP Steward
+
+#### Listing and request pending for ORG STEWARD (as viewed by MP Steward)
+![Request pending for Org Steward - Viewable for MP](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingOrg.png)
+
+#### Listing and request pending for MP Steward
+![Pending for MP Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingAML.png)
