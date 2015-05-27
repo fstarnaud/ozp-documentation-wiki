@@ -23,6 +23,7 @@
 ### Center/HUD
 
 ### Backend
+* couple of legacy endpoints required for rb
 
 ### Webtop
 
