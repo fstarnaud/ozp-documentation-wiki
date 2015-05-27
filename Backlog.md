@@ -3,7 +3,7 @@
 ###Features
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * Interactive Help (Tutorial and Modal)
-* Share Dashboards with other users
+* [Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for App listing with Roles/Permissions for App Owners
 * Implement Dashboards (as a listing type) in HUD and Marketplace
 * Open Search API
@@ -12,7 +12,7 @@
 ##Future Release Buckets
 * User Management
 * Group Management
-* Share all listing types with other users
+* [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for all Apps within Orgs for Org Stewards
 * [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
 
