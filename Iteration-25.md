@@ -53,6 +53,7 @@
 * Sync deployments on STG
 
 ### UI/UX
+* Instructions for GOSS Accounts on website
 * Dashboards (Mockups and Round 2 of feedback)
 * Discussion of post-IOB features? (Responsiveness / Alerts / Help / Profile / Settings / Notification prioritization)
 * Discussion with devs to implement webtop toolbar cohesiveness between grid/desktop views
