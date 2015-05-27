@@ -40,8 +40,8 @@
 * MP Settings - Add Portion Marking Admin Page [#198](http://github.com/ozone-development/ozp-center/issues/198)
 * Create/Edit Page - Add "Singleton" to the Details section [#199](http://github.com/ozone-development/ozp-center/issues/199)
 * Create/Edit Page - Errors display when fields are added [#220](http://github.com/ozone-development/ozp-center/issues/220)
-* Bookmarks - If DB is down, HUD displays "no apps" [#78](http://github.com/ozone-development/ozp-center/issues/78)
-* Bookmarks - After removing listing(s) from a folder, scrollbar disappears [#81](http://github.com/ozone-development/ozp-center/issues/81)
+* Bookmarks - If DB is down, HUD displays "no apps" [#78](http://github.com/ozone-development/ozp-hud/issues/78)
+* Bookmarks - After removing listing(s) from a folder, scrollbar disappears [#81](http://github.com/ozone-development/ozp-hud/issues/81)
 
 
 ### Backend
