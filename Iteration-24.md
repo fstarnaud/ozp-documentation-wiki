@@ -52,6 +52,7 @@
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
 * ~~Create separate modal for edit dashboard and create dashboard [#469](http://github.com/ozone-development/ozp-webtop/issues/469)~~
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
+
 * Looking into several other bugs to finish before IOB but need to discuss further
 * ~~Load system notifications from backend [#397](http://github.com/ozone-development/ozp-webtop/issues/397)~~
 * ~~Deleting a dashboard causes an unnecessary dashboard change [#419](http://github.com/ozone-development/ozp-webtop/issues/419)~~
