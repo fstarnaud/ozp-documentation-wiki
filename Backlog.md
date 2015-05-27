@@ -14,7 +14,7 @@
 * Group Management
 * Share all listing types with other users
 * Metrics for all Apps within Orgs for Org Stewards
-* Table/List View for Listing Management
+* [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
 
 ***
 
