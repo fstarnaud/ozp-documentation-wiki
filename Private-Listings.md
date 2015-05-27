@@ -1,3 +1,6 @@
+*Currently on-deck as Center Issue [#182](https://github.com/ozone-development/ozp-center/issues/182)*
+
+
 "Private" listings are listings which are only viewable by users within the listing's associated organization. They are not visible to users within other organizations.
 
 Private listings will be visible to:
