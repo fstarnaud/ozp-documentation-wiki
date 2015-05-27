@@ -78,9 +78,9 @@
 * Working post IOB features
 
 ### UI/UX
-* Continuing development support
-* Planning / researching Dashboards implementation possibilities
-* Tutorial video
+* Continuing development support (Ongoing)
+* Planning / researching Dashboards implementation possibilities (Initial round of feedback gathered, currently working on solutions)
+* Tutorial video (Rumors of ADG taking over this project?)
 
 ## Roadblocks
 * IWC Documentation for Legacy Adapter and Rest Endpoints
