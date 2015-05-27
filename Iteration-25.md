@@ -53,7 +53,7 @@
 
 ### UI/UX
 * Dashboards (Mockups and Round 2 of feedback)
-* Discussion of post-IOB features? (Help / Profile / Settings / Notification prioritization)
+* Discussion of post-IOB features? (Responsiveness / Alerts / Help / Profile / Settings / Notification prioritization)
 * Tutorial (?)
 
 ## Roadblocks
