@@ -28,6 +28,9 @@
 ### Backend
 * couple of legacy endpoints required for rb
 * Delete application null point exception
+* Test plan for RB apps
+* Migrate RB to CI-Master
+* Migrate RB to STG
 
 ### Webtop
 
