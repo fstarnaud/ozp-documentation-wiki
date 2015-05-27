@@ -54,6 +54,8 @@
 ### UI/UX
 * Dashboards (Mockups and Round 2 of feedback)
 * Discussion of post-IOB features? (Responsiveness / Alerts / Help / Profile / Settings / Notification prioritization)
+* Discussion with devs to implement webtop toolbar cohesiveness between grid/desktop views
+* Discussion of where to place new apps added to webtop grid/desktop views
 * Tutorial (?)
 
 ## Roadblocks
