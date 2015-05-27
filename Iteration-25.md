@@ -26,11 +26,11 @@
 
 ### Webtop
 
-* Looking into several other bugs to finish before IOB but need to discuss further
-* ~~508 compliance standards - Add "alt" tags to all webtop [#560](http://github.com/ozone-development/ozp-webtop/issues/560)~~
-* ~~508 compliance standards - Add "alt" tags to all webtop [#562](http://github.com/ozone-development/ozp-webtop/issues/562)~~
+* Looking into several other bugs to finish but need to discuss further
+* Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
+* Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
+* Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 * 508 compliance standards - Add "alt" tags to all webtop [#563](http://github.com/ozone-development/ozp-webtop/issues/563)
-
 
 ### IWC
 * Api refactor
