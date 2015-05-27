@@ -23,10 +23,11 @@
 ### Center/HUD
 * Load more button on search result Category, Text, Filter by Org [268]
 * POC scrambling [267]
-* Delete application null point exception
+
 
 ### Backend
 * couple of legacy endpoints required for rb
+* Delete application null point exception
 
 ### Webtop
 
