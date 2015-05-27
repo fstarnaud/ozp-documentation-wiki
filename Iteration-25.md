@@ -17,7 +17,7 @@
    * Users Guide
    * Developers Guide
    * Deployment Guide
-* Support and remainder work implementing legacy REST endpoints in back end
+* Support any remainder work implementing legacy REST endpoints in back end
 * Releasing 7.16 (Legacy)
 
 ### Center/HUD
