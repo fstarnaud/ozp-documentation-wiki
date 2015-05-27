@@ -44,6 +44,7 @@
 
 ### UI/UX
 * Dashboards
+* Discussion of post-IOB features? (Help / Profile / Settings / Notification prioritization)
 
 ## Roadblocks
 * Waiting for accounts to continue Accessibility Status Check
