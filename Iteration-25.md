@@ -21,8 +21,8 @@
 * Releasing 7.16 (Legacy)
 
 ### Center/HUD
-* Load more button on search result Category, Text, Filter by Org [268]
-* POC scrambling [267]
+* Load more button on search result Category, Text, Filter by Org [#268](https://github.com/ozone-development/ozp-center/issues/268)
+* POC scrambling [#267](https://github.com/ozone-development/ozp-center/issues/267)
 
 
 ### Backend
