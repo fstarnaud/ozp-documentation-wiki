@@ -12,3 +12,7 @@ To make a listing "Private", the system will utilize the same approval process a
 
 ## Mockups
 
+### Owner Submits a Listing
+![Owner submitting a request for Private status](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivateRequest.png)
+![Request Pending](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivatePending.png)
+
