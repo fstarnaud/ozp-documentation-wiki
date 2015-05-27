@@ -26,6 +26,12 @@
 
 ### Webtop
 
+* Looking into several other bugs to finish before IOB but need to discuss further
+* ~~508 compliance standards - Add "alt" tags to all webtop [#560](http://github.com/ozone-development/ozp-webtop/issues/560)~~
+* ~~508 compliance standards - Add "alt" tags to all webtop [#562](http://github.com/ozone-development/ozp-webtop/issues/562)~~
+* 508 compliance standards - Add "alt" tags to all webtop [#563](http://github.com/ozone-development/ozp-webtop/issues/563)
+
+
 ### IWC
 * Api refactor
 * Legacy
