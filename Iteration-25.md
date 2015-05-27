@@ -9,6 +9,7 @@
 * GO LIVE!
 * Continue to work off Bugs for IOB
 * OWF 7 Adapter
+* 
 
 
 ### NC 
@@ -26,7 +27,6 @@
 ### UI/UX
 
 ## Roadblocks
-* IWC Documentation for Legacy Adapter and Rest Endpoints
 * Waiting for accounts to continue Accessibility Status Check
 
 ***
