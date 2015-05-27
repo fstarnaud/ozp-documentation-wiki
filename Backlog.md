@@ -5,7 +5,7 @@
 * Interactive Help (Tutorial and Modal)
 * [Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for App listing with Roles/Permissions for App Owners
-* Implement Dashboards (as a listing type) in HUD and Marketplace
+* [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * Open Search API
 * Tech Debt -Investigate Image Server Setup
 
