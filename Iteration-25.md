@@ -27,6 +27,11 @@
 ### Webtop
 
 ### IWC
+* Api refactor
+* Legacy
+    * Metrics
+    * Logging
+    * Intents callback (blocked on API refactor, low priority)
 
 ### Metrics
 
