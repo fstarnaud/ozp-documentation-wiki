@@ -70,6 +70,7 @@
 * legacy adapter
   * ~~Intents (in review)~~ _Callback blocked on Api Base refactor_
   * ~~Preferences~~
+  * ~~Launching~~
   * Logging
   * ~~Transport related support.~~
   * ~~owf7 example app testing.~~
