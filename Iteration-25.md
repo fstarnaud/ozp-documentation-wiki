@@ -45,7 +45,7 @@
 * Refactor LoginPKI to support general users
 
 ### UI/UX
-* Dashboards
+* Dashboards (Mockups and Round 2 of feedback)
 * Discussion of post-IOB features? (Help / Profile / Settings / Notification prioritization)
 
 ## Roadblocks
