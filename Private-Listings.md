@@ -33,3 +33,6 @@ To make a listing "Private", the system will utilize the same approval process a
 
 #### Listing and request pending for MP Steward
 ![Pending for MP Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingAML.png)
+
+### Approved as Private
+![Approved as Private](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_Published.png)
