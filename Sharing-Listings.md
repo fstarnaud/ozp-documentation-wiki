@@ -6,6 +6,8 @@ This is about the process and UI for sharing listings from HUD. First, the items
 **NOTE** Sharing Dashboards would require the following to also be implemented:
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 
+For the final version of the **Export** modal (eventual preferred file sharing method) and its partner modal, the "Import" modal, please follow this link.
+
 ## Webtop Mockups
 *Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
@@ -56,20 +58,3 @@ Initially, sharing by file may be the only one available. This mockup is meant t
 
 ##### Unsuccessful
 ![Share Modal - Unsuccessful](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_08Modal_ConfirmationFailed.png)
-
-### File Export Wizard
-![Export 1](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_00SelectStatic.png)
-
-![Export 2](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_01Select_Selecting.png)
-
-![Export 3](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_01Select_Selecting_1Type.png)
-
-![Export 4](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_01Select_Selecting_3Org.png)
-
-![Export 5](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_01Select_Selecting_4Category.png)
-
-![Export 6](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_02Options.png)
-
-![Export 7](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_03Review.png)
-
-![Export 8](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_04Confirmation.png)
