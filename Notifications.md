@@ -22,6 +22,7 @@ Marketplace Stewards will be able to send messages from the system, an organizat
     * Should the get to see all the other orgs' notifications but not interact?
     * Should they only get to see notifications from their own org(s) and the listings associated with their org?
     * Should they get to see OZONE Platform notifications?
+* Can an owner cancel an approved notification?
 
 
 ## Mockups
@@ -31,3 +32,7 @@ Marketplace Stewards will be able to send messages from the system, an organizat
 ![Notifications](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications.png)
 
 ### Org Steward
+![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
+
+### Owner
+![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
