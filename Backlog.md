@@ -10,8 +10,8 @@
 * Tech Debt -Investigate Image Server Setup
 
 ##Future Release Buckets
-* User Management
-* Group Management
+* [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
+* [Group Management](https://github.com/ozone-development/ozp-documentation/wiki/Group-Management)
 * [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for all Apps within Orgs for Org Stewards
 * [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
