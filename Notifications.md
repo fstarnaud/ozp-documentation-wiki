@@ -16,12 +16,12 @@ Marketplace Stewards will be able to send messages from the system, an organizat
 
 ## Questions
 * Will messages from organizations have to be approved by the Marketplace Steward?
-** Can Org. Stewards cancel their notifications without approval from the Marketplace Steward?
+    * Can Org. Stewards cancel their notifications without approval from the Marketplace Steward?
 * Will messages created by Org Stewards or MP Stewards for/from listings need to be approved in the typical fashion? (By Org Stewards and then by MP Stewards)
 * What level of information about all the current notifications should Org Stewards have?
-** Should the get to see all the other orgs' notifications but not interact?
-** Should they only get to see notifications from their own org(s) and the listings associated with their org?
-** Should they get to see OZONE Platform notifications?
+    * Should the get to see all the other orgs' notifications but not interact?
+    * Should they only get to see notifications from their own org(s) and the listings associated with their org?
+    * Should they get to see OZONE Platform notifications?
 
 
 ## Mockups
