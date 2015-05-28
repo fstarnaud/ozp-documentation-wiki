@@ -1,0 +1,6 @@
+Conceptually, HUD was intended to be the customizable, central area for managing a user's experience with the OZONE Platform. The home HUD page was intended to be a custom, homepage created specifically for the user or user group that is accessing the system. Each person and each user group entering the system has their own set of concerns and their own priority tasks that they would want to accomplish. An organization's Steward might want to check the status of the applications in their organization and see if any new submissions had come in. A user might want to access his most frequently or most recently used bookmarks. A developer would want to submit new listings or check the status and metrics for existing listings. The list of different priorities and tasks could go on and on with each new user. So, the HUD homepage would be customizable to ensure that it worked for each user.
+
+## Mockups
+
+#### Concept Mockup
+![HUD](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_HomepageConceptA.png)
