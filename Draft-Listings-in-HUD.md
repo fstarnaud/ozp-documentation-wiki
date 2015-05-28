@@ -10,6 +10,6 @@ Most of the work would occur on the back end but the UI artifacts are mocked up 
 
 ## Mockups
 **Chartcourse is the example draft listing in the following mockups**
-[Draft Listing](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_00Static.png)
+![Draft Listing](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_00Static.png)
 
-[Draft Listing - Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_01Menu.png)
+![Draft Listing - Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_01Menu.png)
