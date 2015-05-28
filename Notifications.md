@@ -35,4 +35,4 @@ Marketplace Stewards will be able to send messages from the system, an organizat
 ![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
 
 ### Owner
-![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
+![Notifications for Owner](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_Owner.png)
