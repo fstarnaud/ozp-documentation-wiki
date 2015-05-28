@@ -1,5 +1,11 @@
 This is about the process and UI for sharing listings from HUD. First, the items (as currently planned) allowed to be shared for the initial implementation will be dashboards. The policy issues are still being worked out. As those emerge and are decided, the UI will naturally evolve.
 
+**NOTE**  Sharing by file, as currently designed, would require the following to also be implemented:
+* [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
+
+**NOTE** Sharing Dashboards would require the following to also be implemented:
+* [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
+
 ## Webtop Mockups
 *Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
@@ -9,7 +15,6 @@ We intend to integrate a share button into the dashboard menu so that a user cou
 
 #### Share Modal in Webtop
 ![Share Modal]()
-
 
 
 ## HUD Mockups
@@ -29,6 +34,8 @@ The list of listings depicted should be automatically generated from the list of
 
 ##### By File is the Only Available
 Initially, sharing by file may be the only one available. This mockup is meant to represent the UI for that functionality.
+
+
 ![Share Modal - By File Only](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_06Modal_OnlyMethod.png)
 
 ##### By File or By User
