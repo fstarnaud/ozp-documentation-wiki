@@ -42,7 +42,7 @@
 * 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
 * Scheduled import
 * Control intents & visualize on-going data-transmission within Webtop
-* Customize the data analysis framework usage (Preferences, menus, and launching activity)
+* [Customize the data analysis framework usage (Preferences, menus, and launching activity)](https://github.com/ozone-development/ozp-documentation/wiki/Customize-the-Data-Analysis-Framework)
 * Upload and export listings into HUD and/or Marketplace (as simple code files for easy manual sharing)
 * Documentation "service" - templates, examples, etc to creating documentations for app submission
 * Expand AppsMall between two monitors (multiscreen support)
