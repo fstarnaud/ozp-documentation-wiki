@@ -48,12 +48,12 @@
 * Expand AppsMall between two monitors (multiscreen support)
 * User feedback in OZP toolbar
 * AppBuilder:
-** Tile layout builders
-** IWC support
-** IWC backwards compatibility
-** 508 assistance
-** developer documentation for building information dashboards
+    * Tile layout builders
+    * IWC support
+    * IWC backwards compatibility
+    * 508 assistance
+    * developer documentation for building information dashboards
 * Featured Apps - two apps per organization ( Makes sense if there are 500+ of Apps)
 * Featured Apps in individual categories ( Makes sense if there are 500+ of Apps)
 * Metrics - track users that favorite a dashboard, as well as what widgets they add or subtract from it
-* Implement usage of draft listings in HUD
+* [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
