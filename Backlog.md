@@ -19,7 +19,7 @@
 ***
 
 * Recommendation engine: a list of apps specific to your mission when you first sign up ("If you like this, you might like this!")
-* Personalized HUD (Widgets, Metrics visualization, etc.)
+* [Personalized HUD (Widgets, Metrics visualization, etc.)](https://github.com/ozone-development/ozp-documentation/wiki/Customized-HUD)
 * [Notifications for Organizations](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * [Notifications for Apps](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * Pop-up notifications/names when scrolling over an app in HUD
