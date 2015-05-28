@@ -9,6 +9,7 @@ And many, many more use cases...
 Most of the work would occur on the back end but the UI artifacts are mocked up below.
 
 **Visual Treatment**
+
 The application banner would have an overlay at 30% opacity of a black background and a white "Draft" icon.
 The application's name would be italicized.
 The menu would no longer have the "Get Help" option and would, instead, have a "Submit to Marketplace" link that would take users to the "Submit a Listing" form with all the available information on the listing.
