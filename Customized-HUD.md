@@ -35,4 +35,4 @@ These widgets could include:
 ## Mockups
 
 #### Concept Mockup
-![HUD](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_HomepageConceptA.png)
+[![HUD](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_HomepageConceptA.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_HomepageConceptA.png)
