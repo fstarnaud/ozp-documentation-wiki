@@ -2,4 +2,4 @@ This page is where the Marketplace Steward will be able to create and modify gro
 
 
 ## Mockups
-![Group Management](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Groups.png)
+[![Group Management](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Groups.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Groups.png)
