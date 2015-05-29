@@ -8,6 +8,13 @@ This is about the process and UI for sharing listings from HUD. First, the items
 
 For the final version of the **Export** modal (eventual preferred file sharing method) and its partner modal, the "Import" modal, please follow this link.
 
+## Questions
+* By what identifier should people share listings by user? Email? Username? Display Name? ...
+* When sharing by user, should the listing automatically populate into the recipient's bookmarks?
+    * Should the recipient need to "accept" the bookmark?
+* Should the sender get a notification?
+    * Should it be whether the bookmarks was successfully received or if it is "accepted"?
+
 ## Webtop Mockups
 *Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
