@@ -11,15 +11,15 @@ These other options would then be provided as:
 ## Mockups
 ### HUD
 #### Launch in menu open
-![Bookmarks](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_DAF_00Menu.png)
+[![Bookmarks](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_DAF_00Menu.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_DAF_00Menu.png)
 
 ### Global Settings
 #### No other DAFs linked to account
-![DAF - No other options](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_NoOptions00.png)
+[![DAF - No other options](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_NoOptions00.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_NoOptions00.png)
 
 #### Other DAFs linked
 ##### Static View
-![DAF - Options available](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options01.png)
+[![DAF - Options available](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options01.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options01.png)
 
 ##### Menu Open
-![DAF - Options menu open](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options02.png)
+[![DAF - Options menu open](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options02.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/global/GT_Settings_DAFconfig_Options02.png)
