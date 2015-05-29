@@ -29,15 +29,15 @@ We intend to integrate a share button into the dashboard menu so that a user cou
 ## HUD Mockups
 
 #### Step 1 - Visit "My Bookmarks" in HUD
-![My Bookmarks](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_00Bookmarks.png)
+[![My Bookmarks](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_00Bookmarks.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_00Bookmarks.png)
 
 #### Step 2 - Click on "Share" in the Library options
 When the user clicks the "Share" link, the "Share" modal will open, as depicted in the next step.
-![My Bookmarks - Share](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_01Bookmarkshover.png)
+[![My Bookmarks - Share](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_01Bookmarkshover.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_01Bookmarkshover.png)
 
 #### Step 3 - The User Chooses the Listings for Sharing
 The list of listings depicted should be automatically generated from the list of sharable items that are in the user's Bookmarks.
-![Share Modal - Listings](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)
+[![Share Modal - Listings](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)
 
 #### Step 4 - The User Determines the Method of Sharing
 
@@ -45,23 +45,23 @@ The list of listings depicted should be automatically generated from the list of
 Initially, sharing by file may be the only one available. This mockup is meant to represent the UI for that functionality.
 
 
-![Share Modal - By File Only](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_06Modal_OnlyMethod.png)
+[![Share Modal - By File Only](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_06Modal_OnlyMethod.png)](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_06Modal_OnlyMethod.png)
 
 ##### By File or By User
 
 ###### Unselected
-![Share Modal - Method - unselected](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)
+[![Share Modal - Method - unselected](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/hud/HUD_ShareListing_03Modal_MethodUnselected.png)
 
 ###### By File
-![Share Modal - Method - By File](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_04Modal_MethodFile.png)
+[![Share Modal - Method - By File](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_04Modal_MethodFile.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_04Modal_MethodFile.png)
 
 ###### By User
-![Share Modal - Method - By User](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_05Modal_MethodUser.png)
+[![Share Modal - Method - By User](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_05Modal_MethodUser.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_05Modal_MethodUser.png)
 
 #### Confirmation Messages
 
 ##### Successful
-![Share Modal - Successful](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_07Modal_ConfirmationSuccessful.png)
+[![Share Modal - Successful](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_07Modal_ConfirmationSuccessful.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_07Modal_ConfirmationSuccessful.png)
 
 ##### Unsuccessful
-![Share Modal - Unsuccessful](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_08Modal_ConfirmationFailed.png)
+[![Share Modal - Unsuccessful](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_08Modal_ConfirmationFailed.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_ShareListing_08Modal_ConfirmationFailed.png)
