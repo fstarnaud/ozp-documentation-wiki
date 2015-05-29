@@ -6,6 +6,11 @@ It would allow
 * users who are constrained in their internet access could receive temporary versions of useful new listings without syncing with the entire store.
 * And many, many more use cases...
 
+#### Visual Treatment
+##### HUD
+* The application banner would have an overlay at 30% opacity of a black background and a white "Draft" icon.
+* The application's name would be italicized.
+* The menu would no longer have the "Get Help" option and would, instead, have a "Submit to Marketplace" link that would take users to the "Submit a Listing" form with all the available information on the listing.
 
 ## Questions
 * Could the listing export include the GUID? If it could, could it be matched against the DB?
@@ -14,11 +19,6 @@ It would allow
 
 Most of the work would occur on the backend but the UI artifacts are mocked up below.
 
-#### Visual Treatment
-##### HUD
-* The application banner would have an overlay at 30% opacity of a black background and a white "Draft" icon.
-* The application's name would be italicized.
-* The menu would no longer have the "Get Help" option and would, instead, have a "Submit to Marketplace" link that would take users to the "Submit a Listing" form with all the available information on the listing.
 
 #### Webtop
 
