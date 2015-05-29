@@ -18,25 +18,26 @@ To make a listing "Private", the system will utilize the same approval process a
 ### Owner
 
 ##### Owner submitting a request
-![Owner submitting a request for Private status](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivateRequest.png)
+[![Owner submitting a request for Private status](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivateRequest.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivateRequest.png)
 
 ##### Request pending
-![Request Pending](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivatePending.png)
+[![Request Pending](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivatePending.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_Owner_PrivatePending.png)
+
 
 ### Org. Steward
 
 ##### Request pending for Org. Steward
-![Pending for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_OrgSteward_PrivatePending.png)
+[![Pending for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_OrgSteward_PrivatePending.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_OrgSteward_PrivatePending.png)
 
 
 ### MP Steward
 
 ##### Listing and request pending for ORG STEWARD (as viewed by MP Steward)
-![Request pending for Org Steward - Viewable for MP](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingOrg.png)
+[![Request pending for Org Steward - Viewable for MP](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingOrg.png)](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingOrg.png)
 
 ##### Listing and request pending for MP Steward
-![Pending for MP Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingAML.png)
+[![Pending for MP Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingAML.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_PendingAML.png)
 
 ### Approved
 ##### Approved as Private
-![Approved as Private](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_Published.png)
+[![Approved as Private](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_Published.png)](https://github.com/ozone-development/ozp-documentation/blob/master/mockups/marketplace/MP_DetailedView_Admin_MPSteward_Published.png)
