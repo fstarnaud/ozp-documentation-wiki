@@ -29,10 +29,10 @@ Marketplace Stewards will be able to send messages from the system, an organizat
 *These mockups reflect the policy decisions at the time of last review and may be subject to change*
 
 ### Marketplace Steward
-![Notifications](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications.png)
+[![Notifications](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications.png)
 
 ### Org Steward
-![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
+[![Notifications for Org Steward](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_OrgSteward.png)
 
 ### Owner
-![Notifications for Owner](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_Owner.png)
+[![Notifications for Owner](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_Owner.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_MarketplaceManagement_Notifications_Owner.png)
