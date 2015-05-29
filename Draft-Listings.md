@@ -27,7 +27,7 @@ Most of the work would occur on the backend but the UI artifacts are mocked up b
 
 ### HUD
 #### Static Listing
-![Draft Listing](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_00Static.png)
+[![Draft Listing](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_00Static.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_00Static.png)
 
 #### Menu Open
-![Draft Listing - Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_01Menu.png)
+[![Draft Listing - Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_01Menu.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_Draft_01Menu.png)
