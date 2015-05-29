@@ -18,3 +18,5 @@
 ![Export 8](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/MP_ExportModal_04Confirmation.png)
 
 ### Import Modal
+
+![HUD Upload](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_ModalUpload.png)
