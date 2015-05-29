@@ -36,7 +36,8 @@
 ***
 
 ##Future Ideas that still need more discussions
-* Include Toolkits and Suites as listing types in Marketplace (Similar to Sharing Dashboards)
+* Include Toolkits as listing types in Marketplace
+* Include Suites as listing types in Marketplace
 * Show trending apps in Marketplace
 * Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
 * 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
