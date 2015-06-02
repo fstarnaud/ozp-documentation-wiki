@@ -26,4 +26,4 @@ The process typically goes like this:
 
 After this is done, wait for Jenkins to finish building everything (if you disabled the deploy jobs prior to making the release, re-enable them now and manually trigger them). After that's finished, sanity check that things look good on both ci-develop and ci-master. Also check the latest build artifacts for the various repos (especially `ozp-rest`) and make sure file sizes and dates look right.
 
-After verifying the release, let someone on ADV know to 'hit the button' to transfer the release over.
+After verifying the release, let someone on ADV know to 'hit the button' to transfer the release over. 'The button' is the running of a script that pulls down the latest build artifacts from the master jobs on Jenkins. The script contains credentials to log into Jenkins, and as such is not configured in GitHub.
