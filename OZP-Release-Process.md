@@ -8,7 +8,7 @@ The following repos require releasing:
 * ozp-iwc(*)
 * ozp-iwc-owf7-widget-adapter(*)
 
-(*) these repos are currently managed by Kevin, so the only action is to update the latest tag used for the master builds of these two projects in Jenkins (iwc does not currently use the Gitflow model with both `develop` and `master` branches)
+(*) these repos are currently managed by Kevin, so the only action is to update the latest tag used for the master builds of these two projects in Jenkins (iwc does not currently use the Gitflow model with both `develop` and `master` branches. Instead, the master Jenkins jobs for iwc and the iwc-owf7-adapter pull down specific, hard-coded tags)
 
 The process typically goes like this:
 
