@@ -19,3 +19,6 @@ The process typically goes like this:
  * bump the version number (usually just the patch version) in both `package.json` and `bower.json` (or `application.settings` in `ozp-rest`)
  * generate the changelog via `gulp changelog` (center, hud, react-commons) or `grunt changelog` (webtop) or `npm run changelog` (ozp-rest)
 * `git commit -am "release-vX.Y.Z"`
+* now tag the release: `git tag -a vX.Y.Z -m "vX.Y.Z"`
+* and push the merge to master and the new tag: `git push --follow-tags`
+* now merge the release to develop: `git checkout develop; git merge master --no-ff; git push`. For the merge comment, use something like "Merging master back into develop after release"
