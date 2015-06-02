@@ -20,5 +20,5 @@ The process typically goes like this:
  * generate the changelog via `gulp changelog` (center, hud, react-commons) or `grunt changelog` (webtop) or `npm run changelog` (ozp-rest)
 * `git commit -am "release-vX.Y.Z"`
 * now tag the release: `git tag -a vX.Y.Z -m "vX.Y.Z"`
-* and push the merge to master and the new tag: `git push --follow-tags`
-* now merge the release to develop: `git checkout develop; git merge master --no-ff; git push`. For the merge comment, use something like "Merge branch master back into develop after release"
+* and push the merge and new tag to master: `git push --follow-tags`
+* now merge the release back to develop: `git checkout develop; git merge master --no-ff; git push`. For the merge comment, use something like "Merge branch master back into develop after release"
