@@ -24,6 +24,6 @@ The process typically goes like this:
 * and push the merge and new tag to master: `git push --follow-tags`
 * now merge the release back to develop: `git checkout develop; git merge master --no-ff; git push`. For the merge comment, use something like "Merge branch master back into develop after release"
 
-After this is done, wait for Jenkins to finish building everything (if you disabled the deploy jobs prior to making the release, re-enable them now and manually trigger them). After that's finished, sanity check that things look on on both ci-develop and ci-master. Also check the latest build artifacts for the various repos (especially `ozp-rest`) and make sure file sizes and dates look right.
+After this is done, wait for Jenkins to finish building everything (if you disabled the deploy jobs prior to making the release, re-enable them now and manually trigger them). After that's finished, sanity check that things look good on both ci-develop and ci-master. Also check the latest build artifacts for the various repos (especially `ozp-rest`) and make sure file sizes and dates look right.
 
 After verifying the release, let someone on ADV know to 'hit the button' to transfer the release over.
