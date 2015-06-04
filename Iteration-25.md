@@ -59,6 +59,7 @@
 * ~~Discussion of where to place new apps added to webtop grid/desktop views~~
 * Tutorial (?)
 * ~~Add instructions to request a DI2E account to the Ozone marketing website~~
+* ~~OZP vs MWS diagram~~
 
 ## Roadblocks
 * Waiting for accounts to continue Accessibility Status Check
