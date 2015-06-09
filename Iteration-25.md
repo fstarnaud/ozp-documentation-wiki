@@ -7,9 +7,9 @@
 
 ## Iteration Goals:
 * GO LIVE!
-* Continue to work off Bugs for IOB
-* OWF 7 Adapter
-* Design and planning discussions for post IOB features
+* ~~Continue to work off Bugs for IOB~~
+* ~~OWF 7 Adapter~~
+* ~~Design and planning discussions for post IOB features~~
 
 
 ### NC 
@@ -18,7 +18,7 @@
    * Developers Guide
    * Deployment Guide
 * Support any remainder work implementing legacy REST endpoints in back end
-* Releasing 7.16 (Legacy)
+* ~~Releasing 7.16 (Legacy)~~
 
 ### Center/HUD
 * Load more button on search result Category, Text, Filter by Org [#268](https://github.com/ozone-development/ozp-center/issues/268)
