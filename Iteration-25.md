@@ -53,6 +53,7 @@
 * Implement website creation popup from login failure screen
 * Refactor LoginPKI to support general users
 * Sync deployments on STG
+* ~~Deploy metrics to di2e~~
 
 ### UI/UX
 * Dashboards (Mockups and Round 2 of feedback)
