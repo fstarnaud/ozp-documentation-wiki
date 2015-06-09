@@ -8,8 +8,9 @@
 
 
 ## Iteration Goals:
-* Design and planning discussions for post IOB features
-
+* Gather feedback from users post IOB
+* Document and fix bugs 
+* Recommendation for OZP backends tech stack and approval to implement
 
 ### NC / HUD
 * 
