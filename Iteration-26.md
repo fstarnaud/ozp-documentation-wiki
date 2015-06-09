@@ -13,7 +13,7 @@
 * Recommendation for OZP backends tech stack and approval to implement
 
 ### NC / HUD
-* HUD Application Library section
+* [HUD Application Library section](https://github.com/ozone-development/ozp-documentation/wiki/Customized-HUD)
 * HUD Listing Management section
 
 ### Center
