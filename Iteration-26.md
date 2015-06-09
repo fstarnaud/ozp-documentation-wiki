@@ -2,9 +2,9 @@
 
 *** 
 ### Next Milestones:
-Re factored backend with no dependencies on Java 7
-Interactive Help
-Shared Dashboards
+* Re-factored backend with no dependencies on Java 7
+* Interactive Help
+* Shared Dashboards
 
 
 ## Iteration Goals:
