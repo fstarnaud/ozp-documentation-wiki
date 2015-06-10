@@ -17,7 +17,7 @@
 * HUD Listing Management section
 
 ### Center / Interactive Help
-* 
+* [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 *
 * Bug Alphabetize Category Listings[#46] (https://github.com/ozone-development/ozp-center/issues/46)
 
