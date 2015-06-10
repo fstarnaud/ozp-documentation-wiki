@@ -27,7 +27,8 @@
 * ~~HUD folder loading issues [#88]()~~
 * ~~Create/Edit Page Add Singleton settings [#199](https://github.com/ozone-development/ozp-center/issues/199)~~
 * ~~Improved help page with links to documents and videos [#278](https://github.com/ozone-development/ozp-center/issues/278) [#90](https://github.com/ozone-development/ozp-hud/issues/90)
-
+* ~~Add "Searching" message during search [#276](https://github.com/ozone-development/ozp-center/issues/276)~~
+* ~~Create/Edit Page Add error message for empty Listing Type [#157](https://github.com/ozone-development/ozp-center/issues/157)
 
 ### Backend
 * ~~couple of legacy endpoints required for rb~~
