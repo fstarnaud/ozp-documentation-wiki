@@ -45,6 +45,7 @@
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
 * Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 * 508 compliance standards - Add "alt" tags to all webtop [#563](http://github.com/ozone-development/ozp-webtop/issues/563)
+* 390 iframe size is too small in layout view [#390](http://github.com/ozone-development/ozp-webtop/issues/390)
 
 ### IWC
 * Api refactor
