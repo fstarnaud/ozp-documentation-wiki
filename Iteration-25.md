@@ -21,10 +21,10 @@
 * ~~Releasing 7.16 (Legacy)~~
 
 ### Center/HUD
-* Load more button on search result Category, Text, Filter by Org [#268](https://github.com/ozone-development/ozp-center/issues/268)
-* POC scrambling [#267](https://github.com/ozone-development/ozp-center/issues/267)
+* ~~Load more button on search result Category, Text, Filter by Org [#268](https://github.com/ozone-development/ozp-center/issues/268)~~
+* ~~POC scrambling [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
 * HUD server issues message.
-* HUD folder loading issues.
+* ~~HUD folder loading issues [#88](https://github.com/ozone-development/ozp-hud/issues/88)~~
 
 
 ### Backend
