@@ -3,7 +3,6 @@
 ###Features
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* Interactive Help Tutorial
 * [Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for App listing with Roles/Permissions for App Owners
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
