@@ -32,6 +32,9 @@
 ### IWC
 * Api refactor
     * Intents Api revisit, dynamic handler tracking for the intent chooser.
+* Additional server communication enhancement Investigation:
+    * Server side push
+    * Web sockets
 * Legacy Adapter
     * Intent callbacks, implemented on feature awaiting Api refactor to merge.
 
