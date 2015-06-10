@@ -19,7 +19,7 @@
 ### Center / Interactive Help
 * 
 *
-* Bug [Alphabetize Category Listings] (https://github.com/ozone-development/ozp-center/issues/46)
+* Bug Alphabetize Category Listings[#46] (https://github.com/ozone-development/ozp-center/issues/46)
 
 ### Backend
 
