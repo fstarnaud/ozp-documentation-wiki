@@ -49,6 +49,7 @@
 * Styling for the new HUD sections
 * Tutorial video
 * Convert help docs
+* Give recommendation for tooltips
 
 ## Roadblocks
 
