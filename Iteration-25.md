@@ -25,6 +25,7 @@
 * ~~POC scrambling [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
 * HUD server issues message.
 * ~~HUD folder loading issues [#88](https://github.com/ozone-development/ozp-hud/issues/88)~~
+* ~~Create/Edit Page Add Singleton settings [#199](https://github.com/ozone-development/ozp-center/issues/199)~~
 
 
 ### Backend
