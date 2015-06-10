@@ -28,10 +28,10 @@
 
 
 ### Backend
-* couple of legacy endpoints required for rb
-* Delete application null point exception
+* ~~couple of legacy endpoints required for rb~~
+* ~~Delete application null point exception~~
 * Test plan for RB apps
-* Migrate RB to CI-Master
+* ~~Migrate RB to CI-Master~~
 * Migrate RB to STG
 
 ### Webtop
@@ -52,7 +52,7 @@
 ### Metrics
 * Implement website creation popup from login failure screen
 * Refactor LoginPKI to support general users
-* Sync deployments on STG
+* ~~Sync deployments on STG~~
 * ~~Deploy metrics to CI environment~~
 
 ### UI/UX
@@ -65,6 +65,6 @@
 * ~~OZP vs MWS diagram~~
 
 ## Roadblocks
-* Waiting for accounts to continue Accessibility Status Check
+* ~~Waiting for accounts to continue Accessibility Status Check~~
 
 ***
