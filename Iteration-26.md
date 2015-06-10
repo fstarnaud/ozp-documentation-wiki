@@ -47,6 +47,7 @@
 * Further build out mockups/concepts for items listed in the Backlog
 * Provide UI support for devs as needed
 * Styling for the new HUD sections
+* Support tutorial video
 
 ## Roadblocks
 
