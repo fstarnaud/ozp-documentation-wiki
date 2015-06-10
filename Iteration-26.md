@@ -22,6 +22,7 @@
 * Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 
 ### Backend
+* Recommendation for OZP backends tech stack and approval to implement
 
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
