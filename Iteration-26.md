@@ -18,8 +18,8 @@
 
 ### Center / Interactive Help
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-*
-* Bug Alphabetize Category Listings[#46] (https://github.com/ozone-development/ozp-center/issues/46)
+* Alphabetize Category Listings [#46](https://github.com/ozone-development/ozp-center/issues/46)
+* Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 
 ### Backend
 
