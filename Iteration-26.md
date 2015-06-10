@@ -16,7 +16,10 @@
 * [HUD Application Library section](https://github.com/ozone-development/ozp-documentation/wiki/Customized-HUD)
 * HUD Listing Management section
 
-### Center
+### Center / Interactive Help
+* 
+*
+* Bug [Alphabetize Category Listings] (https://github.com/ozone-development/ozp-center/issues/46)
 
 ### Backend
 
