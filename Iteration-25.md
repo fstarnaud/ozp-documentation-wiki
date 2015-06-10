@@ -63,12 +63,13 @@
 
 ### UI/UX
 * Dashboards (Mockups and Round 2 of feedback)
-* Tutorial (?)
+* Tutorial (started)
 * ~~Help Center: mockups, tour stops, and discussion with devs for implementation~~
 * ~~Webtop Toolbar: discussion with devs to implement webtop toolbar cohesiveness between grid/desktop views~~
 * ~~Webtop Apps: discussion of where to place new apps added to webtop grid/desktop views~~
 * ~~Add instructions to request a DI2E account to the Ozone marketing website~~
 * ~~OZP vs MWS diagram~~
+* Converting help documentation for the interactive help area
 
 ## Roadblocks
 * ~~Waiting for accounts to continue Accessibility Status Check~~
