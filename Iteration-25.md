@@ -26,9 +26,10 @@
 * ~~HUD server issues message. [#78](https://github.com/ozone-development/ozp-hud/issues/78)~~
 * ~~HUD folder loading issues [#88]()~~
 * ~~Create/Edit Page Add Singleton settings [#199](https://github.com/ozone-development/ozp-center/issues/199)~~
-* ~~Improved help page with links to documents and videos [#278](https://github.com/ozone-development/ozp-center/issues/278) [#90](https://github.com/ozone-development/ozp-hud/issues/90)
+* ~~Improved help page with links to documents and videos [#278](https://github.com/ozone-development/ozp-center/issues/278) [#90](https://github.com/ozone-development/ozp-hud/issues/90)~~
 * ~~Add "Searching" message during search [#276](https://github.com/ozone-development/ozp-center/issues/276)~~
-* ~~Create/Edit Page Add error message for empty Listing Type [#157](https://github.com/ozone-development/ozp-center/issues/157)
+* ~~Create/Edit Page Add error message for empty Listing Type [#157](https://github.com/ozone-development/ozp-center/issues/157)~~
+* ~~Branding - update favicons~~
 
 ### Backend
 * ~~couple of legacy endpoints required for rb~~
@@ -36,9 +37,9 @@
 * Test plan for RB apps
 * ~~Migrate RB to CI-Master~~
 * Migrate RB to STG
+* ~~Logfile cleanup - Do not attempt to create images directory if it already exists [#78](https://github.com/ozone-development/ozp-rest/issues/78)~~
 
 ### Webtop
-
 * Looking into several other bugs to finish but need to discuss further
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
 * Manual entry of URLs in Webtop can cause problems [#477](http://github.com/ozone-development/ozp-webtop/issues/477)
