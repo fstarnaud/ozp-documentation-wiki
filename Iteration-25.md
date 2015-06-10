@@ -50,7 +50,7 @@
     * Intents callback (blocked on API refactor, low priority)
 
 ### Metrics
-* Implement website creation popup from login failure screen
+* ~~Implement website creation popup from login failure screen~~
 * Refactor LoginPKI to support general users
 * ~~Sync deployments on STG~~
 * ~~Deploy metrics to CI environment~~
