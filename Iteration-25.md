@@ -44,6 +44,7 @@
 
 ### IWC
 * Api refactor
+* ~~Updated Intent Chooser~~
 * Legacy
     * ~~Metrics~~
     * ~~Logging~~
