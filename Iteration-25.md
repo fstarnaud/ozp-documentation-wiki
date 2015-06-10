@@ -23,9 +23,10 @@
 ### Center/HUD
 * ~~Load more button on search result Category, Text, Filter by Org [#268](https://github.com/ozone-development/ozp-center/issues/268)~~
 * ~~POC scrambling [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
-* HUD server issues message.
-* ~~HUD folder loading issues [#88](https://github.com/ozone-development/ozp-hud/issues/88)~~
+* ~~HUD server issues message. [#78](https://github.com/ozone-development/ozp-hud/issues/78)~~
+* ~~HUD folder loading issues [#88]()~~
 * ~~Create/Edit Page Add Singleton settings [#199](https://github.com/ozone-development/ozp-center/issues/199)~~
+* ~~Improved help page with links to documents and videos [#278](https://github.com/ozone-development/ozp-center/issues/278) [#90](https://github.com/ozone-development/ozp-hud/issues/90)
 
 
 ### Backend
