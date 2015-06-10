@@ -23,6 +23,10 @@
 ### Webtop
 
 ### IWC
+* Api refactor
+    * Intents Api revisit, dynamic handler tracking for the intent chooser.
+* Legacy Adapter
+    * Intent callbacks, implemented on feature awaiting Api refactor to merge.
 
 ### Metrics
 * 
