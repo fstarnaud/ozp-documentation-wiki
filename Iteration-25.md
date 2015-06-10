@@ -62,7 +62,7 @@
 * ~~Deploy metrics to CI environment~~
 
 ### UI/UX
-* Dashboards (Mockups and Round 2 of feedback)
+* ~~Dashboards (Mockups and Round 2 of feedback)~~
 * Tutorial (started)
 * ~~Help Center: mockups, tour stops, and discussion with devs for implementation~~
 * ~~Webtop Toolbar: discussion with devs to implement webtop toolbar cohesiveness between grid/desktop views~~
