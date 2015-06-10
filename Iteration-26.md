@@ -43,11 +43,12 @@
 ### Metrics
 * Refactor LoginPKI to support general users
 
-### UI/UX
+### UI/UX & Docs
 * Further build out mockups/concepts for items listed in the Backlog
 * Provide UI support for devs as needed
 * Styling for the new HUD sections
-* Support tutorial video
+* Tutorial video
+* Convert help docs
 
 ## Roadblocks
 
