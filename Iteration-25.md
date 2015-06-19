@@ -6,7 +6,7 @@
 <br>11 June 2015 - IOB
 
 ## Iteration Goals:
-* GO LIVE!
+* ~~GO LIVE!~~
 * ~~Continue to work off Bugs for IOB~~
 * ~~OWF 7 Adapter~~
 * ~~Design and planning discussions for post IOB features~~
