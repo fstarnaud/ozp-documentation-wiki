@@ -3,7 +3,7 @@
 *** 
 ### Next Milestones:
 ~~27 May 2015 - ORR~~
-<br>11 June 2015 - IOB
+<br> ~~11 June 2015 - IOB~~
 
 ## Iteration Goals:
 * ~~GO LIVE!~~
