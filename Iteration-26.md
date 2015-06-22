@@ -8,9 +8,9 @@
 
 
 ## Iteration Goals:
-* Gather feedback from users post IOB
-* Document and fix bugs 
-* Recommendation for OZP backends tech stack and approval to implement
+* ~~Gather feedback from users post IOB~~
+* ~~Document and fix bugs~~ 
+* ~~Recommendation for OZP backends tech stack and approval to implement~~
 
 ### NC / HUD
 * [HUD Application Library section](https://github.com/ozone-development/ozp-documentation/wiki/Customized-HUD)
@@ -23,7 +23,7 @@
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
 ### Backend
-* Recommendation for OZP backends tech stack and approval to implement
+* ~~Recommendation for OZP backends tech stack and approval to implement~~
 
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
