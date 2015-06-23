@@ -32,6 +32,10 @@
 
 ### UI/UX & Docs
 * Continue API documentation
+* Tutorial (In Progress)
+* Styling for the new HUD sections (Only needs feedback and tweaks)
+* Styling for Shouter and Listener demo apps (Only needs feedback and tweaks)
+* UX Support on-going development
 
 ## Roadblocks
 
