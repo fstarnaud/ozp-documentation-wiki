@@ -13,10 +13,10 @@
 ### NC / HUD
 * Begin tutorial Videos
 * Testing HUD widgets
-* Begin list view for Listing Management
+*
 
 ### Center / Interactive Help
-* 
+* Begin list view for Listing Management (NC) 
 
 ### Backend
 *
