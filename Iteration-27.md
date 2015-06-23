@@ -26,7 +26,7 @@
 * 
 
 ### Metrics
-* 
+* Document metrics deployment with sys admins and deployment team
 
 ### UI/UX & Docs
 * 
