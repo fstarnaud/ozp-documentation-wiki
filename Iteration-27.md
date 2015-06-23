@@ -13,7 +13,6 @@
 ### NC / HUD
 * Begin tutorial Videos
 * Testing HUD widgets
-*
 
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC) 
