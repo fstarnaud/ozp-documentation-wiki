@@ -19,11 +19,11 @@ For the final version of the **Export** modal (eventual preferred file sharing m
 *Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
 #### Dashboard Menu
-![Dashboard Menu]()
+![Dashboard Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/webtop/Webtop-ShareDashboard.png)
 We intend to integrate a share button into the dashboard menu so that a user could share any dashboard.
 
 #### Share Modal in Webtop
-![Share Modal]()
+![Share Modal](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/webtop/Webtop-ShareDashboardModal.png)
 
 
 ## HUD Mockups
