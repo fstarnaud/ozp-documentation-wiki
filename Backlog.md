@@ -28,9 +28,8 @@
 ***
 
 * Tag Cloud
-* User tags
-* Infinite scroll on main page of Marketplace
-* Add button on Marketplace to go back to the top of main page
+* [User tags](https://github.com/ozone-development/ozp-documentation/wiki/User-Tags)
+* Infinite scroll & "Back to Top" link on Marketplace on main page
 * Multiple types of webtops
 
 ***
