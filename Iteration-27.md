@@ -11,7 +11,9 @@
 * 
 
 ### NC / HUD
-* 
+* Begin tutorial Videos
+* Testing HUD widgets
+* Begin list view for Listing Management
 
 ### Center / Interactive Help
 * 
@@ -29,7 +31,7 @@
 * Document metrics deployment with sys admins and deployment team
 
 ### UI/UX & Docs
-* 
+* Continue API documentation
 
 ## Roadblocks
 
