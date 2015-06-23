@@ -41,7 +41,9 @@
     * Intent callbacks, implemented on feature awaiting Api refactor to merge.
 
 ### Metrics
-* Refactor LoginPKI to support general users
+* ~~Refactor LoginPKI to support general users~~
+* ~~Fix bug in viewing certain segments~~
+* ~~Change reporting of organization to pull from dutyorg field~~
 
 ### UI/UX & Docs
 * Styling for the new HUD sections (In progress)
