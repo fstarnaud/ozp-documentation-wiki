@@ -45,10 +45,10 @@
 
 ### UI/UX & Docs
 * Further build out mockups/concepts for items listed in the Backlog
-* Provide UI support for devs as needed
-* Styling for the new HUD sections
+* Provide UI support for devs as needed (Ongoing)
+* Styling for the new HUD sections (In progress)
 * Tutorial video
-* Convert help docs
+* ~~Convert help docs~~
 * ~~Give recommendation for tooltips, implementation direction for devs~~
 
 ## Roadblocks
