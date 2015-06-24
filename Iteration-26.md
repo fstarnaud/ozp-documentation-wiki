@@ -34,6 +34,7 @@
 * Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
 * ~~Applications stack directly when added as a group to the Webtop [#567](http://github.com/ozone-development/ozp-webtop/issues/567)~~
+* ~~Remove hard-coded username J Smith from webtop [#381](http://github.com/ozone-development/ozp-webtop/issues/381)~~
 
 ### IWC
 * Api refactor
