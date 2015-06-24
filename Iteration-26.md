@@ -28,6 +28,7 @@
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
 * Research A11y CLI and ngAria for 508 compliance standards  
+*~need a loading screen while waiting for data to load [#574](http://github.com/ozone-development/ozp-webtop/issues/574)~
 * Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
 
