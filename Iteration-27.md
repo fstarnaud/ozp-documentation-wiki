@@ -19,6 +19,7 @@
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
+* Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
 
 ### Backend
 * Continue (minimal) prototyping effort to validate path forward
