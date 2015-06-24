@@ -49,5 +49,5 @@
 * Design/document Backlog items
 
 ## Roadblocks
-
+* Decision on Branding locations and scripting vs code change
 ***
