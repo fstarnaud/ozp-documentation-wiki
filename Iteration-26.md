@@ -46,12 +46,12 @@
 * ~~Change reporting of organization to pull from dutyorg field~~
 
 ### UI/UX & Docs
-* Styling for the new HUD sections (In progress)
-* Tutorial video
 * ~~Further build out mockups/concepts for items listed in the Backlog~~
 * ~~Provide UI support for devs as needed (Ongoing)~~
 * ~~Convert help docs~~
 * ~~Give recommendation for tooltips, implementation direction for devs~~
+* Styling for the new HUD sections (In progress)
+* Tutorial video
 
 ## Roadblocks
 
