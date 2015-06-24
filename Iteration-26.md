@@ -19,7 +19,6 @@
 ### Center / Interactive Help
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * ~~Alphabetize Category Listings [#46](https://github.com/ozone-development/ozp-center/issues/46)~~
-* ~~Add tooltips to nav/controls in the Global Toolbar [#283](https://github.com/ozone-development/ozp-center/issues/283)~~
 * ~~Center does not load because of Notifications [#295](https://github.com/ozone-development/ozp-center/issues/295)~~
 * Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
@@ -34,6 +33,7 @@
 * ~~Add tooltips to nav/controls in Webtop and the Global Toolbar [#583](http://github.com/ozone-development/ozp-webtop/issues/#583)~~
 * Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
 * Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
+* ~~ Applications stack directly when added as a group to the Webtop [#567](http://github.com/ozone-development/ozp-webtop/issues/567) ~~
 
 ### IWC
 * Api refactor
