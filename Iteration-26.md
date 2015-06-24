@@ -26,6 +26,7 @@
 
 ### Backend
 * ~~Recommendation for OZP backends tech stack and approval to implement~~
+* ~~Logfile cleanup - Do not attempt to create images directory if it already exists [#78](https://github.com/ozone-development/ozp-rest/issues/78)~~ (again)
 
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
