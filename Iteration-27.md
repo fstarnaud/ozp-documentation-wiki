@@ -8,7 +8,7 @@
 
 
 ## Iteration Goals:
-* 
+* Build cool things
 
 ### NC / HUD
 * Begin tutorial Videos
