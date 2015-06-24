@@ -35,7 +35,7 @@
 
 ### Metrics
 * Document metrics deployment with sys admins and deployment team
-* Investigate export csv bug
+* Investigate CSV export error with large data sets
 
 ### UI/UX & Docs
 * Continue API documentation
