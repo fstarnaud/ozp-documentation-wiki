@@ -18,7 +18,7 @@
 
 ### Center / Interactive Help
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* Alphabetize Category Listings [#46](https://github.com/ozone-development/ozp-center/issues/46)
+* ~~Alphabetize Category Listings [#46](https://github.com/ozone-development/ozp-center/issues/46)~~
 * Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
