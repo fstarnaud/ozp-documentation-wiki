@@ -59,7 +59,7 @@
 * ~~Convert help docs~~
 * ~~Give recommendation for tooltips, implementation direction for devs~~
 * Styling for the new HUD sections (In progress)
-* Tutorial video
+* Tutorial video (In progress)
 
 ## Roadblocks
 
