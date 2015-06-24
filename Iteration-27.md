@@ -1,4 +1,4 @@
-# Iteration 27 (24June 2015 - 08 July 2015)
+# Iteration 27 (24J une 2015 - 08 July 2015)
 
 *** 
 ### Next Milestones:
@@ -8,7 +8,7 @@
 
 
 ## Iteration Goals:
-* TBD
+* Formal decision on backend refactor
 
 ### NC / HUD
 * Begin tutorial Videos
