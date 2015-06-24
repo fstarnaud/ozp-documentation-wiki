@@ -19,6 +19,7 @@
 ### Center / Interactive Help
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * ~~Alphabetize Category Listings [#46](https://github.com/ozone-development/ozp-center/issues/46)~~
+* ~~Add tooltips to nav/controls in the Global Toolbar [#283](https://github.com/ozone-development/ozp-center/issues/283)~~
 * ~~Center does not load because of Notifications [#295](https://github.com/ozone-development/ozp-center/issues/295)~~
 * Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
