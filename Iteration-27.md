@@ -28,6 +28,8 @@
 * Implement A11y CLI and ngAria for 508 compliance standards
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#577](http://github.com/ozone-development/ozp-webtop/issues/#577) [#596](http://github.com/ozone-development/ozp-webtop/issues/#596)
 * Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/#595)
+* Logic to set z-index in desktop layout is flawed [#99](http://github.com/ozone-development/ozp-webtop/issues/99)
+* Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
   
 
 ### IWC
