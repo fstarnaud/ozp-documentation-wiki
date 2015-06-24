@@ -21,7 +21,7 @@
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
 ### Backend
-*
+* Continue (minimal) prototyping effort to validate path forward
 
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
