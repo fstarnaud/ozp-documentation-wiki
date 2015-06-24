@@ -26,8 +26,8 @@
 ### Webtop
 * Discuss and look into users sharing dashboards views in webtop
 * Implement A11y CLI and ngAria for 508 compliance standards
-* Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#577][#596]
-* Remove the "minus" icon from the app chrome [#595]
+* Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#577][#596](http://github.com/ozone-development/ozp-webtop/issues/#577)(http://github.com/ozone-development/ozp-webtop/issues/#596)
+* Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/#595)
   
 
 ### IWC
