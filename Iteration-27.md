@@ -43,6 +43,7 @@
 * Styling for the new HUD sections (Only needs feedback and tweaks)
 * Styling for Shouter and Listener demo apps (Only needs feedback and tweaks)
 * UX Support on-going development
+  * Help Docs
 * Design/document Backlog items
 
 ## Roadblocks
