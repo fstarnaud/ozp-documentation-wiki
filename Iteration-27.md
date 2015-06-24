@@ -35,6 +35,10 @@
 
 ### IWC
 * Troubleshoot latest IWC/IWC Adapter release - mutex errors with RB
+* Documentation Updates
+    * How to list an app in the Center using the Legacy adapter
+    * How to use the IWC debugger
+
 
 ### Metrics
 * Document metrics deployment with sys admins and deployment team
