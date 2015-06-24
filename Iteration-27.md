@@ -21,7 +21,8 @@
 *
 
 ### Webtop
-* 
+* Discuss and look into users sharing dashboards views in webtop
+* Research A11y CLI and ngAria for 508 compliance standards  
 
 ### IWC
 * 
