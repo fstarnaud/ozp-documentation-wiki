@@ -40,9 +40,11 @@
 * Document metrics deployment with sys admins and deployment team
 * Investigate CSV export error with large data sets
 
-### UI/UX & Docs
+### Docs
 * Continue API documentation
 * Tutorial (In Progress)
+
+### UI/UX
 * Styling for the new HUD sections (Only needs feedback and tweaks)
 * Styling for Shouter and Listener demo apps (Only needs feedback and tweaks)
 * UX Support on-going development
