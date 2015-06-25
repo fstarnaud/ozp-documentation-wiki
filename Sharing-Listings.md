@@ -16,7 +16,6 @@ For the final version of the **Export** modal (eventual preferred file sharing m
     * Should it be whether the bookmarks was successfully received or if it is "accepted"?
 
 ## Webtop Mockups
-*Some changes have been made since the original mockups were created, including moving the dashboards menu down to the lower toolbar.*
 
 #### Dashboard Menu
 ![Dashboard Menu](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/webtop/Webtop-ShareDashboard.png)
