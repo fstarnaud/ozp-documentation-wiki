@@ -1,4 +1,4 @@
-# Iteration 27 (24J une 2015 - 08 July 2015)
+# Iteration 27 (24 June 2015 - 08 July 2015)
 
 *** 
 ### Next Milestones:
