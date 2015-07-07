@@ -17,7 +17,9 @@
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC) 
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)
+* ~~Direct link to search results [#280] (https://github.com/ozone-development/ozp-center/issues/280)~~
+* ~~Search & Discovery: Add search parameter details on results page (https://github.com/ozone-development/ozp-center/issues/161)~~
+* ~~Clicking home in the sidebar does not reset types or organizations (https://github.com/ozone-development/ozp-center/issues/308)~~
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 * Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
 
