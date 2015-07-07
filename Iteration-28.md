@@ -11,10 +11,11 @@
 * 
 
 ### NC / HUD
-* 
+* Fix Bugs with HUD
+* Finish up tutorial
 
 ### Center / Interactive Help
-* 
+* Begin list view for Listing Management (NC)
 
 ### Backend
 * 
@@ -29,7 +30,7 @@
 *
 
 ### Docs
-* 
+* Continue API documentation
 
 ### UI/UX
 * 
