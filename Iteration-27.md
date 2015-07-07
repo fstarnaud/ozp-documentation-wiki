@@ -50,10 +50,9 @@
 ### UI/UX
 * Styling for the new HUD sections (Only needs feedback and tweaks)
 * Styling for Shouter and Listener demo apps (Only needs feedback and tweaks)
-* UX Support on-going development
+* ~~UX Support on-going development~~
   * Help Docs
-* Investigation into AML Submission & Metrics Supplement
-* Design/document Backlog items
+* ~~Design/document Backlog items~~
 * ~~Discussion with ADV on integrating AML developer/metrics tools~~
 
 ## Roadblocks
