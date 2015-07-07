@@ -24,7 +24,7 @@
 * [Notifications for Organizations](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * [Notifications for Apps](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * Pop-up notifications/names when scrolling over an app in HUD
-* [Notification Display - most recent populates at top](https://github.com/ozone-development/ozp-documentation/wiki/Notifications-Display)
+* [Notification Display - most recent populates at top](https://github.com/ozone-development/ozp-documentation/wiki/Notification-Display)
 
 ***
 
