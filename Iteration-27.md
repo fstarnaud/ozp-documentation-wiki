@@ -11,8 +11,8 @@
 * Formal decision on backend refactor
 
 ### NC / HUD
-* Begin tutorial Videos
-* Testing HUD widgets
+* ~~Begin tutorial Videos~~
+* ~~Testing HUD widgets~~ 
 
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC) 
@@ -45,7 +45,7 @@
 
 ### Docs
 * Continue API documentation
-* Tutorial (In Progress)
+* ~~Tutorial (In Progress)~~
 
 ### UI/UX
 * ~~Styling for the new HUD sections (Only needs feedback and tweaks)~~
