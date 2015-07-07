@@ -16,6 +16,9 @@
 
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC)
+* Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
+* [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
+* Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
 ### Backend
 * 
