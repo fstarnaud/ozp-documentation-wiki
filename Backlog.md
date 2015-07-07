@@ -57,6 +57,6 @@
 * Featured Apps - two apps per organization ( Makes sense if there are 500+ of Apps)
 * Featured Apps in individual categories ( Makes sense if there are 500+ of Apps)
 * Metrics - track users that favorite a dashboard, as well as what widgets they add or subtract from it
-* Beef up Profile and Settings modals
+* Beef up [Profile](https://github.com/ozone-development/ozp-documentation/wiki/Profile) and Settings modals
 * [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
 * [Adding Layouts to Webtop](https://github.com/ozone-development/ozp-documentation/wiki/Webtop---Displaying-Apps-in-Layouts)
