@@ -8,7 +8,7 @@
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * Open Search API
 * Tech Debt -Investigate Image Server Setup
-* Cohesive responsiveness across the platform
+* Cohesive responsiveness across the platform to allow for a clean display on all screen sizes
 
 ##Future Release Buckets
 * [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
@@ -24,7 +24,7 @@
 * [Notifications for Organizations](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * [Notifications for Apps](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 * Pop-up notifications/names when scrolling over an app in HUD
-* Notifications - most recent populates at top (top to bottom)
+* [Notification Display - most recent populates at top](https://github.com/ozone-development/ozp-documentation/wiki/Notifications-Display)
 
 ***
 
