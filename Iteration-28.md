@@ -18,9 +18,7 @@
 * Begin list view for Listing Management (NC)
 * Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* Add Docs and Videos to help modal as labels instead of links [#278](https://huboard.com/ozone-development/ozp-center#/issues/86301820)
-* Fix undeleteable character in optional create/edit fields [#256](https://huboard.com/ozone-development/ozp-center#/issues/76741683), [#284](https://huboard.com/ozone-development/ozp-center#/issues/87378267)
-* Create/Edit Page - Error Pop-up shown when there are no errors [#301](https://huboard.com/ozone-development/ozp-center#/issues/91232589)
+
 
 ### Backend
 * Fix the "Mulder and Scully don't have write access" problem
