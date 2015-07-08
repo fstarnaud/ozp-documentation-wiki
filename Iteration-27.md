@@ -34,7 +34,9 @@
 * Implement A11y CLI and ngAria for 508 compliance standards
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views ~~[#577](http://github.com/ozone-development/ozp-webtop/issues/#577)~~ [#596](http://github.com/ozone-development/ozp-webtop/issues/#596)
 * Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/#595)
-* Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)
+* ~~Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)~~
+* ~~Allow more apps to be added when maximum number of grid rows reached [#309] (http://github.com/ozone-development/ozp-webtop/issues/#309)~~
+* ~~Newly added widgets occasionally hide in grid layout [#422] (http://github.com/ozone-development/ozp-webtop/issues/#422)~~
   
 
 ### IWC
