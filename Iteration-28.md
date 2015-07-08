@@ -31,6 +31,7 @@
 * Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/595) 
 * Single notifications are not being shown in webtop [#606](http://github.com/ozone-development/ozp-webtop/issues/606) 
 * Implement sweetalert or a modal for the 'max widgets' message (talk to UI people) [#607](http://github.com/ozone-development/ozp-webtop/issues/607) 
+* Add delete dashboard modal [#599](http://github.com/ozone-development/ozp-webtop/issues/599) 
 
 ### IWC
 * Troubleshoot latest IWC/IWC Adapter release
