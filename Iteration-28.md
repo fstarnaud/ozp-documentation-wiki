@@ -31,7 +31,7 @@
 *
 
 ### Metrics
-* Update Jenkins jobs to match new non-gitflow branching structure
+* 
 
 ### Docs
 * Continue API documentation
