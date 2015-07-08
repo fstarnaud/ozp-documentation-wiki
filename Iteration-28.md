@@ -27,8 +27,16 @@
 ### Webtop
 * 
  
+
 ### IWC
-*
+* Troubleshoot latest IWC/IWC Adapter release
+* Documentation Updates
+    * How to list an app in the Center using the Legacy adapter
+    * How to use the IWC debugger
+* Performance enhancements
+    * Dropping responses on internal messages that are not needed (minimize internal network footprint)
+* Clean up demo apps
+
 
 ### Metrics
 * 
