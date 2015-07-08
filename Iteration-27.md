@@ -22,6 +22,9 @@
 * ~~Clicking home in the sidebar does not reset types or organizations (https://github.com/ozone-development/ozp-center/issues/308)~~
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 * Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
+* Add Docs and Videos to help modal as labels instead of links [#278](https://huboard.com/ozone-development/ozp-center#/issues/86301820)
+* Fix undeleteable character in optional create/edit fields [#256](https://huboard.com/ozone-development/ozp-center#/issues/76741683), [#284](https://huboard.com/ozone-development/ozp-center#/issues/87378267)
+* Create/Edit Page - Error Pop-up shown when there are no errors [#301](https://huboard.com/ozone-development/ozp-center#/issues/91232589)
 
 ### Backend
 * ~~Continue (minimal) prototyping effort to validate path forward~~
