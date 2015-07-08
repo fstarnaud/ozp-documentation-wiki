@@ -20,7 +20,7 @@
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 * Add Docs and Videos to help modal as labels instead of links [#278](https://huboard.com/ozone-development/ozp-center#/issues/86301820)
-* Fix undeleteable character in optional create/edit fields [#256](https://huboard.com/ozone-development/ozp-center/issues/256), [#284](https://huboard.com/ozone-development/ozp-center/issues/284)
+* Fix undeleteable character in optional create/edit fields [#256](https://huboard.com/ozone-development/ozp-center#/issues/76741683), [#284](https://huboard.com/ozone-development/ozp-center#/issues/87378267)
 
 ### Backend
 * Fix the "Mulder and Scully don't have write access" problem
