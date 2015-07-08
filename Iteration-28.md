@@ -21,6 +21,7 @@
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
 ### Backend
+* Fix the "Mulder and Scully don't have write access" problem
 * Continue (minimal) prototyping effort to validate path forward
 
 ### Webtop
