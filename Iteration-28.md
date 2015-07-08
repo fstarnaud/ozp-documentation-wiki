@@ -40,8 +40,10 @@
 
 ### Outreach
 * Continue to assist RB folks (Brian, Elliot)
+* Get user feedback on Dashboard Sharing concept
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
 * Awaiting approval of new backend plan
+
 ***
