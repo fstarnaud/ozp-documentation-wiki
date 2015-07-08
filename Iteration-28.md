@@ -9,6 +9,7 @@
 
 ## Iteration Goals:
 * Get approval for re-factored backend plan and begin work
+* Switch to Zenhub
 
 ### NC / HUD
 * Fix Bugs with HUD
