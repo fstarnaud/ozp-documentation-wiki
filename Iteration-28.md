@@ -52,9 +52,9 @@
 ### UI/UX
 * UX Support on-going development
 * Future features:
-  * Investigate implementing responsiveness across the platform to allow for a clean display on all screen sizes
-  * Shared Dashboards
-  * Alerts
+  * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
+  * Shared Dashboards (be a part of discussions, UI pieces as needed)
+  * Alerts (sweetalert implementation, support Webtop uses)
 
 ### Outreach
 * Continue to assist RB folks (Brian, Elliot)
