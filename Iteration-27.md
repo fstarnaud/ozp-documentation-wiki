@@ -24,10 +24,10 @@
 * Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
 
 ### Backend
-* Continue (minimal) prototyping effort to validate path forward
+* ~~Continue (minimal) prototyping effort to validate path forward~~
 
 ### Webtop
-* Discuss and look into users sharing dashboards views in webtop
+* ~~Discuss and look into users sharing dashboards views in webtop~~
 * ~~Upgrade to Angular 1.3 [#227] (http://github.com/ozone-development/ozp-webtop/issues/#227)~~
 * Implement A11y CLI and ngAria for 508 compliance standards
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views ~~[#577](http://github.com/ozone-development/ozp-webtop/issues/#577)~~ [#596](http://github.com/ozone-development/ozp-webtop/issues/#596)
