@@ -4,11 +4,11 @@
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
 * Interactive Help
-* Shared Dashboards
+* Shared Dashboards - need user feedback before moving forward
 
 
 ## Iteration Goals:
-* 
+* Get approval for re-factored backend plan and begin work
 
 ### NC / HUD
 * Fix Bugs with HUD
@@ -21,7 +21,7 @@
 * Create/Edit Page POC Associated Org delete bug [#256](https://github.com/ozone-development/ozp-center/issues/256)
 
 ### Backend
-* 
+* Continue (minimal) prototyping effort to validate path forward
 
 ### Webtop
 * 
@@ -30,7 +30,7 @@
 *
 
 ### Metrics
-*
+* Update Jenkins jobs to match new non-gitflow branching structure
 
 ### Docs
 * Continue API documentation
@@ -38,6 +38,10 @@
 ### UI/UX
 * 
 
+### Outreach
+* Continue to assist RB folks (Brian, Elliot)
+
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
+* Awaiting approval of new backend plan
 ***
