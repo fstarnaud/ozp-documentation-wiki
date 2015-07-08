@@ -48,7 +48,8 @@
 
 ### Metrics
 * Document metrics deployment with sys admins and deployment team
-* Investigate CSV export error with large data sets
+* ~~Investigate CSV export error with large data sets~~
+* ~~Update Jenkins jobs to match new non-gitflow branching structure~~
 
 ### Docs
 * Continue API documentation
