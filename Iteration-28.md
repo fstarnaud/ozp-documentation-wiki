@@ -37,7 +37,7 @@
 * Continue API documentation
 
 ### UI/UX
-* 
+* UX Support on-going development
 
 ### Outreach
 * Continue to assist RB folks (Brian, Elliot)
