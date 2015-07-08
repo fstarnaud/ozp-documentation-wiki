@@ -37,6 +37,7 @@
 * ~~Newly added widgets are hard to find in grid layout [#420](http://github.com/ozone-development/ozp-webtop/issues/420)~~
 * ~~Allow more apps to be added when maximum number of grid rows reached [#309] (http://github.com/ozone-development/ozp-webtop/issues/#309)~~
 * ~~Newly added widgets occasionally hide in grid layout [#422] (http://github.com/ozone-development/ozp-webtop/issues/#422)~~
+* ~~Column issue in desktop view [#603] (http://github.com/ozone-development/ozp-webtop/issues/#603)~~
   
 
 ### IWC
