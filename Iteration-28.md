@@ -38,6 +38,7 @@
 
 ### UI/UX
 * UX Support on-going development
+* Investigate implementing responsiveness across the platform to allow for a clean display on all screen sizes
 
 ### Outreach
 * Continue to assist RB folks (Brian, Elliot)
