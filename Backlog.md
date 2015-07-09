@@ -3,7 +3,7 @@
 ###Features
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder) _to replace_ ~~[Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)~~
+* [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder) _to replace ~~[Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)~~_
 * Metrics for App listing with Roles/Permissions for App Owners
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * Open Search API
