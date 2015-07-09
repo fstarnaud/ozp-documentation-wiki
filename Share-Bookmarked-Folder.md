@@ -1,4 +1,7 @@
-One solution to the requested **shared workflows feature** is implementation in HUD via bookmarked folders. In this UX, the process would be as follows:
+One solution to the requested **shared workflows feature** is implementation in HUD via bookmarked folders. This starts out as bare bones basic, but it allows for us to take it many different directions depending on what feedback we receive from users on how they use this. Currently this doesn't allow for receivers to access shared history (maybe that's a future HUD module if needed), or for senders to send updates to past shares (other than simply reshare it) -- because we want to make it clear that this is only a copy. No upkeep needed. This eliminates a lot of admin tools, privacy controls, settings, etc that would then complicate this and confuse/clash with future role of Center listings.
+
+###Mockups
+To share a HUD folder:
 
 1. Sender creates a folder in HUD using bookmarked apps, and clicks "Share" from the folder modal.
 ![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_FolderShare_1_modal.png)
