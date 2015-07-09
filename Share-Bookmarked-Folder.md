@@ -1,4 +1,4 @@
-One solution to the requested *shared workflows feature* is implementation in HUD via bookmarked folders. Compared to other solutions, this method could solve development time issues and other complications. In this UX, the process would be as follows:
+One solution to the requested **shared workflows feature** is implementation in HUD via bookmarked folders. In this UX, the process would be as follows:
 
 1. User clicks on a folder and clicks to share it.
 ![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_FolderShare_1_modal.png)
