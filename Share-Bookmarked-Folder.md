@@ -11,3 +11,6 @@ To share a HUD folder:
 
 3. Receiver gets a notification with the option to either add the folder to their own HUD or to ignore.
 ![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_FolderShare_3_notification.png)
+
+4. Once the folder has been added to their own HUD, receiver can launch the entire folder contents into a new dashboard.
+![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_FolderShare_1_modal.png)
