@@ -16,7 +16,7 @@ The continuous effort to unite the entire community on a single computing platfo
 
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
-* [HuBoard](https://huboard.com/) - Kanban-style planning in GitHub Issues
+* [ZenHub](https://www.zenhub.io/) - Kanban-style planning in GitHub Issues
 * [TravisCI](https://travis-ci.org/) - Automated build server
 
 ### Other Free Stuff We Can Use
