@@ -51,10 +51,11 @@
 * Continue API documentation
 
 ### UI/UX
-* UX Support on-going development
+* Support on-going development
+  * ~~Interactive help modal implementation / articles~~
 * Future features:
   * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
-  * Shared Dashboards (be a part of discussions, UI pieces as needed)
+  * ~~Shared Dashboards (be a part of discussions, UI pieces as needed)~~
   * Alerts (sweetalert implementation, support Webtop uses)
 
 ### Outreach
