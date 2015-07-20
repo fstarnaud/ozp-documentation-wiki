@@ -15,6 +15,8 @@ Afterward, the user will be able to manually order the bookmarks via drag and dr
 
 [![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton00.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton00.png)
 
+[![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton01.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton01.png)
+
 ## Automatic Sorting
 
 General Organization: Automatic (unless manual option is chosen.)
