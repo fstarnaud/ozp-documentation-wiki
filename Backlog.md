@@ -60,3 +60,4 @@
 * Beef up [Profile](https://github.com/ozone-development/ozp-documentation/wiki/Profile) and Settings modals
 * [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
 * [Adding Layouts to Webtop](https://github.com/ozone-development/ozp-documentation/wiki/Webtop---Displaying-Apps-in-Layouts)
+* Add sorting capabilities to My Bookmarks
