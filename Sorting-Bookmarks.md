@@ -13,7 +13,7 @@ Sorting: When the user wants the listings ordered automatically, they click "Sor
 
 Afterward, the user will be able to manually order the bookmarks via drag and drop. No automated ordering changes will occur until the user sorts the listings.
 
-[![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton00.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortDropdown.png)
+[![](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton00.png)](https://raw.githubusercontent.com/ozone-development/ozp-documentation/master/mockups/hud/HUD_Bookmarks_SortButton00.png)
 
 ## Automatic Sorting
 
