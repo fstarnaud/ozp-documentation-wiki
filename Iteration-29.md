@@ -10,6 +10,7 @@
 ## Iteration Goals:
 * Get approval for shared dashboard implementation
 * continue progress on refactored backend
+* Updated Deployment Documentation
 
 ### NC / HUD
 
