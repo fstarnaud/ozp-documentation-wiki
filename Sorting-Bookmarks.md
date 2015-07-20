@@ -1,6 +1,4 @@
-## Sorting "My Bookmarks"
-
-### Desktop-style Sorting
+## Desktop-style Sorting
 In this style of a person's desktop, the listings act largely as they do currently but with the ability to sort their listings at any time.
 
 Initial: They are ordered by most recently added.
@@ -10,4 +8,4 @@ When the user wants the listings ordered automatically, they click "Sort" and se
 Afterward, the user will be able to manually order the bookmarks via drag and drop. No automated ordering changes will occur until the user sorts the listings.
 
 
-### Automatic Sorting
+## Automatic Sorting
