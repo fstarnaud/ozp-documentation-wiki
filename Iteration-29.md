@@ -13,9 +13,10 @@
 * Updated Deployment Documentation
 
 ### NC / HUD
-
+* Continue supporting testing efforts
+* Java 8 Pull Request for legacy - TBD
 ### Center / Interactive Help
-
+* Begin list view for Listing Management (NC)
 ### Backend
 
 ### Webtop
