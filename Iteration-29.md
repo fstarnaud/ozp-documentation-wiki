@@ -29,8 +29,7 @@
 ### IWC
 
 ### Metrics
-* Deploy and Test App Metrics for individual users to staging
-* Investigate metrics for Apps used/launched by people outside the Apps Owners Organization
+
 
 ### UI/UX
 * Support on-going development
