@@ -51,6 +51,8 @@
 
 ### UI/UX
 * Support on-going development
+  * Alert for maximum apps on a dashboard (currently 15)
+  * Removing demo page
 * Future features:
   * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
   * Alerts (sweetalert implementation, support Webtop uses)
