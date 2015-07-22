@@ -60,9 +60,9 @@
 * Support on-going development
   * ~~Interactive help modal implementation / articles~~
 * Future features:
-  * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform) ~~(started discussion)~~
+  *  ~~(started discussion)~~ Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
   * ~~Shared Dashboards (be a part of discussions, UI pieces as needed)~~
-  * Alerts (sweetalert implementation, support Webtop uses) ~~(started discussion)~~
+  *  ~~(started discussion)~~ Alerts (sweetalert implementation, support Webtop uses)
 
 ### Outreach
 * Continue to assist RB folks (Brian, Elliot)
