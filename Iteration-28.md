@@ -21,10 +21,10 @@
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 *  ~~Create/Edit Page - Prevent intermittently blank Listing Type [#266](https://github.com/ozone-development/ozp-center/issues/266)~~
 * ~~URL is in the Preview > Details view is truncated, leave full url and wrap to new line when too long #274~~
-* ~~Global Toolbar - Disable Notifications when there are no notifications #282 ~~
-* ~~Create/Edit Page - For short description show a countdown for the number of characters remaining. #293 ~~
-* ~~Scroll down to make load more less confusing #286 ~~
-* ~~GH-Pages Error in Center #239 ~~
+* ~~Global Toolbar - Disable Notifications when there are no notifications #282~~
+* ~~Create/Edit Page - For short description show a countdown for the number of characters remaining. #293~~
+* ~~Scroll down to make load more less confusing #286~~
+* ~~GH-Pages Error in Center #239~~
 
 
 ### Backend
