@@ -35,6 +35,11 @@
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
 
 ### IWC
+* Documentation Updates
+    * How to list an app in the Center using the Legacy adapter
+    * How to use the IWC debugger
+* Improved consensus algorithm
+* Continuation of Demo App updates.
 
 ### Metrics
 
