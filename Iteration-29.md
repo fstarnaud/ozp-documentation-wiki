@@ -18,6 +18,9 @@
 
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC)
+* Create/Edit Page - Tab transitions #92
+* Continue Interactive Help
+
 
 ### Backend (new)
 * Set up DI2E CI environment for new backend
