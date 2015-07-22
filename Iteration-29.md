@@ -2,14 +2,14 @@
 
 *** 
 ### Next Milestones:
-* Re-factored backend removing dependencies on Java 7
+* Re-factored backend removing dependencies on Java 7 - 3/31/2016
 * Interactive Help
 * Shared Dashboards/Folders - need user feedback before moving forward
 
 
 ## Iteration Goals:
 * Get approval for shared dashboard implementation
-* continue progress on refactored backend
+* Get feedback on dashboard sharing proposal paper
 * Updated Deployment Documentation
 
 ### NC / HUD
@@ -19,7 +19,10 @@
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC)
 
-### Backend
+### Backend (new)
+* Set up DI2E CI environment for new backend
+* Get initial Discovery page of Center working
+* Get initial HUD page working
 
 ### Webtop
 
