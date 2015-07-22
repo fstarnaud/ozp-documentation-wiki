@@ -52,6 +52,7 @@
 * Future features:
   * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
   * Alerts (sweetalert implementation, support Webtop uses)
+* Attempt to get in touch with users who submitted feedback for more information
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
