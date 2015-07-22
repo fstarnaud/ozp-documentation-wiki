@@ -35,13 +35,13 @@
 * Add delete dashboard modal [#599](http://github.com/ozone-development/ozp-webtop/issues/599) 
 
 ### IWC
-* Troubleshoot latest IWC/IWC Adapter release
+* ~~Troubleshoot latest IWC/IWC Adapter release~~
 * Documentation Updates
     * How to list an app in the Center using the Legacy adapter
     * How to use the IWC debugger
-* Performance enhancements
-    * Dropping responses on internal messages that are not needed (minimize internal network footprint)
-* Clean up demo apps
+* ~~Performance enhancements~~
+    * ~~Dropping responses on internal messages that are not needed (minimize internal network footprint)~~
+* ~~Clean up demo apps~~
 
 
 ### Metrics
