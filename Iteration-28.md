@@ -8,8 +8,8 @@
 
 
 ## Iteration Goals:
-* Get approval for re-factored backend plan and begin work
-* Switch to Zenhub
+* ~~Get approval for re-factored backend plan and begin work~~
+* ~~Switch to Zenhub~~
 
 ### NC / HUD
 * ~~Fix Bugs with HUD~~
@@ -23,8 +23,8 @@
 
 
 ### Backend
-* Fix the "Mulder and Scully don't have write access" problem
-* Continue (minimal) prototyping effort to validate path forward
+* ~~Fix the "Mulder and Scully don't have write access" problem~~
+* ~~Continue (minimal) prototyping effort to validate path forward~~
 
 ### Webtop
 * Improve accessibility
@@ -65,6 +65,6 @@
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
-* Awaiting approval of new backend plan
+* ~~Awaiting approval of new backend plan~~
 
 ***
