@@ -17,7 +17,7 @@
 
 ### Center / Interactive Help
 * Begin list view for Listing Management (NC) - not started
-* Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)
+* ~~Metrics - Search not reporting when a category is selected [#291](https://github.com/ozone-development/ozp-center/issues/291)~~
 * [Interactive Help] (https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 *  ~~Create/Edit Page - Prevent intermittently blank Listing Type [#266](https://github.com/ozone-development/ozp-center/issues/266)~~
 
