@@ -28,6 +28,10 @@
 * Fix cert case sensitivity issue
 
 ### Webtop
+* Improve accessibility
+* Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#596](http://github.com/ozone-development/ozp-webtop/issues/596)
+* Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/595) 
+* Implement sweetalert or a modal for the 'max widgets' message (talk to UI people) [#607](http://github.com/ozone-development/ozp-webtop/issues/607) 
 
 ### IWC
 
