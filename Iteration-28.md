@@ -23,7 +23,7 @@
 
 
 ### Backend
-* ~~Fix the "Mulder and Scully don't have write access" problem~~
+* ~~Fix the "Mulder and Scully don't have write access" problem for current users~~
 * ~~Continue (minimal) prototyping effort to validate path forward~~
 
 ### Webtop
