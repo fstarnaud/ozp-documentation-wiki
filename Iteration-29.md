@@ -24,6 +24,9 @@
 * Get initial Discovery page of Center working
 * Get initial HUD page working
 
+### Backend
+* Fix cert case sensitivity issue
+
 ### Webtop
 
 ### IWC
