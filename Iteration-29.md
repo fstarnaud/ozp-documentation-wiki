@@ -20,6 +20,8 @@
 * Begin list view for Listing Management (NC)
 * Create/Edit Page - Tab transitions #92
 * Continue Interactive Help
+* URL is in the Preview > Details view is truncated, leave full url and wrap to new line when too long #274 (IE Fix)
+* Global Toolbar - Disable Notifications when there are no notifications #282 (Style Fix)
 
 
 ### Backend (new)
