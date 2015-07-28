@@ -58,6 +58,7 @@
 * Future features:
   * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
   * Alerts (sweetalert implementation, support Webtop uses)
+  * Give recommendation/mockups for number totals added to Center categories/organization filters
 * Attempt to get in touch with users who submitted feedback for more information
 
 ## Roadblocks
