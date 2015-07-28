@@ -2,7 +2,8 @@
 
 *** 
 ### Next Milestones:
-* Re-factored backend removing dependencies on Java 7 - 3/31/2016
+* Re-factored backend removing dependencies on Java 7
+* 12/1/2015 - backend alpha in staging  
 * Interactive Help
 * Shared Dashboards/Folders - need user feedback before moving forward
 
