@@ -51,11 +51,11 @@
 
 
 ### UI/UX
-* Support on-going development
+* ~~Support on-going development~~
   * ~~Alert for maximum apps on a dashboard (currently 15)~~
   * ~~Removing demo page~~
   * ~~Build Bethany's environment for Center/HUD~~
-* Future features:
+* ~~Future features~~
   * ~~Give recommendation/mockups for number counts added to Center categories/organization filters~~
   * (IN PROGRESS) Responsiveness (~~investigate future complete responsiveness, choose a bootstrap breakpoint for now~~ and implement across platform)
 
