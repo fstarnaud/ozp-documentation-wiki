@@ -54,12 +54,10 @@
 * Support on-going development
   * ~~Alert for maximum apps on a dashboard (currently 15)~~
   * ~~Removing demo page~~
-  * Build Bethany's environment for Center/HUD
+  * ~~Build Bethany's environment for Center/HUD~~
 * Future features:
+  * ~~Give recommendation/mockups for number counts added to Center categories/organization filters~~
   * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
-  * Alerts (sweetalert implementation, support Webtop uses)
-  * ~~Give recommendation/mockups for number totals added to Center categories/organization filters~~
-* Attempt to get in touch with users who submitted feedback for more information
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
