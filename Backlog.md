@@ -1,6 +1,7 @@
 #Highlevel Backlog
 ## Next Release
 ###Features
+* Refactored Backend removing dependencies on Java 7
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder) _to replace ~~[Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)~~_
