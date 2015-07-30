@@ -57,7 +57,7 @@
   * ~~Build Bethany's environment for Center/HUD~~
 * Future features:
   * ~~Give recommendation/mockups for number counts added to Center categories/organization filters~~
-  * Responsiveness (~~investigate future complete responsiveness~~, choose a bootstrap breakpoint for now and implement across platform)
+  * (IN PROGRESS) Responsiveness (~~investigate future complete responsiveness, choose a bootstrap breakpoint for now~~ and implement across platform)
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
