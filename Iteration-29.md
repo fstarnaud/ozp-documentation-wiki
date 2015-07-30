@@ -9,7 +9,7 @@
 
 
 ## Iteration Goals:
-* Get approval for shared dashboard implementation
+* ~~Get approval for shared dashboard implementation~~
 * Continue progress on refactored backend
 * Updated Deployment Documentation
 
@@ -63,6 +63,6 @@
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
-* Awaiting approval for shared dashboards/folders implementation
+* ~~Awaiting approval for shared dashboards/folders implementation~~
 
 ***
