@@ -27,7 +27,7 @@
 * 
 
 ### Metrics
-* Investigate added metrics to webtop and HUD
+* Investigate adding metrics to webtop and HUD
 
 ### UI/UX
 * Support on-going development
