@@ -31,7 +31,7 @@
 * Get initial HUD page working
 
 ### Backend
-* Fix cert case sensitivity issue
+* ~~Fix cert case sensitivity issue~~
 
 ### Webtop
 * Improve accessibility
@@ -48,7 +48,7 @@
 * Continuation of Demo App updates.
 
 ### Metrics
-
+* ~~Test App Metrics in Staging~~
 
 ### UI/UX
 * ~~Support on-going development~~
