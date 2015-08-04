@@ -44,8 +44,8 @@
 * Documentation Updates
     * How to list an app in the Center using the Legacy adapter
     * How to use the IWC debugger
-* Improved consensus algorithm
-* Continuation of Demo App updates.
+* ~~Improved consensus algorithm~~
+* ~~Continuation of Demo App updates.~~
 
 ### Metrics
 * ~~Test App Metrics in Staging~~
