@@ -24,7 +24,10 @@
 * 
 
 ### IWC
-* 
+* Documentation
+  * How to use the debugger
+* IE11 local storage bug prevents iwc use outside of webtop. This bug also breaks intents as intent chooser opens outside of webtop. Only IE11 (will discuss when back in office after meeting) [#301](
+https://github.com/ozone-development/ozp-iwc/issues/301)
 
 ### Metrics
 * Investigate adding metrics to webtop and HUD
