@@ -16,6 +16,7 @@
 
 ### Center / Interactive Help
 * Continue Interactive Help
+* Counts to categories and organizations - [342](https://github.com/ozone-development/ozp-center/issues/342)
 
 ### Backend (new)
 * 
