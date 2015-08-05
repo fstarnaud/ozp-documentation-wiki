@@ -15,7 +15,7 @@
 * Java 8 Pull Request for legacy - TBD
 
 ### Center / Interactive Help
-* 
+* Continue Interactive Help
 
 ### Backend (new)
 * 
@@ -42,4 +42,3 @@ https://github.com/ozone-development/ozp-iwc/issues/301)
 
 ## Roadblocks
 * Decision on Branding locations and scripting vs code change
-
