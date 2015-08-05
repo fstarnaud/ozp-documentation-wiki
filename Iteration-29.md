@@ -14,11 +14,12 @@
 * Updated Deployment Documentation
 
 ### NC / HUD
-* Continue supporting testing efforts
-* Java 8 Pull Request for legacy - TBD
+* ~~Continue supporting testing efforts~~
+* ~~Java 8 Pull Request for legacy - TBD~~
+* ~~Submit PR for Custom HUD~~
 
 ### Center / Interactive Help
-* Begin list view for Listing Management (NC)
+* ~~Begin list view for Listing Management (NC)~~
 * Create/Edit Page - Tab transitions #92 [BACKLOGED]
 * Continue Interactive Help
 * ~~URL is in the Preview > Details view is truncated, leave full url and wrap to new line when too long #274 (IE Fix)~~
