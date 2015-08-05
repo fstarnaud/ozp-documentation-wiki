@@ -24,7 +24,6 @@
 ### Backend (new)
 * Update Listing Management to use new backend [#38](https://github.com/ozone-development/ozp-backend/issues/38)
 * Update Profile Modal to use new backend [#19](https://github.com/ozone-development/ozp-backend/issues/19), [#20](https://github.com/ozone-development/ozp-backend/issues/20)
-* Update Quickview to use new backend [#21](https://github.com/ozone-development/ozp-backend/issues/21), [#35](https://github.com/ozone-development/ozp-backend/issues/35)
 
 ### HUD
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
