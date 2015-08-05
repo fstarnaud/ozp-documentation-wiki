@@ -10,7 +10,7 @@
 * Continue progress on refactored backend
 * Continue progress shared folders in HUD
 
-### NC / HUD
+### NC
 * Continue supporting testing efforts
 * Java 8 Pull Request for legacy - TBD
 * Legacy bugs
@@ -25,10 +25,12 @@
 * Update Profile Modal to use new backend [#19](https://github.com/ozone-development/ozp-backend/issues/19), [#20](https://github.com/ozone-development/ozp-backend/issues/20)
 * Update Quickview to use new backend [#21](https://github.com/ozone-development/ozp-backend/issues/21), [#35](https://github.com/ozone-development/ozp-backend/issues/35)
 
+### HUD
+* Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
+
 ### Webtop
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#596](http://github.com/ozone-development/ozp-webtop/issues/596)
 * Remove the "minus" icon from the app chrome [#595](http://github.com/ozone-development/ozp-webtop/issues/595)
-* Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
 
 ### IWC
 * Documentation
