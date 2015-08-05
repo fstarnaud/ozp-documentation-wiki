@@ -13,10 +13,12 @@
 ### NC / HUD
 * Continue supporting testing efforts
 * Java 8 Pull Request for legacy - TBD
+* Legacy bugs
 
 ### Center / Interactive Help
 * Continue Interactive Help
 * Counts to categories and organizations - [342](https://github.com/ozone-development/ozp-center/issues/342)
+* Submit PR for Table View (NC)
 
 ### Backend (new)
 * Update Listing Management to use new backend [#38](https://github.com/ozone-development/ozp-backend/issues/38)
