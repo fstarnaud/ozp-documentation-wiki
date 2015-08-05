@@ -24,6 +24,7 @@
 * Continue Interactive Help
 * ~~URL is in the Preview > Details view is truncated, leave full url and wrap to new line when too long #274 (IE Fix)~~
 * ~~Global Toolbar - Disable Notifications when there are no notifications #282 (Style Fix)~~
+* ~~Global Toolbar - Add Help Desk Link (Center #345, React-Commons #13, HUD #116, Webtop #613)~~
 
 
 ### Backend (new)
