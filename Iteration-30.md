@@ -29,6 +29,7 @@
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
 
 ### Webtop
+* Improve accessibility
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#596](http://github.com/ozone-development/ozp-webtop/issues/596)
 * Wrap up 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
 
