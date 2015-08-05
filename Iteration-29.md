@@ -61,7 +61,7 @@
   * (IN PROGRESS) Responsiveness (~~investigate future complete responsiveness, choose a bootstrap breakpoint for now~~ and implement across platform)
 
 ## Roadblocks
-* Decision on Branding locations and scripting vs code change
+* ~~Decision on Branding locations and scripting vs code change~~
 * ~~Awaiting approval for shared dashboards/folders implementation~~
 
 ***
