@@ -26,9 +26,9 @@
 
 
 ### Backend (new)
-* Set up DI2E CI environment for new backend
-* Get initial Discovery page of Center working
-* Get initial HUD page working
+* ~~Set up DI2E CI environment for new backend~~
+* ~~Get initial Discovery page of Center working~~
+* ~~Get initial HUD page working~~
 
 ### Backend
 * ~~Fix cert case sensitivity issue~~
