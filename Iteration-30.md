@@ -9,6 +9,7 @@
 ## Iteration Goals:
 * Continue progress on refactored backend
 * Continue progress shared folders in HUD
+* Menu Counts for categories and Organizations
 
 ### NC
 * Continue supporting testing efforts
