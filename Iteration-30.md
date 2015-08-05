@@ -48,4 +48,3 @@ https://github.com/ozone-development/ozp-iwc/issues/301)
 * Attempt to get in touch with users who submitted feedback for more information
 
 ## Roadblocks
-* Decision on Branding locations and scripting vs code change
