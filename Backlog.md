@@ -8,8 +8,8 @@
 * Metrics for App listing with Roles/Permissions for App Owners
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * Open Search API
-* Tech Debt -Investigate Image Server Setup
 * Cohesive responsiveness across the platform to allow for a clean display on all screen sizes
+* App Counts for each organization displayed in the organizations drop down filter
 
 ##Future Release Buckets
 * [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
