@@ -46,9 +46,8 @@ https://github.com/ozone-development/ozp-iwc/issues/301)
 
 ### UI/UX
 * Support on-going development
-  * Build Bethany's environment for Center/HUD
+  * ~~Give recommendation for help desk link additions~~
 * Future features:
-  * Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)
-  * Alerts (sweetalert implementation, support Webtop uses)
+  * Responsiveness (~~investigate future complete responsiveness~~, choose a bootstrap breakpoint for now and implement across platform)
 
 ## Roadblocks
