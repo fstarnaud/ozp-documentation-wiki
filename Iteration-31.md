@@ -12,12 +12,13 @@
 
 ### NC
 * Continue supporting testing efforts
-* Java 8 Pull Request for legacy - TBD
+* Java 8 Pull Request for legacy - Evaluating
 * Legacy bugs
 
 ### Center / Interactive Help
 * Continue Interactive Help
 * Begin Interactive Help Integration 
+* Submit PR Request for Table View on All Listings and Org Listing pages
 
 ### Backend (new)
 * 
