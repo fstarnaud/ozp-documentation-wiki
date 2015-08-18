@@ -42,7 +42,9 @@
 https://github.com/ozone-development/ozp-iwc/issues/301)
 
 ### Metrics
-* Investigate adding metrics to webtop and HUD
+* ~~Investigate adding metrics to webtop and HUD~~
+* ~~Added metrics to webtop~~
+* ~~Added metrics to HUD~~
 
 ### UI/UX
 * Support on-going development
