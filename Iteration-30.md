@@ -47,9 +47,10 @@ https://github.com/ozone-development/ozp-iwc/issues/301)
 * ~~Added metrics to HUD~~
 
 ### UI/UX
-* Support on-going development
+* ~~Support on-going development~~
   * ~~Give recommendation for help desk link additions~~
-* Future features:
-  * Responsiveness (~~investigate future complete responsiveness~~, choose a bootstrap breakpoint for now and implement across platform)
+  * ~~Provide styling and content structuring support for Help Center~~
+* ~~Future features:~~
+  * ~~Responsiveness (investigate future complete responsiveness, choose a bootstrap breakpoint for now and implement across platform)~~
 
 ## Roadblocks
