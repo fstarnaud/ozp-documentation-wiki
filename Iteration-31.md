@@ -32,8 +32,17 @@
   * List of specific 508 compliance items that have been completed
   * List of potential 508 compliance challenges
 
+### Legacy Adapter + Backend
+* Frontend:
+    * Chrome API (widget chrome)
+* Backend:
+    * Ensure functionality of all preference endpoints.
+    * Address remaining legacy endpoints:
+        * /metrics
+        * /access
+
 ### IWC
-* 
+* Documentation
 
 ### Metrics
 * Adding piwik metrics capability to webtop and HUD
