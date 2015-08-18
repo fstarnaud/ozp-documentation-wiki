@@ -39,6 +39,8 @@
 
 ### UI/UX
 * Support on-going development
-* Test up dates to Center Responsiveness 
+  * Provide styling and content structuring support for Help Center
+* Future features
+  * Further test and support Center responsiveness 
 
 ## Roadblocks
