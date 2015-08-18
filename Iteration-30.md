@@ -9,7 +9,7 @@
 ## Iteration Goals:
 * Continue progress on refactored backend
 * Continue progress shared folders in HUD
-* Menu Counts for categories and Organizations
+* ~~Menu Counts for Organizations~~ and Categories
 
 ### NC
 * Continue supporting testing efforts
@@ -18,12 +18,12 @@
 
 ### Center / Interactive Help
 * Continue Interactive Help
-* Counts to categories and organizations - [342](https://github.com/ozone-development/ozp-center/issues/342)
+* ~~Counts for organizations~~ and categories - [342](https://github.com/ozone-development/ozp-center/issues/342)
 * Submit PR for Table View (NC)  - Will be submitted the next sprint
 
 ### Backend (new)
-* Update Listing Management to use new backend [#38](https://github.com/ozone-development/ozp-backend/issues/38)
-* Update Profile Modal to use new backend [#19](https://github.com/ozone-development/ozp-backend/issues/19), [#20](https://github.com/ozone-development/ozp-backend/issues/20)
+* ~~Update Listing Management to use new backend [#38](https://github.com/ozone-development/ozp-backend/issues/38)~~
+* ~~Update Profile Modal to use new backend [#19](https://github.com/ozone-development/ozp-backend/issues/19), [#20](https://github.com/ozone-development/ozp-backend/issues/20)~~
 
 ### HUD
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
