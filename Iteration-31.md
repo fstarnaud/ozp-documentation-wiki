@@ -51,7 +51,7 @@
 * Documentation
 
 ### Metrics
-
+* Setup high side deploy for HUD and webtop metrics
 
 ### UI/UX
 * Support on-going development
