@@ -10,6 +10,7 @@
 ## Iteration Goals:
 * Continue progress on refactored backend
 * Focus on legacy adapter
+* Test responsiveness changes for Center
 
 ### NC
 * Continue supporting testing efforts
