@@ -48,8 +48,7 @@
 * Documentation
 
 ### Metrics
-* Adding piwik metrics capability to webtop and HUD
-* Make piwik keys variables in configuration file for Center HUD and Webtop
+
 
 ### UI/UX
 * Support on-going development
