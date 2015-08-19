@@ -49,8 +49,9 @@ https://github.com/ozone-development/ozp-iwc/issues/301)~~
 
 ### Metrics
 * ~~Investigate adding metrics to webtop and HUD~~
-* ~~Added metrics to webtop~~
-* ~~Added metrics to HUD~~
+* ~~Added metrics capability to webtop~~
+* ~~Added metrics capability to HUD~~
+* ~~Make piwik keys variables in configuration file for Center HUD and Webtop~~
 
 ### UI/UX
 * ~~Support on-going development~~
