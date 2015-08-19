@@ -55,6 +55,7 @@
 ### UI/UX
 * Support on-going development
   * Provide styling and content structuring support for Help Center
+  * Provide temp UI to share HUD folders via URL
 * Future features
   * Further test and support Center responsiveness 
 
