@@ -37,6 +37,8 @@
 * 'Share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
 * ~~Alphabetize listings in the bookmarks modal correctly - make it case insensitive [#620](http://github.com/ozone-development/ozp-webtop/issues/620)~~
 * ~~Fix dropdown menu bugs [#618](http://github.com/ozone-development/ozp-webtop/issues/618) [#619](http://github.com/ozone-development/ozp-webtop/issues/619)~~
+* ~~Minor bug and style fixes~~
+* ~~Webtop now uses IWC except for data~~
 
 ### IWC
 * Documentation
