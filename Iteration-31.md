@@ -30,6 +30,7 @@
 ### HUD
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
   * Get help from UI/UX to implement a temporary way to share dashboard url’s
+
 ### Webtop
 * Improve accessibility
   * List of specific 508 compliance items that have been completed
