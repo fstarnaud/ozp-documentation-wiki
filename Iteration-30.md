@@ -37,6 +37,9 @@
   * List of potential 508 compliance challenges
 * Streamline behavior of clicking an app icon in the webtop toolbar between both grid and desktop views [#596](http://github.com/ozone-development/ozp-webtop/issues/596)
 * 'Share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
+  * ~~Create new endpoint for launch-folder URL and parameters~~
+  * ~~Create and change in to new dashboard based on launch-folder name~~
+  * Bookmark apps that a user does not already have bookmarked so they can be added to the new dashboard
 * ~~Alphabetize listings in the bookmarks modal correctly - make it case insensitive [#620](http://github.com/ozone-development/ozp-webtop/issues/620)~~
 * ~~Fix dropdown menu bugs [#618](http://github.com/ozone-development/ozp-webtop/issues/618) [#619](http://github.com/ozone-development/ozp-webtop/issues/619)~~
 * ~~Minor bug / branding / style fixes~~
