@@ -34,6 +34,8 @@
 * Improve accessibility
   * List of specific 508 compliance items that have been completed
   * List of potential 508 compliance challenges
+* 'Share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
+  * finish Bookmark apps so a user does not already have bookmarked so they can be added to the new dashboard
 
 ### Legacy Adapter + Backend
 * Frontend:
