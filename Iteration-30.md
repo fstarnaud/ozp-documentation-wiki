@@ -44,6 +44,7 @@
 * ~~Fix dropdown menu bugs [#618](http://github.com/ozone-development/ozp-webtop/issues/618) [#619](http://github.com/ozone-development/ozp-webtop/issues/619)~~
 * ~~Minor bug / branding / style fixes~~
 * ~~Webtop now uses IWC except for data~~
+* ~~piwik support added~~
 
 ### IWC
 * Documentation
