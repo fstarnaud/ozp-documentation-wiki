@@ -27,7 +27,9 @@
 * ~~Update Profile Modal to use new backend [#19](https://github.com/ozone-development/ozp-backend/issues/19), [#20](https://github.com/ozone-development/ozp-backend/issues/20)~~
 
 ### HUD
-* Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
+* Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
+  * ~~Create custom URL in hud with the folder name, and UUID/ID's of widgets to launch in HUD~~
+  * Implement way for user to share URL with other users 
 
 ### Webtop
 * Improve accessibility
