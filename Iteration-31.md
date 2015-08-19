@@ -8,7 +8,8 @@
 * Shared folders in HUD
 
 ## Iteration Goals:
-* 
+* Continue progress on refactored backend
+* Focus on legacy adapter
 
 ### NC
 * Continue supporting testing efforts
