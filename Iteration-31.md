@@ -57,7 +57,7 @@
 * Support on-going development
   * Provide styling and content structuring support for Help Center
   * Provide temp UI to share HUD folders via URL
-  * Support merge issues for new Table View PR in Center Listings Management
+  * Provide support for responsive merge issues on new Listings Management Table View PR
 * Future features
   * Further test and support Center responsiveness 
 
