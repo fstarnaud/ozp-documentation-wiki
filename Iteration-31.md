@@ -59,7 +59,8 @@
   * Provide temp UI to share HUD folders via URL
   * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
 * Future features
-  * Mockup screenshots of Contact modal (separate submit feedback/bugs) and Help modal with videos
+  * ~~Mockup screenshots of Contact modal (separate submit feedback/bugs), discussion with customer~~
+  * Mockup screenshots of Help modal with videos
   * Further test and support Center responsiveness 
 
 ## Roadblocks
