@@ -62,6 +62,6 @@
   * ~~Further test and support Center responsiveness~~
   * ~~Mockup screenshots of Contact modal (separate submit feedback/bugs), discussion with customer~~
   * Mockup screenshots of Help modal with videos
-  * Support implementation of Contact modal (center #348)
+  * Support implementation of Contact modal [#348] (https://github.com/ozone-development/ozp-center/issues/348)
 
 ## Roadblocks
