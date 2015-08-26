@@ -6,7 +6,6 @@
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
 * [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder) _to replace ~~[Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)~~_
 * ~~Metrics for App listing with Roles/Permissions for App Owners~~
-* [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * ~~Cohesive responsiveness across the platform to allow for a clean display on all screen sizes~~
 * ~~App Counts for each organization displayed in the organizations drop down filter~~
 * Continue progress in improvements to 508 Compliance
@@ -17,6 +16,7 @@
 * [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for all Apps within Orgs for Org Stewards
 * [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
+* [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 
 ***
 
