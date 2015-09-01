@@ -15,12 +15,13 @@
 ### NC
 * Continue supporting testing efforts
 * Java 8 Pull Request for legacy - Evaluating
-* Legacy bugs
+* ~~Legacy bugs~~
+* Begin converting the sample Log Widget to use IWC
 
 ### Center / Interactive Help
 * Continue Interactive Help
 * Begin Interactive Help Integration 
-* Submit PR Request for Table View on All Listings and Org Listing pages
+* ~~Submit PR Request for Table View on All Listings and Org Listing pages~~ Pull Request Submitted
 
 ### Backend (new)
 * Update Quickview to use new backend [#21] (https://github.com/ozone-development/ozp-backend/issues/21) [#35] (https://github.com/ozone-development/ozp-backend/issues/35)
