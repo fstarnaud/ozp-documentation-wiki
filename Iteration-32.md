@@ -20,7 +20,8 @@
 * Continue Interactive Help
 
 ### Backend (new)
-* 
+* Endpoint for creating and editing a new listing [#32](https://github.com/ozone-development/ozp-backend/issues/32)
+
 
 ### Webtop / HUD
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
