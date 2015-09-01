@@ -56,12 +56,12 @@
 ### UI/UX
 * Support on-going development
   * ~~Provide temp UI to share HUD folders via URL~~
-  * Provide styling and content structuring support for Help Center
+  * ~~Provide styling and content structuring support for Help Center~~
   * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
 * Future features
   * ~~Further test and support Center responsiveness~~
   * ~~Mockup screenshots of Contact modal (separate submit feedback/bugs), discussion with customer~~
-  * Mockup screenshots of Help modal with videos
+  * ~~Mockup screenshots of Help modal with videos~~
   * Support implementation of Contact modal [#348] (https://github.com/ozone-development/ozp-center/issues/348)
 
 ## Roadblocks
