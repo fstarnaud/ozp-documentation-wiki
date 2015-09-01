@@ -13,8 +13,8 @@
 
 ### NC
 * Continue supporting testing efforts
-* Java 8 Pull Request for legacy - Evaluating
-* Legacy bugs
+* Java 8 Pull Request for legacy - Evaluation Continued
+* Convert the sample Log Widget to use IWC
 
 ### Center / Interactive Help
 * Continue Interactive Help
