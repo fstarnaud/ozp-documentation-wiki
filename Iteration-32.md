@@ -13,7 +13,7 @@
 
 ### NC
 * Continue supporting testing efforts
-* Java 8 Support
+* Java 8 Support for OWF
 * Convert the sample Log Widget to use IWC
 
 ### Center / Interactive Help
