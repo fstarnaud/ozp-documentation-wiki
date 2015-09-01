@@ -25,8 +25,8 @@
 * ~~Submit PR Request for Table View on All Listings and Org Listing pages~~ Pull Request Submitted
 
 ### Backend (new)
-* Update Quickview to use new backend [#21] (https://github.com/ozone-development/ozp-backend/issues/21) [#35] (https://github.com/ozone-development/ozp-backend/issues/35)
-* Add support for menu-profile modal in HUD [#20] (https://github.com/ozone-development/ozp-backend/issues/20) 
+* ~~Update Quickview to use new backend [#21] (https://github.com/ozone-development/ozp-backend/issues/21) [#35] (https://github.com/ozone-development/ozp-backend/issues/35)~~
+* ~~Add support for menu-profile modal in HUD [#20] (https://github.com/ozone-development/ozp-backend/issues/20)~~ 
 * Endpoint for creating and editing a new listing [#32](https://github.com/ozone-development/ozp-backend/issues/32)
 
 ### HUD
