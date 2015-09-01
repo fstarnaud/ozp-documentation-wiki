@@ -10,6 +10,7 @@
 ## Iteration Goals:
 * Continue progress on refactored backend
 * Demonstration and feedback on interactive help
+* Review pull request for table listing view
 
 ### NC
 * Continue supporting testing efforts
