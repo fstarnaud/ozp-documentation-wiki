@@ -27,7 +27,9 @@
   * Get help from UI/UX to implement a temporary way to share dashboard url’s
 
 ### 508
-* 
+* Improve accessibility
+  * List of specific 508 compliance items that have been completed
+  * List of potential 508 compliance challenges
 
 ### IWC
 * Documentation
