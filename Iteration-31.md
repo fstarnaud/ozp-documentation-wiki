@@ -17,6 +17,7 @@
 * Java 8 Pull Request for legacy - Evaluating
 * ~~Legacy bugs~~
 * Begin converting the sample Log Widget to use IWC
+* ~~Legacy API Documentation was completed~~
 
 ### Center / Interactive Help
 * Continue Interactive Help
