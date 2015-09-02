@@ -19,6 +19,7 @@
 
 ### Center / Interactive Help
 * Continue Interactive Help
+* Begin integration of Help
 
 ### Backend (new)
 * Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)
