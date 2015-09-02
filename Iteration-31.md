@@ -42,17 +42,19 @@
 * 'Share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop
   * finish Bookmark apps so a user does not already have bookmarked so they can be added to the new dashboard
 
+
 ### Legacy Adapter + Backend
-* Frontend:
-    * Chrome API (widget chrome)
+* ~~Frontend:~~
+    * ~~Chrome API (widget chrome)~~
 * Backend:
     * Ensure functionality of all preference endpoints.
-    * Address remaining legacy endpoints:
+    * ~~Address remaining legacy endpoints:~~
         * /metrics
-        * /access
+        * ~~/access~~ 
+* ~~Support for users~~
 
 ### IWC
-* Documentation
+* ~~Documentation~~
 
 ### Metrics
 * ~~Setup high side deploy for HUD and webtop metrics~~
