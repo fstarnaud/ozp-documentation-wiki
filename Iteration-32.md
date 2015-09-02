@@ -44,7 +44,7 @@
   * List of specific 508 compliance items that have been completed
 
   * List of potential 508 compliance challenges
-    * Center - Not so much are a challenge but something to think about we a new app is created with images, what would be the best way to add alternatives tags to the new images (in form).
+    * Center - Not so much of a challenge but something to think about we a new app is created with images, what would be the best way to add alternatives tags to the new images (in form).
 
 ### IWC
 * Documentation
