@@ -34,6 +34,8 @@
 ### Webtop / HUD
 * Work on 'share a folder' functionality where HUD can open a folder of apps in a new dashboard in webtop 
   * Get help from UI/UX to implement a temporary way to share dashboard url’s
+* When library reloaded on launchFolder, push bookmarked apps in to available apps [webtop #631](https://github.com/ozone-development/ozp-webtop/issues/631)
+* Implement Share Folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)
 
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
