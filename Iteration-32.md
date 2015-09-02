@@ -52,7 +52,7 @@
 * Legacy Adapter support to users
 
 ### Metrics
-* 
+* Investigate automating specific reportrs
 
 ### UI/UX
 * Support on-going development
