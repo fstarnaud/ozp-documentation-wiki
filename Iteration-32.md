@@ -16,6 +16,7 @@
 * Continue supporting testing efforts
 * Java 8 Support for OWF
 * Convert the sample Log Widget to use IWC
+* Look into implementing contact modal
 
 ### Center / Interactive Help
 * Continue Interactive Help
