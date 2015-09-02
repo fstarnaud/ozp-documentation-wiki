@@ -48,9 +48,12 @@
   * List of potential 508 compliance challenges
     * Center - Not so much of a challenge but something to think about we a new app is created with images, what would be the best way to add alternatives tags to the new images (in form).
 
-### IWC
+
+### IWC/Legacy Adapter
 * Documentation
+   * Debugger use
 * Legacy Adapter support to users
+* Legacy Backend endpoints (widget listing endpoints & /metrics)
 
 ### Metrics
 * Investigate automating specific reportrs
