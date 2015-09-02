@@ -36,7 +36,9 @@
   * Get help from UI/UX to implement a temporary way to share dashboard url’s
 
 ### 508
-* Improve accessibility 
+* Improve accessibility for (Center, HUD, Webtop)
+  * List of specific 508 compliance items currently working on
+    * Center - The form shall allow people using assistive technology (ie.JAWS) to access the information, field elements, and functionality required for completion and submission of the form. 
   * List of specific 508 compliance items that have been completed
   * List of potential 508 compliance challenges
 
