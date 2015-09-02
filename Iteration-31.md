@@ -24,6 +24,7 @@
 * Begin Interactive Help Integration 
 * ~~Submit PR Request for Table View on All Listings and Org Listing pages~~ Pull Request Submitted
 * ~~Add Help to Jenkins~~ 
+
 ### Backend (new)
 * ~~Update Quickview to use new backend [#21] (https://github.com/ozone-development/ozp-backend/issues/21) [#35] (https://github.com/ozone-development/ozp-backend/issues/35)~~
 * ~~Add support for menu-profile modal in HUD [#20] (https://github.com/ozone-development/ozp-backend/issues/20)~~ 
