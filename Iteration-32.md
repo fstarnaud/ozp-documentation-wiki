@@ -57,6 +57,7 @@
 
 ### Metrics
 * Investigate automating specific reportrs
+* Track when app is launched in a new tab or webtop
 
 ### UI/UX
 * Support on-going development
