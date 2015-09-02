@@ -61,6 +61,8 @@
 ### UI/UX
 * Support on-going development
   * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
+  * Support Webtop sharing UI as needed
+  * Support Help implementation / responsiveness
 * Future features
   * Support implementation of Contact modal [#348] (https://github.com/ozone-development/ozp-center/issues/348)
   
