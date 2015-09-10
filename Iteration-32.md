@@ -65,6 +65,7 @@
   * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
   * Support Webtop sharing UI as needed
   * Support Help implementation / responsiveness
+  * Set up docker for LESS>SASS conversion
   * ~~Update icon repo to add contact/help icons~~
 * Future features
   * Support implementation of Contact modal [#348] (https://github.com/ozone-development/ozp-center/issues/348)
