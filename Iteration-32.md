@@ -16,7 +16,9 @@
 * Continue supporting testing efforts
 * ~~Java 8 Support for OWF~~ - Only Testing and Release remain
 * Convert the sample Log Widget to use IWC
-* ~~Look into implementing contact modal~~
+* ~~Look into implementing contact modal~~ - Pull Request Submitted for HUD/Center/Webtop/ozp-react-commons
+* ~~Automated IWC documentation to create PDFs~~
+* ~~Updated Documentation with new features~~ - Pull Requests Submitted
 
 ### Center / Interactive Help
 * Continue Interactive Help
