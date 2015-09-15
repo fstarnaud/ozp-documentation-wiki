@@ -14,9 +14,9 @@
 
 ### NC
 * Continue supporting testing efforts
-* Java 8 Support for OWF
+* ~~Java 8 Support for OWF~~ - Only Testing and Release remain
 * Convert the sample Log Widget to use IWC
-* Look into implementing contact modal
+* ~~Look into implementing contact modal~~
 
 ### Center / Interactive Help
 * Continue Interactive Help
