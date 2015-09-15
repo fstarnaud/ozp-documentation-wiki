@@ -35,7 +35,8 @@
 
 ### UI/UX
 * Support on-going development
-* Future features
+  * Set up docker for LESS>SASS conversion
+  * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
 
   
 ## Roadblocks
