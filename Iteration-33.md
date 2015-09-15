@@ -25,6 +25,7 @@
 * Hookup Center Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)
 * Hookup Center Create/Edit Listing endpoints [#32](https://github.com/ozone-development/ozp-backend/issues/32)
 * Hookup quickview administration endpoints [#23](https://github.com/ozone-development/ozp-backend/issues/23)
+* Hookup settings categories [#24](https://github.com/ozone-development/ozp-backend/issues/24)
 
 
 ### Webtop / HUD
