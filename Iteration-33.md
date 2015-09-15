@@ -1,0 +1,41 @@
+# Iteration 33 (16 Sept 2015 - 30 Sept)
+
+*** 
+### Next Milestones:
+* Re-factored backend removing dependencies on Java 7
+* 12/1/2015 - backend alpha in staging  
+* Interactive Help
+* Shared folders in HUD
+
+## Iteration Goals:
+* 
+* 
+* 
+
+### NC
+* Continue supporting testing efforts
+* Java 8 Support for OWF
+
+### Center / Interactive Help
+* 
+
+### Backend (new)
+* 
+
+### Webtop / HUD
+* 
+
+### 508
+
+### IWC/Legacy Adapter
+* Legacy Adapter support to users
+
+### Metrics
+* Investigate automating export of specific report data to csv/excel 
+
+### UI/UX
+* Support on-going development
+* Future features
+
+  
+## Roadblocks
