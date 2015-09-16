@@ -67,7 +67,7 @@
   * ~~Update icon repo to add contact/help icons~~
   * ~~Fix style/display bugs reported on staging~~
   * Set up docker for LESS>SASS conversion
-  * Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
+  * ~~IN PROGRESS~~ Provide support for responsive merge issues on new Listings Management Table View PR / HUD PR
 * Future features
   * ~~Support implementation of Contact modal [#348] (https://github.com/ozone-development/ozp-center/issues/348)~~
   
