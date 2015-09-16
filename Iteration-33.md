@@ -22,6 +22,7 @@
 * 
 
 ### Backend (new)
+* Implement HATEOAS endpoints for IWC support (system.api, data.api, and intents.api)
 * Hookup Center Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)
 * Hookup Center Create/Edit Listing endpoints [#32](https://github.com/ozone-development/ozp-backend/issues/32)
 * Hookup quickview administration endpoints [#23](https://github.com/ozone-development/ozp-backend/issues/23)
