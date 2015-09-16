@@ -39,6 +39,7 @@
     * Center - The form shall allow people using assistive technology (ie. JAWS) to access the information, field elements, and functionality required for completion and submission of the form. [#371] (https://github.com/ozone-development/ozp-center/issues/371)
     * Center - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#370] (https://github.com/ozone-development/ozp-center/issues/370)
 
+* HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
 
 ### IWC/Legacy Adapter
 * Legacy Adapter support to users
