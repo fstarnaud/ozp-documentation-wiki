@@ -30,7 +30,7 @@
 
 
 ### Webtop / HUD
-* 
+* share folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)
 
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
