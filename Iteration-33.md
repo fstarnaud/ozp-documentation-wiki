@@ -31,6 +31,7 @@
 
 ### Webtop / HUD
 * share folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)
+*ie folder bug(s) [hud #125](https://github.com/ozone-development/ozp-hud/issues/125)
 * webtop style items
   * update app chrome [webtop #595](https://github.com/ozone-development/ozp-webtop/issues/595)
   * update to latest ozp-bootstrap [webtop #632](https://github.com/ozone-development/ozp-webtop/issues/632)
