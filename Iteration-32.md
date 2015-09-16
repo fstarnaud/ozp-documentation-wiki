@@ -59,8 +59,7 @@
 * Legacy Backend endpoints (widget listing endpoints & /metrics)
 
 ### Metrics
-* Investigate automating specific reportrs
-* Track when app is launched in a new tab or webtop
+* ~~Meet to discuss automation of specific reports~~
 
 ### UI/UX
 * Support on-going development
