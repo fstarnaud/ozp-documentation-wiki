@@ -55,7 +55,7 @@
 ### IWC/Legacy Adapter
 * ~~Documentation~~ (covered code docs, not debugger yet)
    * Debugger use
-* ~~configurables added to deployments (blocked on merge until modular restructure feature completed)
+* ~~configurables added to deployments~~ (blocked on merge until modular restructure feature completed)
 * ~~Legacy Adapter support to users~~
 * Legacy Backend endpoints (widget listing endpoints & /metrics)
 
