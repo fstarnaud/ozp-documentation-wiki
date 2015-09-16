@@ -8,9 +8,9 @@
 * Shared folders in HUD
 
 ## Iteration Goals:
+* Review pull request for table listing view
 * 
-* 
-* 
+
 
 ### NC
 * Continue supporting testing efforts
@@ -19,7 +19,7 @@
 * Continue update of documentation with new features
 
 ### Center / Interactive Help
-* 
+* Continue Interactive Help
 
 ### Backend (new)
 * Implement HATEOAS endpoints for IWC support (system.api, data.api, and intents.api)
