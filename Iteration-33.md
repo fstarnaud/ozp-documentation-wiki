@@ -46,6 +46,7 @@
 
 ### Metrics
 * Investigate automating export of specific report data to csv/excel 
+* Track when app is launched in a new tab or webtop
 
 ### UI/UX
 * Support on-going development
