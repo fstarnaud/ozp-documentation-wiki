@@ -25,14 +25,14 @@
 * Begin integration of Help
 
 ### Backend (new)
-* Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)
-* Allow user to change org when creating a listing [#56](https://github.com/ozone-development/ozp-backend/issues/56)
+* ~~Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)~~
+* ~~Allow user to change org when creating a listing [#56](https://github.com/ozone-development/ozp-backend/issues/56)~~
 * ~~Add an image endpoint [#54](https://github.com/ozone-development/ozp-backend/issues/54)~~
 * ~~Add listing counts [#49](https://github.com/ozone-development/ozp-backend/issues/49)~~
 * ~~Add profile search endpoint [#55](https://github.com/ozone-development/ozp-backend/issues/55)~~
-* Change ItemComment to Review [#47](https://github.com/ozone-development/ozp-backend/issues/47)
-* Update documentation [#50](https://github.com/ozone-development/ozp-backend/issues/50)
-* Anything else that Blaine tells me I need to fix
+* ~~Change ItemComment to Review [#47](https://github.com/ozone-development/ozp-backend/issues/47)~~
+* ~~Update documentation [#50](https://github.com/ozone-development/ozp-backend/issues/50)~~
+* ~~Anything else that Blaine tells me I need to fix~~
 
 
 ### Webtop / HUD
