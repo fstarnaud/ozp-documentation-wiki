@@ -49,6 +49,9 @@
 
 ### IWC/Legacy Adapter
 * Legacy Adapter support to users
+* Debugger documentation
+* Modular restructure (move functionality not needed by developers from public to private methods
+* Legacy Backend endpoints (widget listing endpoints & /metrics)
 
 ### Metrics
 * Investigate automating export of specific report data to csv/excel 
