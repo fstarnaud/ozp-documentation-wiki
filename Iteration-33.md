@@ -34,6 +34,7 @@
 
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
+
   * List of specific 508 compliance items currently working on
     * Center - The form shall allow people using assistive technology (ie. JAWS) to access the information, field elements, and functionality required for completion and submission of the form. [#371] (https://github.com/ozone-development/ozp-center/issues/371)
     * Center - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#370] (https://github.com/ozone-development/ozp-center/issues/370)
