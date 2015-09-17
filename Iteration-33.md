@@ -60,7 +60,7 @@
 ### UI/UX
  * Support ongoing development
  * Set up docker for LESS>SASS conversion
- * Fix responsive merge issues on new Listings Management Table View PR / HUD PR
- * Support ozp-help styling
+ * ~~Fix responsive merge issues on new Listings Management Table View PR / HUD PR~~
+ * ~~Support ozp-help styling / bug fixes~~
   
 ## Roadblocks
