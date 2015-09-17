@@ -58,9 +58,9 @@
 * Track when app is launched in a new tab or webtop
 
 ### UI/UX
-* Support on-going development
-  * Set up docker for LESS>SASS conversion
-  * Fix responsive merge issues on new Listings Management Table View PR / HUD PR
-
+ * Support ongoing development
+ * Set up docker for LESS>SASS conversion
+ * Fix responsive merge issues on new Listings Management Table View PR / HUD PR
+ * Support ozp-help styling
   
 ## Roadblocks
