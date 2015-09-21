@@ -28,14 +28,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * [JSON Editor](http://www.jsoneditoronline.org/) - JSON editor with formatting and editing options.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - REST client, useful for testing REST APIs.
 
-### Links to Code:
-* Ozone Development: https://github.com/ozone-development
-* Weptop: ozp-webtop https://github.com/ozone-development/ozp-webtop
-* IWC Code:  https://github.com/ozone-development/ozp-iwc
-* Center: https://github.com/ozone-development/ozp-center
-
-Production Deployment Repos
-* OZONE Platform - https://github.com/ozoneplatform
+Production Deployment Releases and Code Repos
 * OZP Releases - https://github.com/ozoneplatform/ozp-releases
 
 ### OZONE Support ###
