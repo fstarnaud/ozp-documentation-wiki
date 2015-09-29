@@ -19,7 +19,12 @@
 * Continue update of documentation with new features
 
 ### Center / Interactive Help
-* Continue Interactive Help
+* New Backend Changes:
+  * Center Settings:
+    * Categories [#27](https://github.com/ozone-development/ozp-backend/issues/27)
+    * Contact Types [#25](https://github.com/ozone-development/ozp-backend/issues/25)
+    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
+    * Intents [26](https://github.com/ozone-development/ozp-backend/issues/26)
 
 ### Backend (new)
 * Implement HATEOAS endpoints for IWC support (system.api, data.api, and intents.api)
