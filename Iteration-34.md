@@ -26,6 +26,7 @@
 
 
 ### Metrics
+* Determine exact metric reports that need to be automated (meeting with Mark)
 
 ### UI/UX
 * Convert LESS to SASS via docker
