@@ -15,7 +15,7 @@
 
 ### Center / Interactive Help
 * Interactive Help:
-  * Role based article displays
+  * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 
 ### Backend (new)
 
