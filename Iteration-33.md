@@ -58,11 +58,12 @@
 * Track when app is launched in a new tab or webtop
 
 ### UI/UX
-* Support ongoing development
+* ~~Support ongoing development~~
 * Set up docker for LESS>SASS conversion
 * Remove HUD (Center/Webtop?) override CSS
 * Clean up bootstrap
 * ~~Fix responsive merge issues on new Listings Management Table View PR / HUD PR~~
 * ~~Support ozp-help styling / bug fixes~~
+* ~~Support styling/content updates on ozone marketing website~~
   
 ## Roadblocks
