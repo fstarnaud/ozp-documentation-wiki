@@ -21,7 +21,6 @@
 ### Center / Interactive Help
 * Backend changes (See Backend)
 * ~~Contact Modal [#348](https://github.com/ozone-development/ozp-center/issues/348)~~
-* 508 Compliance
 
 ### Backend (new)
 * Implement HATEOAS endpoints for IWC support (system.api, data.api, and intents.api)
