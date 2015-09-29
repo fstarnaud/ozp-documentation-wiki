@@ -25,6 +25,8 @@
 ### Metrics
 
 ### UI/UX
-* Set up docker for LESS>SASS conversion
+* Push up HUD changes to override CSS (connect to VPN on VM)
+* Clean up bootstrap
+* Support ongoing development
   
 ## Roadblocks
