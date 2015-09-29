@@ -26,6 +26,7 @@
 
 ### UI/UX
 * Push up HUD changes to override CSS (connect to VPN on VM)
+* Convert LESS to SASS via docker
 * Clean up bootstrap
 * Support ongoing development
   
