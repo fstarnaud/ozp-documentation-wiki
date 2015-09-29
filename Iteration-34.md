@@ -14,9 +14,15 @@
 * Continue update of documentation with new features
 
 ### Center / Interactive Help
-
+* Interactive Help:
+  * Role based article displays
 
 ### Backend (new)
+
+* Center Changes:
+  * Center Settings:
+    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
+    * Intents [26](https://github.com/ozone-development/ozp-backend/issues/26)
 
 ### Webtop / HUD
 
