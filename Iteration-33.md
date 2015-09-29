@@ -54,8 +54,8 @@
 * Legacy Backend endpoints (widget listing endpoints & /metrics)
 
 ### Metrics
-* Investigate automating export of specific report data to csv/excel 
-* Track when app is launched in a new tab or webtop
+* ~~Investigate automating export of specific report data to csv/excel~~
+* ~~Track when app is launched in a new tab or webtop~~
 
 ### UI/UX
 * ~~Support ongoing development~~
