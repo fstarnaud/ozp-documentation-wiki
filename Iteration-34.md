@@ -9,6 +9,9 @@
 ## Iteration Goals:
 
 ### NC
+* Continue supporting testing efforts
+* Java 8 Support for OMP
+* Continue update of documentation with new features
 
 ### Center / Interactive Help
 
