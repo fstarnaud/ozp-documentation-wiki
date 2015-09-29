@@ -59,9 +59,8 @@
 
 ### UI/UX
 * ~~Support ongoing development~~
-* Set up docker for LESS>SASS conversion
-* Remove HUD (Center/Webtop?) override CSS
-* Clean up bootstrap
+* ~~Set up docker for LESS>SASS conversion~~
+* ~~Remove HUD override CSS~~
 * ~~Fix responsive merge issues on new Listings Management Table View PR / HUD PR~~
 * ~~Support ozp-help styling / bug fixes~~
 * ~~Support styling/content updates on ozone marketing website~~
