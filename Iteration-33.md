@@ -14,7 +14,7 @@
 
 ### NC
 * Continue supporting testing efforts
-* Java 8 Support for OWF - Testing and Release
+* ~~Java 8 Support for OWF - Testing and Release~~
 * Java 8 Support for OMP - potentially based on PMO approval
 * Continue update of documentation with new features
 
