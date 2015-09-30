@@ -43,7 +43,7 @@
   * ~~update to latest ozp-bootstrap [webtop #632](https://github.com/ozone-development/ozp-webtop/issues/632)~~
   * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
 * ~~next century - add contact modal [webtop #635](https://github.com/ozone-development/ozp-webtop/issues/635), [hud #126](https://github.com/ozone-development/ozp-hud/issues/126)~~
-* bug fixes [webtop 633(https://github.com/ozone-development/ozp-hud/issues/633)
+* ~bug fixes [webtop 633/add application bug](https://github.com/ozone-development/ozp-hud/issues/633)~
 
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
