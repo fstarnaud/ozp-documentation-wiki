@@ -9,7 +9,7 @@
 ## Iteration Goals:
 * Final verification on Table View feature (Center)
 * Functional completeness of Center, HUD, and Webtop in new backend (LS dev env)
-* Updated Help Modal in CI-master
+* Updated Help Modal deployed to staging
 
 ### NC
 * Continue supporting testing efforts
