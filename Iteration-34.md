@@ -31,7 +31,8 @@
     * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
 
 ### Webtop / HUD
-
+* change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
+* switch webtop from less to sass [webtop #638](https://github.com/ozone-development/ozp-webtop/issues/638)
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
 
