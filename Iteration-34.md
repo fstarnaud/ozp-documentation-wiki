@@ -44,7 +44,7 @@
     * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
-* Determine exact metric reports that need to be automated (discussion with Mark)
+* Clarify exact metric reports that need to be automated (discussion with Mark)
 
 ### UI/UX
 * Convert LESS to SASS via docker
