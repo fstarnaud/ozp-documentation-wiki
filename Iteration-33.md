@@ -24,17 +24,16 @@
 
 ### Backend (new)
 * Implement HATEOAS endpoints for IWC support (system.api, ~~data.api~~, and intents.api)
-* Hookup Center Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)
-* Hookup Center Create/Edit Listing endpoints [#32](https://github.com/ozone-development/ozp-backend/issues/32)
-* Hookup quickview administration endpoints [#23](https://github.com/ozone-development/ozp-backend/issues/23)
-* Hookup settings [#24](https://github.com/ozone-development/ozp-backend/issues/24), [#25](https://github.com/ozone-development/ozp-backend/issues/25), [#26](https://github.com/ozone-development/ozp-backend/issues/26), [#27](https://github.com/ozone-development/ozp-backend/issues/27), [#28](https://github.com/ozone-development/ozp-backend/issues/28), [#29](https://github.com/ozone-development/ozp-backend/issues/29)
-
-* Center Changes Changes:
-  * Center Settings:
-    * ~~Categories [#27](https://github.com/ozone-development/ozp-backend/issues/27)~~
+* ~~Hookup Center Listing Management endpoints [#30](https://github.com/ozone-development/ozp-backend/issues/30)~~
+* ~~Hookup Center Create/Edit Listing endpoints [#32](https://github.com/ozone-development/ozp-backend/issues/32)~~
+* ~~Hookup quickview administration endpoints [#23](https://github.com/ozone-development/ozp-backend/issues/23)~~
+* Hookup settings:
+    * ~~Categories [#24](https://github.com/ozone-development/ozp-backend/issues/24)~~
     * ~~Contact Types [#25](https://github.com/ozone-development/ozp-backend/issues/25)~~
     * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
-    * Intents [26](https://github.com/ozone-development/ozp-backend/issues/26)
+    * Intents [26](https://github.com/ozone-development/ozp-backend/issues/26) 
+    * Organizations [#27](https://github.com/ozone-development/ozp-backend/issues/27)
+    * Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)
 
 ### Webtop / HUD
 * share folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)
