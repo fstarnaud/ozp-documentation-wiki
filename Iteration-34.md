@@ -11,12 +11,6 @@
 * Functional completeness of Center, HUD, and Webtop in new backend (LS dev env)
 * Updated Help Modal deployed to staging
 
-### NC
-* Continue supporting testing efforts
-* Java 8 Support for OMP
-* Continue update of documentation with new features
-  * list of docs that were completed and what is still in progress
-
 ### Center / Interactive Help
 * Center:
   * ~~Merge Table View~~
@@ -60,12 +54,18 @@
     * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
-* Clarify exact metric reports that need to be automated (discussion with Mark)
+* Clarify exact metric reports that need to be automated
 
 ### UI/UX
 * Convert LESS to SASS via docker
 * Clean up bootstrap
 * Support ongoing development
+
+### NC
+* Continue supporting testing efforts
+* Java 8 Support for OMP
+* Continue update of documentation with new features
+  * list of docs that were completed and what is still in progress
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
