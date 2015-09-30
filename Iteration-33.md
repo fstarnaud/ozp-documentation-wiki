@@ -36,8 +36,8 @@
     * Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)
 
 ### Webtop / HUD
-* share folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)
-* ie folder bug(s) [hud #125](https://github.com/ozone-development/ozp-hud/issues/125)
+* ~~share folder modal [hud #123](https://github.com/ozone-development/ozp-hud/issues/123)~~ *for current backend/will need backend support for better folder sharing as backend progresses
+* ~~ie folder bug(s) [hud #125](https://github.com/ozone-development/ozp-hud/issues/125)~~
 * webtop style items
   * ~~update app chrome [webtop #595](https://github.com/ozone-development/ozp-webtop/issues/595)~~
   * ~~update to latest ozp-bootstrap [webtop #632](https://github.com/ozone-development/ozp-webtop/issues/632)~~
