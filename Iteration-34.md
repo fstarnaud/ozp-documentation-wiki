@@ -30,7 +30,13 @@
 ### 508
 
 ### IWC/Legacy Adapter
-
+* Performance evaluations
+    * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain [#328](https://github.com/ozone-development/ozp-iwc/issues/328)
+    * Investigate using shared webworkers (consensus algorithms would be fallback) [#330](https://github.com/ozone-development/ozp-iwc/issues/330)
+    * Investigate using message channels for client-> bus communication (postMessage as fallback) [#333](https://github.com/ozone-development/ozp-iwc/issues/330)
+    * Investigate additional Transport Links (other than localStorage) to broaden browser support.
+* Documentation
+    * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
 * Determine exact metric reports that need to be automated (meeting with Mark)
