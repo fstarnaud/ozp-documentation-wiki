@@ -17,7 +17,7 @@
 
 ### Center / Interactive Help
 * Center:
-  * Merge Table View 
+  * ~~Merge Table View~~
 * Interactive Help:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 
