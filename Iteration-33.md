@@ -55,9 +55,10 @@
 * HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
 
 ### IWC/Legacy Adapter
-* Legacy Adapter support to users
-* Debugger documentation
-* Modular restructure (move functionality not needed by developers from public to private methods)
+* ~~Legacy Adapter support to users~~
+* ~~Updated gitbook docs~~ (PDF script needs rerunning, pandoc wasn't working on my machine. -Kevin)
+* ~~Debugger documentation~~
+* ~~Modular restructure (move functionality not needed by developers from public to private methods)~~
 * Legacy Backend endpoints (widget listing endpoints & /metrics)
 
 ### Metrics
