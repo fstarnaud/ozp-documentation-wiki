@@ -42,7 +42,7 @@
   * ~~update app chrome [webtop #595](https://github.com/ozone-development/ozp-webtop/issues/595)~~
   * ~~update to latest ozp-bootstrap [webtop #632](https://github.com/ozone-development/ozp-webtop/issues/632)~~
   * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
-* ~~next century - add contact modal [webtop #635](https://github.com/ozone-development/ozp-webtop/issues/635), [hud #126](https://github.com/ozone-development/ozp-hud/issues/126)~~
+* ~~add contact modal [webtop #635](https://github.com/ozone-development/ozp-webtop/issues/635), [hud #126](https://github.com/ozone-development/ozp-hud/issues/126)~~
 * ~~bug fixes [webtop 633/add application bug](https://github.com/ozone-development/ozp-hud/issues/633)~~
 
 ### 508
@@ -56,7 +56,7 @@
 
 ### IWC/Legacy Adapter
 * ~~Legacy Adapter support to users~~
-* ~~Updated gitbook docs~~ (PDF script needs rerunning, pandoc wasn't working on my machine. -Kevin)
+* ~~Updated gitbook docs~~ (PDF script needs rerunning, pandoc wasn't working on my machine)
 * ~~Debugger documentation~~
 * ~~Modular restructure (move functionality not needed by developers from public to private methods)~~
 * Legacy Backend endpoints (widget listing endpoints & /metrics)
