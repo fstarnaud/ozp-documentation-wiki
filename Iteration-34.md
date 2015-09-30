@@ -7,6 +7,8 @@
 * Interactive Help
 
 ## Iteration Goals:
+* Final verification on Table View feature (Center)
+* Functional completeness of Center, HUD, and Webtop in new backend (LS dev env)
 
 ### NC
 * Continue supporting testing efforts
@@ -19,6 +21,8 @@
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 
 ### Backend (new)
+* system.api and intents.api endpoint support
+* bug fixes
 
 * Center Changes:
   * Center Settings:
