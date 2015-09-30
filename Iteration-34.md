@@ -10,6 +10,7 @@
 * Final verification on Table View feature (Center)
 * Functional completeness of Center, HUD, and Webtop in new backend (LS dev env)
 * Updated Help Modal deployed to staging
+  * list of docs that were completed and what is still in progress
 
 ### NC
 * Continue supporting testing efforts
