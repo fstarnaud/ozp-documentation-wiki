@@ -1,6 +1,5 @@
 #Highlevel Backlog
-## Next Release
-###Features
+###Next Release Features
 * Refactored Backend removing dependencies on Java 7
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
