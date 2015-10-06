@@ -4,17 +4,13 @@
 * Refactored Backend removing dependencies on Java 7
 * [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
 * [Interactive Help Modal](https://github.com/ozone-development/ozp-documentation/wiki/Interactive-Help)
-* [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder) _to replace ~~[Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)~~_
-* ~~Metrics for App listing with Roles/Permissions for App Owners~~
-* ~~Cohesive responsiveness across the platform to allow for a clean display on all screen sizes~~
-* ~~App Counts for each organization displayed in the organizations drop down filter~~
+* [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder)
 * Continue progress in improvements to 508 Compliance
 
 ##Future Release Buckets
-* [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
-* [Group Management](https://github.com/ozone-development/ozp-documentation/wiki/Group-Management)
 * [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for all Apps within Orgs for Org Stewards
+* Infinite scroll & "Back to Top" link on Center on main page
 * [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 
@@ -31,12 +27,14 @@
 
 * Tag Cloud
 * [User tags](https://github.com/ozone-development/ozp-documentation/wiki/User-Tags)
-* Infinite scroll & "Back to Top" link on Marketplace on main page
 * Multiple types of webtops
 
 ***
 
 ##Future Ideas that still need more discussions
+* [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
+* [Group Management](https://github.com/ozone-development/ozp-documentation/wiki/Group-Management)
+* [Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Include Toolkits as listing types in Marketplace
 * Include Suites as listing types in Marketplace
 * Show trending apps in Marketplace
