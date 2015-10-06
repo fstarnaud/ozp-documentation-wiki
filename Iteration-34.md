@@ -59,7 +59,7 @@
 ### UI/UX
 * Convert LESS to SASS via docker
 * Clean up bootstrap
-* Support ongoing development
+* ~~Support ongoing development / bugs / etc~~
 
 ### NC
 * Continue supporting testing efforts
