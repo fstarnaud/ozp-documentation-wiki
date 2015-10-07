@@ -19,9 +19,9 @@ The continuous effort to unite the entire community on a single computing platfo
 * [ZenHub](https://www.zenhub.io/) - Kanban-style planning in GitHub Issues
 * [TravisCI](https://travis-ci.org/) - Automated build server
 * 508 Compliance
-* [Google Accessibility Developer Tool](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?utm_source=gmail) - Accessibility audit and element properties developed by Google
-* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=gmail) - web accessibility evaluation tool developed by WebAIM.org.
-* [Image Alt Text Viewer](https://chrome.google.com/webstore/detail/image-alt-text-viewer/hinbolcnfifkhlcehoakdledkfjiaeeg?utm_source=gmail) - Replace images with their alt text
+  * [Google Accessibility Developer Tool](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?utm_source=gmail) - Accessibility audit and element properties developed by Google
+  * [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=gmail) - web accessibility evaluation tool developed by WebAIM.org.
+  * [Image Alt Text Viewer](https://chrome.google.com/webstore/detail/image-alt-text-viewer/hinbolcnfifkhlcehoakdledkfjiaeeg?utm_source=gmail) - Replace images with their alt text
 
 ### Other Free Stuff We Can Use
 * [API Blueprint](http://apiblueprint.org/) - API markdown
