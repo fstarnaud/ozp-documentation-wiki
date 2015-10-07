@@ -7,7 +7,7 @@
 * Interactive Help
 
 ## Iteration Goals:
-* Final verification on Table View feature (Center)
+* ~~Final verification on Table View feature (Center)~~
 * Functional completeness of Center, HUD, and Webtop in new backend (LS dev env)
 * Updated Help Modal deployed to staging
 
