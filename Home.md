@@ -22,6 +22,7 @@ The continuous effort to unite the entire community on a single computing platfo
   * [Google Accessibility Developer Tool](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?utm_source=gmail) - Accessibility audit and element properties developed by Google
   * [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=gmail) - web accessibility evaluation tool developed by WebAIM.org.
   * [Image Alt Text Viewer](https://chrome.google.com/webstore/detail/image-alt-text-viewer/hinbolcnfifkhlcehoakdledkfjiaeeg?utm_source=gmail) - Replace images with their alt text
+  * [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) - Open source UI components and visual style guide to create consistency and beautiful user experiences across U.S. federal government websites
 
 ### Other Free Stuff We Can Use
 * [API Blueprint](http://apiblueprint.org/) - API markdown
