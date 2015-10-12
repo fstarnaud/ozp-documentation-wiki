@@ -21,6 +21,7 @@
 ### 508
 * Demo Free 508 Compliance Tools we are using 
 * Improve accessibility for (Center, HUD, Webtop)
+* Attend meeting with 508 compliance to make sure we are on the right track
   
 ### IWC/Legacy Adapter
 * 
