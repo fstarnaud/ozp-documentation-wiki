@@ -70,5 +70,5 @@
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
-* setup meeting with 508 compliance to make sure we are on the right track
+* ~~setup meeting with 508 compliance to make sure we are on the right track~~
 * SASS vs LESS discussion/decision 
