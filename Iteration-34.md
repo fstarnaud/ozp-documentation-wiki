@@ -69,6 +69,7 @@
 * Java 8 Support for OMP
 * Continue update of documentation with new features
   * ~~list of docs that were completed and what is still in progress~~
+* ~~Finish refactoring table-view to group files as suggested by code review~~
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
