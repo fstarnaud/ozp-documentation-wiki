@@ -35,7 +35,10 @@
 * Support ongoing development / bugs / etc
 
 ### NC
+* Continue supporting testing efforts
 * Java 8 Support for OMP
+* Continue update of documentation with new features
+* Finish refactoring table-view to use W2UI
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
