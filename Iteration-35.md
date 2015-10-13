@@ -31,8 +31,7 @@
 
 ### UI/UX
 * Continue work on help tour
-* Clean up bootstrap
-* Implement / continue discussions on solution to settings modal
+* Support implementation of settings modal solution
 * Support ongoing development / bugs / etc
 
 ### NC
