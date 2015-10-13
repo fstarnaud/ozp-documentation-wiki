@@ -30,6 +30,10 @@
 * 
 
 ### UI/UX
+* Continue work on help tour
+* Clean up bootstrap
+* Global settings modal
+* Support development/bugs/etc
 
 ### NC
 * Java 8 Support for OMP
