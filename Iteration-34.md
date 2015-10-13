@@ -59,6 +59,7 @@
 ### UI/UX
 * ~~Convert LESS to SASS via docker~~
 * ~~Initial research/styling/drafting for tour~~
+* ~~Discussion/mockups for global Settings modal~~
 * ~~Support ongoing development / bugs / etc~~
 
 ### NC
