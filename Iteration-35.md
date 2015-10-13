@@ -27,7 +27,7 @@
 * 
 
 ### Metrics
-* 
+* Output metrics export into table form
 
 ### UI/UX
 * Continue work on help tour
