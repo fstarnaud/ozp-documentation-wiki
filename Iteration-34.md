@@ -57,9 +57,8 @@
 * Clarify exact metric reports that need to be automated
 
 ### UI/UX
-* Convert LESS to SASS via docker
-* Clean up bootstrap
-* First look at tour
+* ~~Convert LESS to SASS via docker~~
+* ~~Initial research/styling/drafting for tour~~
 * ~~Support ongoing development / bugs / etc~~
 
 ### NC
