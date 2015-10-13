@@ -68,7 +68,7 @@
 * Continue supporting testing efforts
 * Java 8 Support for OMP
 * Continue update of documentation with new features
-  * list of docs that were completed and what is still in progress
+  * ~~list of docs that were completed and what is still in progress~~
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
