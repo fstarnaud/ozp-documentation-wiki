@@ -54,7 +54,9 @@
     * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
-* Clarify exact metric reports that need to be automated
+* ~~Clarify exact metric reports that need to be automated~~
+* ~~Create script to export necessary data from piwik for report~~
+* ~~Attached agency information to other events from center~~
 
 ### UI/UX
 * ~~Convert LESS to SASS via docker~~
