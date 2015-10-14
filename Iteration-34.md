@@ -20,11 +20,11 @@
 
 ### Backend (new):
 * system.api and intents.api endpoint support
-* Preliminary Center testing
-* Bug fixes
+* ~~Preliminary Center testing~~
+* ~~Bug fixes~~
 * Center Changes:
   * Center Settings:
-    * Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)
+    * ~~Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)~~
     * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
     * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
 
