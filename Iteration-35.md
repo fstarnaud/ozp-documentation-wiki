@@ -16,6 +16,8 @@
   * configure publicly center accessible demo in openshift accessing new backend
 * Interactive Help:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
+* Interactive Tour:
+  * Testing and exploring options for Interactive Tour.
 
 ### Backend (new):
 * Continued testing
