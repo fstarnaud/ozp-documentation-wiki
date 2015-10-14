@@ -17,7 +17,9 @@
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 * Help Tour:
-  * Testing and exploring options for Help Tour.
+  * Testing and exploring options for Help Tour
+  * Clean up tour links/paths to bake in react actions
+  * Set tour to open on first visit to Ozone
 
 ### Backend (new):
 * Continued testing
@@ -61,8 +63,8 @@
 * Output metrics export into table form
 
 ### UI/UX
-* Continue work on help tour
-* Support implementation of settings modal solution
+* Support help tour development
+* Support implementation of settings modal solution (new HUD mockups)
 * Support ongoing development / bugs / etc
 
 ### NC
