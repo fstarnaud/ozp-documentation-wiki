@@ -4,7 +4,7 @@
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
 * 12/1/2015 - backend alpha in staging  
-* Interactive Help
+* Help Tour
 
 ## Iteration Goals:
 * ~~Final verification on Table View feature (Center)~~
