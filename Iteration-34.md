@@ -9,7 +9,7 @@
 ## Iteration Goals:
 * ~~Final verification on Table View feature (Center)~~
 * Functional Center, HUD, and Webtop in new backend (dev env)
-* Updated Help Modal deployed to staging
+* ~~Updated Help Modal deployed to staging~~
 
 ### Center / Help Articles
 * Center
@@ -31,7 +31,7 @@
 * ~~Bug fixes~~
 * ~~stand up new backend for publicly accessible demo~~
 * Center Changes:
-  * Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication
+  * ~~Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication~~
   * Center Settings:
     * ~~Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)~~
     * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
