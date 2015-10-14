@@ -32,6 +32,13 @@
 ### 508
 * Demo Free 508 Compliance Tools we are using 
 * Improve accessibility for (Center, HUD, Webtop)
+* List of specific 508 compliance items currently working on
+    * Center - The form shall allow people using assistive technology (ie. JAWS) to access the information, field elements, and functionality required for completion and submission of the form. [#371] (https://github.com/ozone-development/ozp-center/issues/371)
+    * Center - Navigation in center needs to work in (Jaw) ie. Help, and Menu (dropdown)
+[#392] (https://github.com/ozone-development/ozp-center/issues/392)
+
+* HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
+
 * Attend meeting with 508 compliance to make sure we are on the right track
   
 ### IWC/Legacy Adapter
