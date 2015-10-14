@@ -10,13 +10,13 @@
 *  Functional Center, HUD, and Webtop in new backend (dev env)
 *  Improved CI setup (reduce build times and failures on Jenkins)
 
-### Center / Interactive Help
+### Center / Help Articles
 * Center
   * add opensearch capabilities
   * configure publicly center accessible demo in openshift accessing new backend
-* Interactive Help:
+* Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
-* Interactive Tour:
+* Help Tour:
   * Testing and exploring options for Interactive Tour.
 
 ### Backend (new):
