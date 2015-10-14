@@ -29,7 +29,6 @@
   * Use new backend API
 
 ### Webtop / HUD
-### Webtop / HUD
 * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
 * finish - switch webtop from less to sass [webtop #638](https://github.com/ozone-development/ozp-webtop/issues/638)
 * add max dashboard error when launching folder from hud [webtop #642](https://github.com/ozone-development/ozp-webtop/issues/642)
