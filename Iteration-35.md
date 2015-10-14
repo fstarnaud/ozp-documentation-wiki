@@ -4,7 +4,7 @@
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
 * 12/1/2015 - backend alpha in staging  
-* Help Tour
+* Help Articles
 
 ## Iteration Goals:
 *  Functional Center, HUD, and Webtop in new backend (dev env)
