@@ -4,7 +4,7 @@
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
 * 12/1/2015 - backend alpha in staging  
-* Interactive Help
+* Help Tour
 
 ## Iteration Goals:
 *  Functional Center, HUD, and Webtop in new backend (dev env)
@@ -17,7 +17,7 @@
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 * Help Tour:
-  * Testing and exploring options for Interactive Tour.
+  * Testing and exploring options for Help Tour.
 
 ### Backend (new):
 * Continued testing
