@@ -23,7 +23,7 @@
 
 * Interactive Help:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
-  * Update deployment scripts/configuration to deploy to staging
+  * ~~Update deployment scripts/configuration to deploy to staging~~
 
 ### Backend (new):
 * ~~system.api and intents.api endpoint support~~
