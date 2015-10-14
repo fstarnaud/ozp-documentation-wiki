@@ -64,7 +64,7 @@
 
 ### UI/UX
 * Support help tour development
-* Support implementation of settings modal solution (new HUD mockups)
+* Support implementation of settings modal solution for #356 ~~(provide new HUD mockups)~~
 * Support ongoing development / bugs / etc
 
 ### NC
