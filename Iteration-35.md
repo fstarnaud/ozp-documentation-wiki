@@ -13,7 +13,7 @@
 ### Center / Help Articles
 * Center
   * add opensearch capabilities
-  * configure publicly center accessible demo in openshift accessing new backend
+  * configure publicly accessible demo in openshift accessing new backend
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 * Help Tour:
