@@ -23,7 +23,7 @@
 * ~~Preliminary Center testing~~
 * ~~Bug fixes~~
 * Center Changes:
-  * Fixed pernicious IE bug where images couldn't be uploaded with metadata (e.g. access control)
+  * Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication
   * Center Settings:
     * ~~Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)~~
     * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
