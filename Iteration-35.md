@@ -51,6 +51,7 @@
 ### IWC/Legacy Adapter
 * Code review
    * Review/Testing of shared web worker IWC Bus.
+* New Backend endpoint support
 * Performance evaluations
    * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
    * Investigate additional Transport Links (other than localStorage) to broaden browser support.
