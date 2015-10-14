@@ -29,6 +29,7 @@
 * ~~system.api and intents.api endpoint support~~
 * ~~Preliminary Center testing~~
 * ~~Bug fixes~~
+* ~~stand up new backend for publicly accessible demo~~
 * Center Changes:
   * Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication
   * Center Settings:
