@@ -11,7 +11,7 @@
 * Functional Center, HUD, and Webtop in new backend (dev env)
 * Updated Help Modal deployed to staging
 
-### Center / Interactive Help
+### Center / Help Articles
 * Center
   * Table View
     * ~~Merge initial implementation~~
