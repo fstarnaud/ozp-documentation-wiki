@@ -13,7 +13,11 @@
 * 
 
 ### Backend (new):
-* 
+* Continued testing
+* Center Changes:
+  * Center Settings:
+    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
+    * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
 
 ### Webtop / HUD
 * 
