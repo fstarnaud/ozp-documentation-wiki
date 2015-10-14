@@ -11,8 +11,11 @@
 *  Improved CI setup (reduce build times and failures on Jenkins)
 
 ### Center / Interactive Help
-* add opensearch capabilities
-* configure publicly accessible demo in openshift accessing new backend
+* Center
+  * add opensearch capabilities
+  * configure publicly center accessible demo in openshift accessing new backend
+* Interactive Help:
+  * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 
 ### Backend (new):
 * Continued testing
