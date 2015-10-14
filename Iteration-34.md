@@ -19,7 +19,7 @@
   * Update deployment scripts/configuration to deploy to staging
 
 ### Backend (new):
-* system.api and intents.api endpoint support
+* ~~system.api and intents.api endpoint support~~
 * ~~Preliminary Center testing~~
 * ~~Bug fixes~~
 * Center Changes:
