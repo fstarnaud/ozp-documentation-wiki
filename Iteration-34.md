@@ -21,7 +21,7 @@
     * ~~Fix inaccurate results on initial tab[#402](https://github.com/ozone-development/ozp-center/issues/402)~~
     * ~~Quickly switching between tabs causes problems[#406](https://github.com/ozone-development/ozp-center/issues/406)~~
 
-* Interactive Help:
+* Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
   * ~~Update deployment scripts/configuration to deploy to staging~~
 
