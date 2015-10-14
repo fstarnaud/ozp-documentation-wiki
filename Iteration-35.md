@@ -11,7 +11,7 @@
 *  Improved CI setup (reduce build times and failures on Jenkins)
 
 ### Center / Interactive Help
-* 
+* add opensearch capabilities
 
 ### Backend (new):
 * Continued testing
