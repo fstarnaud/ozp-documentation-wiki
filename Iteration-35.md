@@ -7,7 +7,8 @@
 * Interactive Help
 
 ## Iteration Goals:
-*  
+*  Functional Center, HUD, and Webtop in new backend (dev env)
+*  Improved CI setup (reduce build times and failures on Jenkins)
 
 ### Center / Interactive Help
 * 
@@ -18,6 +19,8 @@
   * Center Settings:
     * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
     * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
+* Webtop Changes:
+  * Use new backend API
 
 ### Webtop / HUD
 ### Webtop / HUD
