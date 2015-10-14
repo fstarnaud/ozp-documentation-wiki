@@ -32,7 +32,7 @@
 ### Webtop / HUD
 * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
 * switch webtop from less to sass [webtop #638](https://github.com/ozone-development/ozp-webtop/issues/638)
-* various webtop bugs/issues [webtop #621](https://github.com/ozone-development/ozp-webtop/issues/621), [webtop #508](https://github.com/ozone-development/ozp-webtop/issues/508) ~~random new dashboard name~~
+* various webtop bugs/issues [webtop #621](https://github.com/ozone-development/ozp-webtop/issues/621), [webtop #508](https://github.com/ozone-development/ozp-webtop/issues/508) ~~webtop random new dashboard name~~, ~~ hud folder style ie fix~~
 
 ### 508
 * Improve accessibility for (Center, HUD, Webtop)
