@@ -12,8 +12,15 @@
 * Updated Help Modal deployed to staging
 
 ### Center / Interactive Help
-* Center:
-  * ~~Merge Table View~~
+* Center
+  * Table View
+    * ~~Merge initial implementation~~
+    * ~~Enable selections without org or owner to be sorted [#409](https://github.com/ozone-development/ozp-center/issues/409)~~
+    * ~~Load items with null owner[#403](https://github.com/ozone-development/ozp-center/issues/403)~~
+  * Listing Management
+    * ~~Fix inaccurate results on initial tab[#402](https://github.com/ozone-development/ozp-center/issues/402)~~
+    * ~~Quickly switching between tabs causes problems[#406](https://github.com/ozone-development/ozp-center/issues/406)~~
+
 * Interactive Help:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
   * Update deployment scripts/configuration to deploy to staging
