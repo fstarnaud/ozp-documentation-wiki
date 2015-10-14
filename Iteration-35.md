@@ -12,6 +12,7 @@
 
 ### Center / Interactive Help
 * add opensearch capabilities
+* configure publicly accessible demo in openshift accessing new backend
 
 ### Backend (new):
 * Continued testing
@@ -28,6 +29,7 @@
 * finish - switch webtop from less to sass [webtop #638](https://github.com/ozone-development/ozp-webtop/issues/638)
 * add max dashboard error when launching folder from hud [webtop #642](https://github.com/ozone-development/ozp-webtop/issues/642)
 * various webtop bugs/issues [webtop #621](https://github.com/ozone-development/ozp-webtop/issues/621), [webtop #644](https://github.com/ozone-development/ozp-webtop/issues/644)
+* configure publicly accessible webtop / hud demos in openshift accessing new backend
 
 ### 508
 * Demo Free 508 Compliance Tools we are using 
