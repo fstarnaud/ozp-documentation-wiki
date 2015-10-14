@@ -73,4 +73,3 @@
   
 ## Roadblocks
 * meeting to discuss new back end infrastructure
-* SASS vs LESS discussion/decision 
