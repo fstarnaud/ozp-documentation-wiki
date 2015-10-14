@@ -24,7 +24,13 @@
 * Attend meeting with 508 compliance to make sure we are on the right track
   
 ### IWC/Legacy Adapter
-* 
+* Code review
+   * Review/Testing of shared web worker IWC Bus.
+* Performance evaluations
+   * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
+   * Investigate additional Transport Links (other than localStorage) to broaden browser support.
+* Documentation
+   * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
 * Output metrics export into table form
