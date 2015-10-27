@@ -30,6 +30,15 @@
 
   
 ### IWC/Legacy Adapter
+* New Backend
+    * Intents.api endpoint support
+    * Code Review & Testing against both Current & New Backend
+* Performance evaluations
+    * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
+    * Investigate additional Transport Links (other than localStorage) to broaden browser support.
+* Documentation
+    * Additional OWF7 to IWC migration guides for application developers.
+
 
 ### Metrics
 
