@@ -17,6 +17,10 @@
  * Integration Styling
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
+ * Testing and exploring options for Help Tour
+ * Clean up tour links/paths to bake in react actions
+ * Set tour to open on first visit to Ozone
+
 ### Backend (new):
 
 
