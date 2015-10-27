@@ -16,7 +16,7 @@
   * configure publicly accessible demo in openshift accessing new backend
   * refactor listings management pages and table view and add export to excel feature to table view
 * Help Articles:
-  * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
+  * ~~Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)~~
 * Help Tour:
   * Testing and exploring options for Help Tour
   * Clean up tour links/paths to bake in react actions
@@ -26,8 +26,8 @@
 * Continued testing
 * Center Changes:
   * Center Settings:
-    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
-    * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
+    * ~~Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)~~
+    * ~~Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)~~
 * Webtop Changes:
   * Use new backend API
 
