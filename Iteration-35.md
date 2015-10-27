@@ -59,6 +59,9 @@
    * Intents.api endpoint support
 * Debugger
    * ~~Create A Debugger client for wider debugging capabilities and custom debugging tools [#336](https://github.com/ozone-development/ozp-iwc/pull/336)~~
+* Legacy Adapter
+   * ~~Update to be compliant with IWC 1.1.x [#38](https://github.com/ozone-development/ozp-iwc-owf7-widget-adapter/pull/38)~~
+   * ~~Bug causing legacy widgets to break when launching [#40](https://github.com/ozone-development/ozp-iwc-owf7-widget-adapter/pull/40)~~
 * Bug fixes
    * ~~Simplified Launch data passing [#334](https://github.com/ozone-development/ozp-iwc/pull/344)~~
    * ~~Shared Worker loader bus gathering URL fix [#339](https://github.com/ozone-development/ozp-iwc/pull/339)~~
