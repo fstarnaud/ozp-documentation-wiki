@@ -14,6 +14,7 @@
 * Center
   * add opensearch capabilities
   * configure publicly accessible demo in openshift accessing new backend
+  * refactor listings management pages and table view and add export to excel feature to table view
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
 * Help Tour:
