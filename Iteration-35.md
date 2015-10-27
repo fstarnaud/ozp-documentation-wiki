@@ -57,6 +57,8 @@
    * ~~Data.api endpoint support~~
    * ~~System.api endpoint support~~
    * Intents.api endpoint support
+* Debugger
+   * ~~Create A Debugger client for wider debugging capabilities and custom debugging tools [#336](https://github.com/ozone-development/ozp-iwc/pull/336)~~
 * Bug fixes
    * ~~Simplified Launch data passing [#334](https://github.com/ozone-development/ozp-iwc/pull/344)~~
    * ~~Shared Worker loader bus gathering URL fix [#339](https://github.com/ozone-development/ozp-iwc/pull/339)~~
