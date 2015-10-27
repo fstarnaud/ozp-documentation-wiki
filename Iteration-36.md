@@ -12,9 +12,11 @@
 
 ### Center / Help Articles
 * Center:
+  * Integrate Help Tour
 * Help Articles:
+ * Integration Styling
 * Help Tour:
-  
+ * Investigate further functionality for launching modals, dropdowns, etc. 
 ### Backend (new):
 
 
