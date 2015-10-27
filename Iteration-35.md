@@ -51,9 +51,16 @@
 * Attend meeting with 508 compliance to make sure we are on the right track
   
 ### IWC/Legacy Adapter
-* Code review
-   * Review/Testing of shared web worker IWC Bus.
+* ~~Code review~~
+   * ~~Review/Testing of shared web worker IWC Bus.~~
 * New Backend endpoint support
+   * ~~Data.api endpoint support~~
+   * ~~System.api endpoint support~~
+   * Intents.api endpoint support
+* Bug fixes
+   * ~~Simplified Launch data passing [#334](https://github.com/ozone-development/ozp-iwc/pull/344)~~
+   * ~~Shared Worker loader bus gathering URL fix [#339](https://github.com/ozone-development/ozp-iwc/pull/339)~~
+   * ~~IE 11 opens prompt on page leave [#347](https://github.com/ozone-development/ozp-iwc/issues/347)~~
 * Performance evaluations
    * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
    * Investigate additional Transport Links (other than localStorage) to broaden browser support.
