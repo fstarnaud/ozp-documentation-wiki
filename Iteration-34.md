@@ -34,8 +34,8 @@
   * ~~Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication~~
   * Center Settings:
     * ~~Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)~~
-    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
-    * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
+    * ~~Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)~~
+    * ~~Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)~~
 
 ### Webtop / HUD
 * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
