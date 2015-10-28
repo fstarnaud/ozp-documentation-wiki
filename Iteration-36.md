@@ -30,6 +30,10 @@
 * Center
 
 ### Webtop / HUD
+* change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
+* add max dashboard error when launching folder from hud [webtop #642](https://github.com/ozone-development/ozp-webtop/issues/642)
+* various webtop bugs/issues [webtop #621](https://github.com/ozone-development/ozp-webtop/issues/621), [webtop #644](https://github.com/ozone-development/ozp-webtop/issues/644)
+* configure publicly accessible webtop / hud demos in openshift accessing new backend
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
