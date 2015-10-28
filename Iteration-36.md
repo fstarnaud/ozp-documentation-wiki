@@ -14,6 +14,7 @@
 ### Center / Help Articles
 * Center:
   * Integrate Help Tour
+  * Eliminate warnings to improve reliability/stability and to prepare for updating React to latest version [#423](https://github.com/ozone-development/ozp-center/issues/423)
 * Help Articles:
  * Integration Styling
 * Help Tour:
