@@ -17,6 +17,7 @@
   * add opensearch capabilities
   * configure publicly accessible demo in openshift accessing new backend
   * refactor listings management pages and table view and add export to excel feature to table view
+  * ~~Fix Create/Edit Page - Contact mislabeled after Save [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
 * Help Articles:
   * ~~Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)~~
 * Help Tour:
