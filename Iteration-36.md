@@ -54,6 +54,7 @@
     * Investigate additional Transport Links (other than localStorage) to broaden browser support.
 * Documentation
     * Additional OWF7 to IWC migration guides for application developers.
+    * Add metrics (document) on performance gains of web worker to docs.
 
 
 ### Metrics
