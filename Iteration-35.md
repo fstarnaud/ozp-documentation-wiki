@@ -76,7 +76,7 @@
    * Additional OWF7 to IWC migration guides for application developers.
 
 ### Metrics
-* Output metrics export into table form
+* ~~Output metrics export into table form/CSV~~
 
 ### UI/UX
 * ~~Provide mockups for settings modal solution [#356](https://github.com/ozone-development/ozp-center/issues/356)~~
