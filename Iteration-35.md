@@ -56,6 +56,7 @@
 ### IWC/Legacy Adapter
 * ~~Code review~~
    * ~~Review/Testing of shared web worker IWC Bus.~~
+   * Add metrics (document) on performance gains of web worker to docs.
 * New Backend endpoint support
    * ~~Data.api endpoint support~~
    * ~~System.api endpoint support~~
