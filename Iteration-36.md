@@ -23,7 +23,10 @@
  * Set tour to open on first visit to Ozone
 
 ### Backend (new):
-
+* Django
+  * Add PKI support
+  * Add authorization service support
+* Center
 
 ### Webtop / HUD
 
