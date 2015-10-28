@@ -20,7 +20,7 @@
   * Listing Management
     * ~~Fix inaccurate results on initial tab[#402](https://github.com/ozone-development/ozp-center/issues/402)~~
     * ~~Quickly switching between tabs causes problems[#406](https://github.com/ozone-development/ozp-center/issues/406)~~
-    * ~~Fix Create/Edit Page - Contact mislabeled after Save [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
+    
 
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
@@ -35,8 +35,8 @@
   * ~~Fixed pernicious IE bug where images couldn't be uploaded as form data using basic authentication~~
   * Center Settings:
     * ~~Notifications [#29](https://github.com/ozone-development/ozp-backend/issues/29)~~
-    * ~~Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)~~
-    * ~~Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)~~
+    * Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)
+    * Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)
 
 ### Webtop / HUD
 * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
