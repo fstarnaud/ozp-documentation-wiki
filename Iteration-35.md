@@ -10,7 +10,7 @@
 *  ~~Functional Center, HUD, and Webtop in new backend (dev env)~~ (everything but IWC)
 *  ~~Improved CI setup (reduce build times and failures on Jenkins)~~
   * No random build failures since last week (typically they were failing about 30% of the time)
-  * Build->Deployment time: reduced from ~30 minutes to ~6 minutes (for Center, our largest project)
+  * Build and Deployment time: reduced from ~30 minutes to ~6 minutes (for Center, our largest project)
 
 ### Center / Help Articles
 * Center
