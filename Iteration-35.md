@@ -7,8 +7,10 @@
 * Help Articles
 
 ## Iteration Goals:
-*  Functional Center, HUD, and Webtop in new backend (dev env)
-*  Improved CI setup (reduce build times and failures on Jenkins)
+*  ~~Functional Center, HUD, and Webtop in new backend (dev env)~~ (everything but IWC)
+*  ~~Improved CI setup (reduce build times and failures on Jenkins)~~
+  * No random build failures since last week (typically they were failing about 30% of the time)
+  * Build->Deployment time: 30 minutes -> 6 minutes (for Center, our largest project)
 
 ### Center / Help Articles
 * Center
@@ -29,7 +31,7 @@
     * ~~Stewards [#28](https://github.com/ozone-development/ozp-backend/issues/28)~~
     * ~~Intents [#26](https://github.com/ozone-development/ozp-backend/issues/26)~~
 * Webtop Changes:
-  * Use new backend API
+  * ~~Use new backend API~~
 
 ### Webtop / HUD
 * change widget app-toolbar clicking behavior [webtop #596](https://github.com/ozone-development/ozp-webtop/issues/596)
