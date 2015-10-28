@@ -20,6 +20,7 @@
   * Listing Management
     * ~~Fix inaccurate results on initial tab[#402](https://github.com/ozone-development/ozp-center/issues/402)~~
     * ~~Quickly switching between tabs causes problems[#406](https://github.com/ozone-development/ozp-center/issues/406)~~
+    * ~~Fix Create/Edit Page - Contact mislabeled after Save [#267](https://github.com/ozone-development/ozp-center/issues/267)~~
 
 * Help Articles:
   * Role based article displays [#39](https://github.com/ozone-development/ozp-help/issues/39)
