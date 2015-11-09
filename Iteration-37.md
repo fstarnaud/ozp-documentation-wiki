@@ -32,7 +32,7 @@
 ### 508 
 
   
-### IWC/Legacy Adapter
+### IWC
 
 
 ### Metrics
