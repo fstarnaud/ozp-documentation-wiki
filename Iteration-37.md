@@ -3,15 +3,14 @@
 *** 
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
-* 12/1/2015 - backend alpha in staging  
+* Dec 2015 - backend alpha in staging  
 * Help Articles deployed to production
 
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
-* Begin implementing IAA Caching in Prod
 * Begin investigation on performance testing of new backend
 
-### Center / Help Articles
+### Center
 * Center:
   * Integrate Help Tour
 * Help Tour:
@@ -22,21 +21,19 @@
 
 ### Backend (new):
 
+* Release Management
+  * Establish and configure Staging env
+  * Begin to work data migration scripts
+  * Begin to update puppet scripts
+  * Performance testing
+
 ### Webtop / HUD
 
 ### 508 
 
   
 ### IWC/Legacy Adapter
-* New Backend
-    * Intents.api endpoint support
-    * Code Review & Testing against both Current & New Backend
-* Performance evaluations
-    * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
-    * Investigate additional Transport Links (other than localStorage) to broaden browser support.
-* Documentation
-    * Additional OWF7 to IWC migration guides for application developers.
-    * Add metrics (document) on performance gains of web worker to docs.
+
 
 ### Metrics
 
