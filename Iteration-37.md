@@ -9,6 +9,7 @@
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
 * Begin implementing IAA Caching in Prod
+* Begin investigation on performance testing of new backend
 
 ### Center / Help Articles
 * Center:
