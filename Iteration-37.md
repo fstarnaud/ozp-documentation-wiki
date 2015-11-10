@@ -40,6 +40,7 @@
 ### UI/UX
 * Support help tour development
 * Support ongoing development / bugs / etc
+* Create diagram/graphic
 * Discussion of app launch locations [#287](https://github.com/ozone-development/ozp-center/issues/287)
 * Discussion of settings modal solution [#356](https://github.com/ozone-development/ozp-center/issues/356)
 
