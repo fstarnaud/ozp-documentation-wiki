@@ -69,7 +69,7 @@
 ### NC
 * Continue supporting testing efforts
 * Java 8 Support for OMP
-* Fix Grails issue with OWF 7.17.0
+* ~~Fix Grails issue with OWF 7.17.0~~
 * Continue update of documentation with new features
   
 ## Roadblocks
