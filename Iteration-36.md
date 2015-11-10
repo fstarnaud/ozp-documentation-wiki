@@ -4,19 +4,19 @@
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
 * 12/1/2015 - backend alpha in staging  
-* Help Articles
+* ~~Help Articles~~
 
 ## Iteration Goals:
-* IWC working with new backend
-* Lowside PKI infrastructure for new backend
-* Continue new backend testing with center, hud, webtop, and iwc
+* ~~IWC working with new backend~~
+* ~~Lowside PKI infrastructure for new backend~~
+* ~~Continue new backend testing with center, hud, webtop, and iwc~~
 
 ### Center / Help Articles
 * Center:
   * Integrate Help Tour
   * Eliminate warnings to improve reliability/stability and to prepare for updating React to latest version [#423](https://github.com/ozone-development/ozp-center/issues/423)
-* Help Articles:
- * Integration Styling
+* ~~Help Articles:~~
+ * ~~Integration Styling~~
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
  * Testing and exploring options for Help Tour
@@ -25,8 +25,8 @@
 
 ### Backend (new):
 * Django
-  * Add PKI support
-  * Add authorization service support
+  * ~~Add PKI support~~
+  * ~~Add authorization service support~~
 * Center
 
 ### Webtop / HUD
@@ -44,7 +44,6 @@
 * HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
 
 
-  
 ### IWC/Legacy Adapter
 * New Backend
     * Intents.api endpoint support
@@ -67,7 +66,7 @@
 
 
 ### NC
-* Continue supporting testing efforts
+* ~~Continue supporting testing efforts~~
 * Java 8 Support for OMP
 * ~~Fix Grails issue with OWF 7.17.0~~
 * Continue update of documentation with new features
