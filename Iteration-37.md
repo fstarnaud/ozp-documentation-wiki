@@ -40,7 +40,7 @@
 ### UI/UX
 * Support help tour development
 * Support ongoing development / bugs / etc
-
+* Support implementation of settings modal solution [#356](https://github.com/ozone-development/ozp-center/issues/356)
 
 ### NC
 * Continue supporting testing efforts
