@@ -61,9 +61,9 @@
 * Decision on whats next for CSV export of metrics data
 
 ### UI/UX
-* Support help tour development
-* Support implementation of settings modal solution for [#356](https://github.com/ozone-development/ozp-center/issues/356) ~~(provide mockups)~~
-* Support ongoing development / bugs / etc
+* ~~Support help tour development~~
+* ~~Support implementation of settings modal solution for [#356](https://github.com/ozone-development/ozp-center/issues/356) (provide mockups)~~
+* ~~Support ongoing development / bugs / etc~~
 
 
 ### NC
