@@ -62,7 +62,7 @@
 
 ### UI/UX
 * ~~Support help tour development~~
-* ~~Support implementation of settings modal solution for [#356](https://github.com/ozone-development/ozp-center/issues/356) (provide mockups)~~
+* ~~Provide mockups for settings modal solution [#356](https://github.com/ozone-development/ozp-center/issues/356)~~
 * ~~Support ongoing development / bugs / etc~~
 
 
