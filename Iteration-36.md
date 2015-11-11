@@ -15,6 +15,7 @@
 * Center:
   * Integrate Help Tour
   * ~~Eliminate warnings to improve reliability/stability and to prepare for updating React to latest version [#423](https://github.com/ozone-development/ozp-center/issues/423)~~
+  * ~~Require Description when rating an App [#428](https://github.com/ozone-development/ozp-center/issues/428)~~
 * ~~Help Articles:~~
  * ~~Integration Styling~~
 * Help Tour:
