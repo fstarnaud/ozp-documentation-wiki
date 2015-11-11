@@ -46,7 +46,7 @@
 
 
 ### IWC/Legacy Adapter
-*~~New Backend~~
+* ~~New Backend~~
     * ~~Intents.api endpoint support~~
     * ~~Code Review & Testing against both Current & New Backend~~
 * Performance evaluations
