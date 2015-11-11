@@ -53,7 +53,9 @@
 
 
 ### Metrics
-* Get feedback from Mark regarding metrics export options
+* Get feedback from regarding metrics export options
+ * simple url with data parameters?
+ * web based data selected and button to export?
 
 ### UI/UX
 * Support help tour development
