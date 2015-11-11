@@ -63,7 +63,7 @@
 
 
 ### Metrics
-* Decision on whats next for CSV export of metrics data
+* ~~Discuss options for CSV export of metrics data~~
 
 ### UI/UX
 * ~~Support help tour development~~
