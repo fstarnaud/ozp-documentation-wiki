@@ -13,11 +13,9 @@
 
 ### Center
 * Center:
-  * ~~Integrate Help Articles~~
+  * Open Search
 
-* Help Articles:
-  * ~~Integrate across all applications~~
-  * ~~Modify styling and layout to fit with integration~~
+* Help Articles: 
   * Integrate roles across all applications
 
 * Help Tour:
