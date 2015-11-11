@@ -39,6 +39,7 @@
 * Improve accessibility for (Center, HUD, Webtop)
 * List of specific 508 compliance items currently working on
     * ~~Center - The form shall allow people using assistive technology (ie. JAWS) to access the information, field elements, and functionality required for completion and submission of the form. [#371] (https://github.com/ozone-development/ozp-center/issues/371)~~
+   * ~~Center - Right-top navigation in center needs to work in (Jaw) ie. HUD, Help, and Menu (dropdown)~~
    * Center - Fix the Bookmark this app button if its not bookmark
 
 * HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
