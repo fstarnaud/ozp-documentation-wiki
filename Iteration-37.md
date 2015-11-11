@@ -33,7 +33,6 @@
   * Begin to update puppet scripts
   * Performance testing
 
-### Webtop / HUD
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
