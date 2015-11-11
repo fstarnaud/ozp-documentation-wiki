@@ -16,7 +16,8 @@
   * Open Search
 
 * Help Articles: 
-  * Integrate roles across all applications
+  * Integrate roles across all applications.
+  * Create config file for videos.
 
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
