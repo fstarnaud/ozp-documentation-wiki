@@ -41,7 +41,7 @@
 * Improve accessibility for (Center, HUD, Webtop)
 * List of specific 508 compliance items currently working on
 
-   * Center - Fix the Bookmark this app button if its not bookmark
+   * Center - Fix the Bookmark this app button if its not bookmark [#396] (https://github.com/ozone-development/ozp-center/issues/396)
    * Center - Fix the Listing Type and Organizations dropdown on home page [#436] (https://github.com/ozone-development/ozp-center/issues/436) 
 
 * HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
