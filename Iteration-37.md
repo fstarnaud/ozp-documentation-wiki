@@ -55,6 +55,7 @@
 
 
 ### Metrics
+* Get feedback from Mark regarding metrics export options
 
 ### UI/UX
 * Support help tour development
