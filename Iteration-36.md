@@ -46,15 +46,19 @@
 
 
 ### IWC/Legacy Adapter
-* New Backend
-    * Intents.api endpoint support
-    * Code Review & Testing against both Current & New Backend
+*~~New Backend~~
+    * ~~Intents.api endpoint support~~
+    * ~~Code Review & Testing against both Current & New Backend~~
 * Performance evaluations
     * Investigate utilization of a shared IWC bus for multiple IWC clients in one browser window chain #328
     * Investigate additional Transport Links (other than localStorage) to broaden browser support.
 * Documentation
     * Additional OWF7 to IWC migration guides for application developers.
     * Add metrics (document) on performance gains of web worker to docs.
+    * ~~Initial rework of gh-pages.~~
+* Fixes
+    * ~~Intent.api launch application to handle intent now functional. #352~~
+    * ~~Failed AJAX requests clogging ajax pool.~~
 
 
 ### Metrics
