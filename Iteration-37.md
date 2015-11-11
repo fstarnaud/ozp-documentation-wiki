@@ -9,6 +9,7 @@
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
 * Begin investigation on performance testing of new backend
+* Database work for new backend
 
 ### Center
 * Center:
@@ -29,8 +30,9 @@
 ### Backend (new):
 
 * Release Management
-  * Establish and configure Staging env
-  * Begin to work data migration scripts
+  * Establish and configure Staging env (PostgreSQL, Nginx)
+  * Begin to work data migration script (moving existing data to new backend)
+  * Test process for database migrations (for when new backend is in place)
   * Begin to update puppet scripts
   * Performance testing
 
