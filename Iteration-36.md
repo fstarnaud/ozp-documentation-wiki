@@ -8,7 +8,7 @@
 
 ## Iteration Goals:
 * ~~IWC working with new backend~~
-* ~~Lowside PKI infrastructure for new backend~~
+* ~~Lowside PKI infrastructure for new backend~~ (PKI support done)
 * ~~Continue new backend testing with center, hud, webtop, and iwc~~
 
 ### Center / Help Articles
