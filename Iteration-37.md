@@ -12,7 +12,14 @@
 
 ### Center
 * Center:
-  * Integrate Help Tour
+  * ~~Integrate Help Articles~~
+  * ~~Eliminate warnings to improve reliability/stability and to prepare for updating React to latest version [#423](https://github.com/ozone-development/ozp-center/issues/423)~~
+
+* Help Articles:
+  * ~~Integrate across all applications~~
+  * ~~Modify styling and layout to fit with integration~~
+  * Integrate roles across all applications
+
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
  * Testing and exploring options for Help Tour
