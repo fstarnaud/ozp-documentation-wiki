@@ -12,7 +12,7 @@ The continuous effort to unite the entire community on a single computing platfo
 * [Slack](https://slack.com/) - Web IM client
 * [ZenHub](https://www.zenhub.io/) - Kanban-style planning in GitHub Issues
 * [TravisCI](https://travis-ci.org/) - Automated build server
-* [BrowserStack](https://www.browserstack.com/)
+* [BrowserStack](https://www.browserstack.com/) - Live tesing in 500+ browsers and OS's
 * 508 Compliance
   * [Google Accessibility Developer Tool](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?utm_source=gmail) - Accessibility audit and element properties developed by Google
   * [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=gmail) - web accessibility evaluation tool developed by WebAIM.org.
