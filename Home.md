@@ -8,12 +8,6 @@ The continuous effort to unite the entire community on a single computing platfo
 * Search and discovery of Apps
 
 
-### Links to Information:
-* Product Iteration Wiki https://github.com/ozone-development/ozp-documentation/wiki/Iterations
-* Development Guidelines https://github.com/ozone-development/ozp-documentation/blob/master/README.md
-* IWC Docs - https://github.com/ozone-development/ozp-iwc/tree/master/docs/iwc_guide
-* IWC Legacy Adapter - https://github.com/ozone-development/ozp-iwc-owf7-widget-adapter 
-
 ### Free Stuff We're Using
 * [Slack](https://slack.com/) - Web IM client
 * [ZenHub](https://www.zenhub.io/) - Kanban-style planning in GitHub Issues
