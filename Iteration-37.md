@@ -64,10 +64,10 @@
 * Final help article styling and layout
 * Support help tour development
 * Digitize structure diagram
-* ~~Support implementation of [#287](https://github.com/ozone-development/ozp-center/issues/287) / [#356](https://github.com/ozone-development/ozp-center/issues/356)
-  * removing the ability to open apps from HUD into Webtop (currently broken)
-  * removing the setting to change the default launch (currently in the setting modal)
-  * removing the setting modal on the global menu~~
+* ~~Support implementation of [#287](https://github.com/ozone-development/ozp-center/issues/287) / [#356](https://github.com/ozone-development/ozp-center/issues/356)~~
+  * ~~removing the ability to open apps from HUD into Webtop (currently broken)~~
+  * ~~removing the setting to change the default launch (currently in the setting modal)~~
+  * ~~removing the setting modal on the global menu~~
 
 ### NC
 * Continue supporting testing efforts
