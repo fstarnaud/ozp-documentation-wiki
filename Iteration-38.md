@@ -38,8 +38,7 @@
 * Support help tour development
 
 ### NC
-* Java 8 Support for OMP
-* Continue update of documentation with new features
+* Transition - See roadblocks
   
 ## Roadblocks
 * transition of OWF/OMP support 
