@@ -8,8 +8,8 @@
 
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
-* Begin investigation on performance testing of new backend
-* Database work for new backend
+* ~~Begin investigation on performance testing of new backend~~
+* ~~Database work for new backend~~
 
 ### Center
 * Center:
@@ -55,9 +55,9 @@
 
 
 ### Metrics
-* Get feedback from regarding metrics export options
- * simple url with data parameters?
- * web based data selected and button to export?
+* ~~Get feedback from regarding metrics export options~~
+ * ~~simple url with data parameters?~~
+ * ~~web based data selected and button to export?~~
 
 ### UI/UX
 * ~~Support ongoing development / bugs / etc~~
