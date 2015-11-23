@@ -21,7 +21,7 @@
 * Webtop
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
-### Backend (new):
+### Backend:
 
 ### 508 
 * List of specific 508 compliance items 
