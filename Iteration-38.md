@@ -10,7 +10,7 @@
 * Continue new backend testing with center, hud, webtop, and iwc
 * Continue configuration of new backend on staging
 
-### Center
+### Front End (Center, HUD, Webtop)
 * Center:
   * Open Search
 * Help Tour:
@@ -18,14 +18,15 @@
  * Testing and exploring options for Help Tour
  * Clean up tour links/paths to bake in react actions
  * Set tour to open on first visit to Ozone
+* Webtop
+ * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
 ### Backend (new):
 
 ### 508 
-* Improve accessibility for (Center, HUD, Webtop)
-* List of specific 508 compliance items currently working on
-** 
-**
+* List of specific 508 compliance items 
+ * 
+ *
 * Process and configuration for 508 VM and Branches 
 
 ### IWC
@@ -37,7 +38,6 @@
 * Support help tour development
 
 ### NC
-* Continue supporting testing efforts
 * Java 8 Support for OMP
 * Continue update of documentation with new features
   
