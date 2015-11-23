@@ -32,6 +32,7 @@
 ### IWC
 
 ### Metrics
+* Continue work on automated export of metrics data
 
 ### UI/UX
 * Support ongoing development / bugs / etc
