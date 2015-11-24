@@ -46,6 +46,8 @@
 * HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
   
 ### IWC
+* Code Maintenance
+    * ~~Restructure of IWC classes for easier developer onboarding.~~
 * Documentation
     * Additional OWF7 to IWC migration guides for application developers.
     * Add metrics (document) on performance gains of web worker to docs.
