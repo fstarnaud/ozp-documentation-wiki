@@ -7,10 +7,9 @@
 * Continue progress in improvements to 508 Compliance
 
 ##Future Release Buckets
-* [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
+* [REMOVED - Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * Metrics for all Apps within Orgs for Org Stewards
 * Infinite scroll & "Back to Top" link on Center on main page
-* [Table/List View for Listing Management](https://github.com/ozone-development/ozp-documentation/wiki/Table-View-for-Listing-Management)
 * [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 
 ***
