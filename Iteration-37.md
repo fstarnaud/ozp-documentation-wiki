@@ -67,7 +67,7 @@
 * ~~Digitize structure diagram~~
 * ~~Create tickets, descriptions, and mockups as needed to support implementation of [#287](https://github.com/ozone-development/ozp-center/issues/287) / [#356](https://github.com/ozone-development/ozp-center/issues/356)~~
   * ~~remove the ability to open apps from HUD into Webtop (currently broken) [#143](https://github.com/ozone-development/ozp-hud/issues/143)~~
-  * ~~remove Webtop-disabled apps from Webtop [#651](https://github.com/ozone-development/ozp-webtop/issues/651) / implement folder display [#652](https://github.com/ozone-development/ozp-webtop/issues/652)
+  * ~~remove Webtop-disabled apps from Webtop [#651](https://github.com/ozone-development/ozp-webtop/issues/651) / implement folder display [#652](https://github.com/ozone-development/ozp-webtop/issues/652)~~
   * ~~remove the setting to change the default launch (currently in the setting modal)~~
   * ~~remove the setting modal on the global menu [hud #142](https://github.com/ozone-development/ozp-hud/issues/142) / [center #438](https://github.com/ozone-development/ozp-center/issues/438) / [webtop #648](https://github.com/ozone-development/ozp-webtop/issues/648)~~
   * ~~add Webtop-enabled setting to all apps / UI opt-in to submission form [#287](https://github.com/ozone-development/ozp-center/issues/287)~~
