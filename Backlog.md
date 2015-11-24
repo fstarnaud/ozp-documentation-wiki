@@ -12,11 +12,10 @@
 * [Notification Display - most recent populates at top](https://github.com/ozone-development/ozp-documentation/wiki/Notification-Display)
 * Beef up [Profile](https://github.com/ozone-development/ozp-documentation/wiki/Profile) and Settings modals
 
-* Recommendation engine: a list of apps specific to your mission when you first sign up ("If you like this, you might like this!")
 * [Personalized HUD (Widgets, Metrics visualization, etc.)](https://github.com/ozone-development/ozp-documentation/wiki/Customized-HUD)
 * [Notifications for Apps / Organizations](https://github.com/ozone-development/ozp-documentation/wiki/Notifications)
 
-
+***
 ***
 
 ##Future Ideas that still need more discussions
@@ -31,7 +30,7 @@
 * Documentation "service" - templates, examples, etc to creating documentations for app submission
 * Featured Apps - two apps per organization ( Makes sense if there are 500+ of Apps)
 * Featured Apps in individual categories ( Makes sense if there are 500+ of Apps)
-
+* Recommendation engine: a list of apps specific to your mission when you first sign up ("If you like this, you might like this!")
 * Tag Cloud
 * [User tags](https://github.com/ozone-development/ozp-documentation/wiki/User-Tags)
 
@@ -46,7 +45,6 @@
 * [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
 * [Customize the data analysis framework usage (Preferences, menus, and launching activity)](https://github.com/ozone-development/ozp-documentation/wiki/Customize-the-Data-Analysis-Framework)
 * Control intents & visualize on-going data-transmission within Webtop
-
 * [Add Layouts to Webtop](https://github.com/ozone-development/ozp-documentation/wiki/Webtop---Displaying-Apps-in-Layouts)
 * AppBuilder:
     * Tile layout builders
