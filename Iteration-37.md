@@ -70,9 +70,10 @@
   * ~~removing the setting modal on the global menu~~
 
 ### NC
-* Continue supporting testing efforts
-* Java 8 Support for OMP
-* Continue update of documentation with new features
+* ~~Continue supporting testing efforts~~
+* ~~Java 8 Support for OMP~~ Released as BETA
+* ~~OWF 7.17.0 was Released~~
+* ~~Continue update of documentation with new features~~
   
 ## Roadblocks
 * transition of OWF support
