@@ -40,6 +40,7 @@
 
 ### NC
 * Transition - See roadblocks
+* If Community responds in time we will release OMP
   
 ## Roadblocks
 * transition of OWF/OMP support 
