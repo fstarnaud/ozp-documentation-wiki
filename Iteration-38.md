@@ -43,6 +43,8 @@
 ### UI/UX
 * Support ongoing development / bugs / etc
 * Support help tour development
+* Support graphic needs for structure diagram
+* Implement light-themed modals throughout the entire platform (Webtop/HUD)
 
 ### NC
 * Transition - See roadblocks
