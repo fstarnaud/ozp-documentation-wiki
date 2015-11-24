@@ -41,10 +41,11 @@
 * Continue work on automated export of metrics data
 
 ### UI/UX
-* Support ongoing development / bugs / etc
+* Implement light-themed modals throughout the entire platform (Webtop/HUD)
+* Clean up PRs for help/documentation updates supporting upcoming features
 * Support help tour development
 * Support graphic needs for structure diagram
-* Implement light-themed modals throughout the entire platform (Webtop/HUD)
+* Support ongoing development / bugs / etc
 
 ### NC
 * Transition - See roadblocks
