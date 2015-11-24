@@ -28,16 +28,17 @@
 ***
 
 ##Future Ideas that still need more discussions
-* [Implement Dashboards (as a listing type) in HUD and Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
-* [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
-* [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
-* [Group Management](https://github.com/ozone-development/ozp-documentation/wiki/Group-Management)
-* [Share Dashboards with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
+* Beef up [Profile](https://github.com/ozone-development/ozp-documentation/wiki/Profile) and Settings modals
+* [Add sorting capabilities to My Bookmarks](https://github.com/ozone-development/ozp-documentation/wiki/Sorting-Bookmarks)
+* [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
+* [Include Dashboards as listing types in Marketplace](https://github.com/ozone-development/ozp-documentation/wiki/Adding-Dashboards-Listing-Type)
 * Include Toolkits as listing types in Marketplace
 * Include Suites as listing types in Marketplace
 * Show trending apps in Marketplace
+* [Share all listing types with other users](https://github.com/ozone-development/ozp-documentation/wiki/Sharing-Listings)
+* [User Management](https://github.com/ozone-development/ozp-documentation/wiki/User-Management)
+* [Group Management](https://github.com/ozone-development/ozp-documentation/wiki/Group-Management)
 * Business analysis reports, i.e. how many apps were added by day/week/month, top apps of the week, etc.
-* 'Bandwidth-restricted' AppsMall - can AppsMall operate w/out icons & images?
 * Scheduled import
 * Control intents & visualize on-going data-transmission within Webtop
 * [Customize the data analysis framework usage (Preferences, menus, and launching activity)](https://github.com/ozone-development/ozp-documentation/wiki/Customize-the-Data-Analysis-Framework)
@@ -45,6 +46,7 @@
 * Documentation "service" - templates, examples, etc to creating documentations for app submission
 * Expand AppsMall between two monitors (multiscreen support)
 * User feedback in OZP toolbar
+* [Add Layouts to Webtop](https://github.com/ozone-development/ozp-documentation/wiki/Webtop---Displaying-Apps-in-Layouts)
 * AppBuilder:
     * Tile layout builders
     * IWC support
@@ -54,7 +56,3 @@
 * Featured Apps - two apps per organization ( Makes sense if there are 500+ of Apps)
 * Featured Apps in individual categories ( Makes sense if there are 500+ of Apps)
 * Metrics - track users that favorite a dashboard, as well as what widgets they add or subtract from it
-* Beef up [Profile](https://github.com/ozone-development/ozp-documentation/wiki/Profile) and Settings modals
-* [Implement usage of draft listings in HUD](https://github.com/ozone-development/ozp-documentation/wiki/Draft-Listings)
-* [Adding Layouts to Webtop](https://github.com/ozone-development/ozp-documentation/wiki/Webtop---Displaying-Apps-in-Layouts)
-* [Add sorting capabilities to My Bookmarks](https://github.com/ozone-development/ozp-documentation/wiki/Sorting-Bookmarks)
