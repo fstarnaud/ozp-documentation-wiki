@@ -6,7 +6,7 @@
 ##### April 19, 2016
 * Refactored Backend removing dependencies on Java 7
 
-##### June 30, 2016 - 
+##### June 30, 2016
 * [Help Articles](https://github.com/ozone-development/ozp-documentation/wiki/Help-Articles)/Tour
 
 ##### September 30, 2016
