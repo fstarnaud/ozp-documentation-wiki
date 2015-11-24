@@ -1,10 +1,14 @@
 #Highlevel Backlog
 
 ###Next Release Features
-* April 19, 2016 Refactored Backend removing dependencies on Java 7
-* June 30, 2016 [Help Articles](https://github.com/ozone-development/ozp-documentation/wiki/Help-Articles)/Tour
-* September 30, 2016 [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
-* September 30, 2016 [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder)
+##### April 19, 2016
+* Refactored Backend removing dependencies on Java 7
+##### June 30, 2016 - 
+* [Help Articles](https://github.com/ozone-development/ozp-documentation/wiki/Help-Articles)/Tour
+##### September 30, 2016
+* [Private Listings](https://github.com/ozone-development/ozp-documentation/wiki/Private-Listings)
+* [Share HUD Bookmarked Folders with other users in same org](https://github.com/ozone-development/ozp-documentation/wiki/Share-Bookmarked-Folder)
+
 * Continue progress in improvements to 508 Compliance
 
 ###Future Release Features
