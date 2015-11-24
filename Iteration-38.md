@@ -35,6 +35,7 @@
     * Tutorials: Location Lister end to end tutorial.
     * Gitbook: Metrics on supported browser performance.
     * Examples: layout and fill the examples page of the iwc gh-pages to show source/example side by side.
+* Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. (ex. a data api set looks like `client.data().set(resource,{entity: .... })`).
 
 ### Metrics
 * Continue work on automated export of metrics data
