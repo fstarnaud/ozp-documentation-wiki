@@ -30,6 +30,11 @@
 * Process and configuration for 508 VM and Branches 
 
 ### IWC
+* Documentation
+    * Tutorials: advanced functionality (pattern filtering, intents)
+    * Tutorials: Location Lister end to end tutorial.
+    * Gitbook: Metrics on supported browser performance.
+    * Examples: layout and fill the examples page of the iwc gh-pages to show source/example side by side.
 
 ### Metrics
 * Continue work on automated export of metrics data
