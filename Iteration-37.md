@@ -52,7 +52,7 @@
     * Additional OWF7 to IWC migration guides for application developers.
     * ~~Add metrics (document) on performance gains of web worker to docs.~~ [link to doc](http://ozone-development.github.io/ozp-iwc/gitbook/performance/sharedWorkerMetrics.html)
     * ~~gh-pages~~
-        * ~~tutorials: create tutorial(s) for step-by-step walkthrough of example widget creation.~~
+        * ~~tutorials: create tutorial(s) for step-by-step walkthrough of example widget creation.~~ [link to tutorials](http://ozone-development.github.io/ozp-iwc/tutorial/)
         * examples: create an examples page(s) to better showcase the IWC capabilities (display example and explanation of functionality used)
 
 
