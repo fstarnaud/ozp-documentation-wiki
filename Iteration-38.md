@@ -36,8 +36,6 @@
    * Center - Fix the buttons and tabs in each app popup modal 
 * Process and configuration for 508 VM and Branches 
 
-* HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
-
 ### IWC
 * Documentation
     * Tutorials: advanced functionality (pattern filtering, intents)
