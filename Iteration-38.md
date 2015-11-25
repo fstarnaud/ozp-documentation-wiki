@@ -8,7 +8,7 @@
 
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
-* Continue configuration of new backend on staging
+* Single staging VM running with production data
 
 ### Front End (Center, HUD, Webtop)
 * Center:
@@ -22,6 +22,11 @@
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
 ### Backend:
+* init.d scripts for nginx, postgresql, gunicorn
+* integration with real authorization service and PKI
+* vagrant box with production-esque setup
+* run database migration script on production data
+* begin setting up staging/production infrastructure for new backend
 
 ### 508 
 * List of specific 508 compliance items 
