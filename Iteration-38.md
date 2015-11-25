@@ -43,7 +43,7 @@
     * Tutorials: advanced functionality (pattern filtering, intents)
     * Tutorials: Location Lister end to end tutorial.
     * Examples: layout and fill the examples page of the iwc gh-pages to show source/example side by side.
-* Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. (ex. a data api set looks like `client.data().set(resource,{entity: .... })`).
+* Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
 
 ### Metrics
 * Continue work on automated export of metrics data
