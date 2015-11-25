@@ -30,10 +30,13 @@
 * begin setting up staging/production infrastructure for new backend
 
 ### 508 
-* List of specific 508 compliance items 
- * 
- *
+* Improve accessibility for (Center, HUD, Webtop)
+* List of specific 508 compliance items currently working on
+   * Center - Fix all the empty links and empty button text links within each app on the front page
+   * Center - Fix the buttons and tabs in each app popup modal 
 * Process and configuration for 508 VM and Branches 
+
+* HUD - Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as speech. [#127] (https://github.com/ozone-development/ozp-hud/issues/127)
 
 ### IWC
 * Documentation
