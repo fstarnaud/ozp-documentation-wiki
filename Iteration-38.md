@@ -53,6 +53,7 @@
 * Clean up PRs for help/documentation updates supporting upcoming features
 * Support help tour development
 * Support graphic needs for structure diagram
+* Provide styling/layout for IWC site
 * Support ongoing development / bugs / etc
 
 ### NC
