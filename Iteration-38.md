@@ -13,6 +13,7 @@
 ### Front End (Center, HUD, Webtop)
 * Center:
   * Open Search
+  * Automated regression testing with CasperJS
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
  * Testing and exploring options for Help Tour
