@@ -11,14 +11,16 @@
 * Single staging VM running with production data
 
 ### Front End (Center, HUD, Webtop)
+
 * Center:
   * Open Search
   * Automated regression testing with CasperJS
+
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
- * Testing and exploring options for Help Tour
- * Clean up tour links/paths to bake in react actions
+ * ~~Testing and exploring options for Help Tour~~
  * Set tour to open on first visit to Ozone
+
 * Webtop
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
