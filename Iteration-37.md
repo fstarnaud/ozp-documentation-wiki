@@ -28,8 +28,8 @@
 ### Backend (new):
 
 * Release Management
-  * Establish and configure Staging env (PostgreSQL, Nginx)
-  * Begin to work data migration script (moving existing data to new backend)
+  * ~~Establish and configure Staging env (PostgreSQL, Nginx)~~
+  * ~~Begin to work data migration script (moving existing data to new backend)~~
   * Test process for database migrations (for when new backend is in place)
   * Begin to update puppet scripts
   * Performance testing
