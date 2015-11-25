@@ -65,6 +65,7 @@
 * ~~Support ongoing development / bugs / etc~~
 * ~~Final help article styling and layout~~
 * ~~Digitize structure diagram~~
+* ~~Clean up highlevel backlog to update UX direction based on current team discussions~~
 * ~~Create tickets, descriptions, and mockups as needed to support implementation of [#287](https://github.com/ozone-development/ozp-center/issues/287) / [#356](https://github.com/ozone-development/ozp-center/issues/356) decision~~
   * ~~remove the ability to open apps from HUD into Webtop (currently broken) / setting to change default launch / launch options [#143](https://github.com/ozone-development/ozp-hud/issues/143)~~
   * ~~remove Webtop-disabled apps from Webtop [#651](https://github.com/ozone-development/ozp-webtop/issues/651) / implement folder display [#652](https://github.com/ozone-development/ozp-webtop/issues/652)~~
