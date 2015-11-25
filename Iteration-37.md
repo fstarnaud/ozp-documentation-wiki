@@ -72,7 +72,6 @@
   * ~~remove the setting modal on the global menu [hud #142](https://github.com/ozone-development/ozp-hud/issues/142) / [center #438](https://github.com/ozone-development/ozp-center/issues/438) / [webtop #648](https://github.com/ozone-development/ozp-webtop/issues/648)~~
   * ~~add Webtop-enabled setting to all apps / UI opt-in to submission form [#287](https://github.com/ozone-development/ozp-center/issues/287)~~
   * ~~create a notification when user sends a shared folder / bookmark to a new folder on HUD when the receiving user accepts [#137](https://github.com/ozone-development/ozp-hud/issues/137)~~
-* Support help tour development
 
 ### NC
 * ~~Continue supporting testing efforts~~
