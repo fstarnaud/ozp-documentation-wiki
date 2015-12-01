@@ -38,7 +38,7 @@ The continuous effort to unite the entire community on a single computing platfo
 
 * [ozoneplatform-users](https://groups.google.com/forum/#!forum/ozoneplatform-users) - For users, system administrators, App Component ("widget") developers.
 * [ozoneplatform-announce](https://groups.google.com/forum/#!forum/ozoneplatform-announce) - Announcements from the OZONE project.
-  * Direct links to these Groups can also be found [here](https://owfgoss.org/support.html).
+  * Direct links to these Groups can also be found [here](http://ozone-development.github.io/ozone-website/ozp_support.html).
 
 ### OZONE Web Page ###
 * [OZONE Platform](http://ozone-development.github.io/ozone-website/) http://ozone-development.github.io/ozone-website/
