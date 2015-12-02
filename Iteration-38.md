@@ -52,8 +52,9 @@
 * Implement light-themed modals throughout the entire platform (Webtop/HUD)
 * Clean up PRs for help/documentation updates supporting upcoming features
 * Support help tour development
+* Provide mockups for #447 / #448
 * Support graphic needs for structure diagram
-* Provide styling/layout for IWC site
+* ~~Provide styling/layout for IWC site~~
 * Support ongoing development / bugs / etc
 
 ### NC
