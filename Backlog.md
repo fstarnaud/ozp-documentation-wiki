@@ -15,6 +15,7 @@
 
 
 ###Future Release Features
+* Implement [Opensearch](https://github.com/ozone-development/ozp-center/issues/163) standards
 * Metrics for all Apps within Orgs for Org Stewards
 * Infinite scroll & "Back to Top" link on Center on main page
 * [Notification Display - most recent populates at top](https://github.com/ozone-development/ozp-documentation/wiki/Notification-Display)
