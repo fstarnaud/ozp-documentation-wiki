@@ -5,6 +5,7 @@
 
 ##### April 19, 2016
 * Refactored Backend removing dependencies on Java 7
+* Remove Settings modal [hud #142](https://github.com/ozone-development/ozp-hud/issues/142) / [center #438](https://github.com/ozone-development/ozp-center/issues/438) / [webtop #648](https://github.com/ozone-development/ozp-webtop/issues/648); Remove the ability to open apps from HUD into Webtop (currently broken), setting to change default launch, launch options [#143](https://github.com/ozone-development/ozp-hud/issues/143); Remove Webtop-disabled apps from Webtop [#651](https://github.com/ozone-development/ozp-webtop/issues/651), implement folder display [#652](https://github.com/ozone-development/ozp-webtop/issues/652)
 
 ##### June 30, 2016
 * [Help Articles](https://github.com/ozone-development/ozp-documentation/wiki/Help-Articles)/Tour
