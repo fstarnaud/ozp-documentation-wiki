@@ -51,11 +51,11 @@
 ### UI/UX
 * Implement light-themed modals throughout the entire platform (Webtop/HUD)
 * Clean up PRs for help/documentation updates supporting upcoming features
-* Support help tour development
-* Provide mockups for #447 / #448
+* ~~Provide mockups and direction for [Private Listings](https://github.com/ozone-development/ozp-center/issues/447)~~
+* ~~Discussion of [Security Markings](https://github.com/ozone-development/ozp-center/issues/448)~~
+* ~~Provide styling/layout/branding updates for IWC site~~
 * Support graphic needs for structure diagram
-* ~~Provide styling/layout for IWC site~~
-* Support ongoing development / bugs / etc
+* Support help tour development
 
 ### NC
 * Transition - See roadblocks
