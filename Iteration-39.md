@@ -1,4 +1,4 @@
-# Iteration 39/40 (9 Dec - 6 Jan)
+# Iteration 39 (9 Dec - 23 Dec)
 
 *** 
 ### Next Milestones:
