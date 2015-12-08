@@ -36,7 +36,7 @@
 ### UI/UX
 * Provide general support for development/bugs
 * Support graphic needs for structure diagram
-* Continue support for help tour development
+* Continue styling support as needed for help tour development
 
 
 ## Roadblocks
