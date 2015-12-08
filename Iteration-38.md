@@ -53,8 +53,8 @@
 * ~~Provide mockups and direction for [Private Listings](https://github.com/ozone-development/ozp-center/issues/447)~~
 * ~~Discussion of [Security Markings](https://github.com/ozone-development/ozp-center/issues/448)~~
 * ~~Provide styling/layout/branding updates for IWC site~~
-* Support graphic needs for structure diagram
-* Support help tour development
+* ~~Support graphic needs for structure diagram~~
+* ~~Support help tour development~~
 
 ### NC
 * Transition - See roadblocks
