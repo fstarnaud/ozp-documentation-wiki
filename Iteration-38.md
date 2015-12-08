@@ -49,8 +49,7 @@
 * Continue work on automated export of metrics data
 
 ### UI/UX
-* Implement light-themed modals throughout the entire platform (Webtop/HUD)
-* Clean up PRs for help/documentation updates supporting upcoming features
+* ~~Implement light-themed modals throughout the entire platform (Webtop/HUD)~~
 * ~~Provide mockups and direction for [Private Listings](https://github.com/ozone-development/ozp-center/issues/447)~~
 * ~~Discussion of [Security Markings](https://github.com/ozone-development/ozp-center/issues/448)~~
 * ~~Provide styling/layout/branding updates for IWC site~~
