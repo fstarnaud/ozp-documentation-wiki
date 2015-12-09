@@ -18,9 +18,7 @@
   * ~~Require Description when rating an App [#428](https://github.com/ozone-development/ozp-center/issues/428)~~
 * ~~Help Articles:~~
  * ~~Integration Styling~~
- * ~~Fix IE URL Length Bug~~
- * ~~Add auth to related articles.~~
- * ~~Change related articles to 6 articles~~ 
+
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
  * Testing and exploring options for Help Tour
