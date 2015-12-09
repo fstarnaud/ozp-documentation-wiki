@@ -16,6 +16,11 @@
   * Open Search
   * Automated regression testing with CasperJS
 
+* Help Articles:
+ * ~~Fix IE URL Length Bug~~
+ * ~~Add auth to related articles.~~
+ * ~~Change related articles to 6 articles~~ 
+
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
  * ~~Testing and exploring options for Help Tour~~
