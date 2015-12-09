@@ -57,4 +57,4 @@
 * Ideas for fine tuning or filtering search for people that don't want to see or use Code Libraries 
 
 ## Roadblocks
-* 
+* availability of Bootstrap classify 
