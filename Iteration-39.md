@@ -14,7 +14,7 @@
   * Open Search
   * Help Tour Integration
   * New backend: implement private listings [#447](https://github.com/ozone-development/ozp-center/issues/447)
-  * New backend: implement private listings [#447](https://github.com/ozone-development/ozp-center/issues/447)
+  * New backend: Add security marking to listings and associated image files [#448](https://github.com/ozone-development/ozp-center/issues/448)
 
 
 * Help Tour:
