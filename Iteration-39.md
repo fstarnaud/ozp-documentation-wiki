@@ -13,6 +13,9 @@
 * Center:
   * Open Search
   * Help Tour Integration
+  * New backend: implement private listings [#447](https://github.com/ozone-development/ozp-center/issues/447)
+  * New backend: implement private listings [#447](https://github.com/ozone-development/ozp-center/issues/447)
+
 
 * Help Tour:
  * Investigate further functionality for launching modals, dropdowns, etc. 
