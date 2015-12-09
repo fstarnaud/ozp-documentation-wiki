@@ -22,7 +22,9 @@
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
 ### Backend:
-* 
+* run database migration script on production data
+* begin setting up staging/production infrastructure for new backend
+* vagrant box with production-esque setup (not priority)
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
