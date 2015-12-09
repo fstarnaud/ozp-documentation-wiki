@@ -35,6 +35,7 @@
    * Center - Fix all the empty links and empty button text links within each app on the front page
    * Center - Fix the top two carousel 
 * Process and configuration for 508 VM and Branches 
+* Review 508 wiki with compliance office
 
 ### IWC
 * Documentation
