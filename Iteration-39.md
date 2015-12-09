@@ -54,7 +54,7 @@
 * Structure diagram graphic
 * Styling support for continuing help tour development
 * Bug - Webtop not pulling in latest ozp-icons
-
+* Ideas for fine tuning or filtering search for Code Libraries 
 
 ## Roadblocks
 * 
