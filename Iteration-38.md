@@ -14,7 +14,7 @@
 
 * Center:
   * Open Search
-  * Automated regression testing with CasperJS
+  * ~~Automated regression testing with CasperJS - framework in place~~
 
 * Help Articles:
  * ~~Fix IE URL Length Bug~~
