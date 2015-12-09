@@ -40,7 +40,7 @@
 * Improve accessibility for (Center, HUD, Webtop)
 * List of specific 508 compliance items currently working on
    * Center - Fix all the empty links and empty button text links within each app on the front page
-   * Center - Fix the buttons and tabs in each app popup modal 
+   * ~~Center - Fix the buttons and tabs in each app popup modal [#450] https://github.com/ozone-development/ozp-center/issues/450~~
 * Process and configuration for 508 VM and Branches 
 
 ### IWC
