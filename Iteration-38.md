@@ -30,11 +30,11 @@
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
 
 ### Backend:
-* init.d scripts for nginx, postgresql, gunicorn
-* integration with real authorization service and PKI
-* vagrant box with production-esque setup
-* run database migration script on production data
-* begin setting up staging/production infrastructure for new backend
+* ~~init.d scripts for nginx, postgresql, gunicorn~~
+* ~~integration with real authorization service and PKI~~
+* vagrant box with production-esque setup (in progress, 80% complete)
+* run database migration script on production data (in progress)
+* begin setting up staging/production infrastructure for new backend (in progress)
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
