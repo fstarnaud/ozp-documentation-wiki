@@ -50,8 +50,9 @@
 
 ### UI/UX
 * Provide general support for development/bugs
-* Support graphic needs for structure diagram
-* Continue styling support as needed for help tour development
+* Structure diagram graphic
+* Styling support for continuing help tour development
+* Bug - Webtop not pulling in latest ozp-icons
 
 
 ## Roadblocks
