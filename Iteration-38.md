@@ -44,11 +44,13 @@
 * Process and configuration for 508 VM and Branches 
 
 ### IWC
-* Documentation
-    * Tutorials: advanced functionality (pattern filtering, intents)
+* ~~Documentation~~
+    * ~~Tutorials: How to structure resource paths~~
+    * ~~Tutorials: advanced functionality (pattern filtering~~, intents ~~)~~ **Intents tutorials are near completion. Completed tutorials are on gh-pages**
     * Tutorials: Location Lister end to end tutorial.
-    * Examples: layout and fill the examples page of the iwc gh-pages to show source/example side by side.
+    * ~~Examples: layout and fill the examples page of the iwc gh-pages to show source/example side by side.~~
 * Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
+* ~~IWC initial delay on newer browsers is unneeded [#364](https://github.com/ozone-development/ozp-iwc/issues/364)~~ **Issue remains open for aid on speeding up delay on older browsers (fine tuning).**
 
 ### Metrics
 * Continue work on automated export of metrics data
