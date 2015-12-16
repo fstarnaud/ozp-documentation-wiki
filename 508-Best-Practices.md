@@ -33,7 +33,6 @@ W3C has also created a development language supplement called Web Accessibility 
 9. [Accessible Rich Internet Applications (WAI-ARIA) 1.0 Standards](http://www.w3.org/WAI/PF/aria/ "	Accessible Rich Internet Applications 1.0")
 
 
-
 ###Labeling Form Controls and Interactive Elements
 Accessible labels are necessary to make several other types of elements understandable, such as inputs, widgets, and ARIA landmark regions. Accessible labels that create a delightful experience are:
 
@@ -60,5 +59,20 @@ If we put text on the screen near an input such as a text field, the screen read
       Last name:
     </label>
     <input id="lastName" type="text">
+</div>
+```
+
+####Using 'aria-labelledby'
+
+The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA, we can instead use aria-labelledby.
+```HTML
+<div>
+  <div id="status">What's on your mind?</div>
+  <div
+    aria-labelledby="status"
+    contenteditable
+    id="composer"
+    role="textbox">
+  </div>
 </div>
 ```
