@@ -32,6 +32,8 @@ W3C has also created a development language supplement called Web Accessibility 
 8. [Mozilla Developer Network – ARIA resource area](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA "Mozilla Developer Network – ARIA resource area")
 9. [Accessible Rich Internet Applications (WAI-ARIA) 1.0 Standards](http://www.w3.org/WAI/PF/aria/ "	Accessible Rich Internet Applications 1.0")
 
+
+
 ###Labeling Form Controls and Interactive Elements
 Accessible labels are necessary to make several other types of elements understandable, such as inputs, widgets, and ARIA landmark regions. Accessible labels that create a delightful experience are:
 
