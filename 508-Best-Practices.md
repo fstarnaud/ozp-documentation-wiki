@@ -43,7 +43,7 @@ There are many ways to label an interactive element such as a button or an input
 ####Self-labeled
 
 Some elements, like links and buttons with display text, label themselves. In this case, screen reader users and all other users can perceive the label.
-
-```<div>
+```HTML
+<div>
   <button>Submit</button>
 </div>```
