@@ -52,7 +52,7 @@ Some elements, like links and buttons with display text, label themselves. In th
 
 ####Using `<label>`
 
-If we put text on the screen near an input such as a text field, the screen reader cannot reliably pick up on that visual association. It needs to be told which nearby text is the associated label. One way to do this is with the label element.
+If we put text on the screen near an input such as a text field, the screen reader cannot reliably pick up on that visual association. It needs to be told which nearby text is the associated label. One way to do this is with the <strong>label</strong> element.
 ```HTML
 <div>
     <label for="lastName">
@@ -64,7 +64,7 @@ If we put text on the screen near an input such as a text field, the screen read
 
 ####Using 'aria-labelledby'
 
-The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA, we can instead use aria-labelledby.
+The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA, we can instead use <strong>aria-labelledby</strong>.
 ```HTML
 <div>
   <div id="status">What's on your mind?</div>
@@ -86,4 +86,9 @@ In rare cases, the purpose of the input is visually obvious in context, but it's
   <input type="number" aria-label="Exchange Code" />
   <input type="number" aria-label="Line Number" />
 </div>
+```
+```HTML
+<button
+  class="searchBtn" aria-label="search">
+</button>
 ```
