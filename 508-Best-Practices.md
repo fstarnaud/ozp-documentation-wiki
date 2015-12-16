@@ -76,3 +76,14 @@ The HTML label works only for HTML inputs. If we make a control out of other ele
   </div>
 </div>
 ```
+####Using 'aria-label'
+
+In rare cases, the purpose of the input is visually obvious in context, but it's not obvious to someone using a screen reader. We can change that with <strong>aria-label</strong>.
+```HTML
+<div>
+  <label>Telephone</label>
+  <input id="one" type="number" aria-label="Area Code" />
+  <input type="number" aria-label="Exchange Code" />
+  <input type="number" aria-label="Line Number" />
+</div>
+```
