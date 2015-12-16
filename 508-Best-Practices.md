@@ -87,6 +87,7 @@ In rare cases, the purpose of the input is visually obvious in context, but it's
   <input type="number" aria-label="Line Number" />
 </div>
 ```
+or
 ```HTML
 <button
   class="searchBtn" aria-label="search">
