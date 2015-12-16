@@ -50,7 +50,7 @@ Some elements, like links and buttons with display text, label themselves. In th
 </div>
 ```
 
-####Using <label>
+####Using `<label>`
 
 If we put text on the screen near an input such as a text field, the screen reader cannot reliably pick up on that visual association. It needs to be told which nearby text is the associated label. One way to do this is with the label element.
 ```HTML
