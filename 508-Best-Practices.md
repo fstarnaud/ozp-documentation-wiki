@@ -44,6 +44,6 @@ There are many ways to label an interactive element such as a button or an input
 
 Some elements, like links and buttons with display text, label themselves. In this case, screen reader users and all other users can perceive the label.
 
-1`<div>`
-2  <button>Submit</button>
-3`</div>`
+`<div>
+  <button>Submit</button>
+</div>`
