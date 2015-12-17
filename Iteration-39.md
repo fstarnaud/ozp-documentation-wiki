@@ -18,8 +18,10 @@
 
 
 * Help Tour:
- * Investigate further functionality for launching modals, dropdowns, etc. 
- * Set tour to open on first visit to Ozone
+ * Close help modal on tour start
+ * Fix tourstops inside modals
+ * Separate global tour from each individual tour
+ * Set tour to open welcome modal on first visit to Ozone
 
 * Webtop
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
@@ -52,8 +54,9 @@
 ### UI/UX
 * ~~Provide general support for development/bugs/decisions~~
 * ~~Structure diagram graphic~~
-* Styling support for continuing help tour development
-* Ideas for fine tuning or filtering search for people that don't want to see or use Code Libraries 
+* ~~Make help articles/images more generic for use in AML~~
+* ~~Styling/content support for continuing help tour development~~
+* ~~Discussion regarding filtering search for people who don't want Code Libraries~~ 
 
 ## Roadblocks
 * availability of Bootstrap classify 
