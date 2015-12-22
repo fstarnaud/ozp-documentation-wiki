@@ -60,3 +60,4 @@
 
 ## Roadblocks
 * availability of Bootstrap classify 
+* discussion on adding IWC to allow webtop/hud/center to talk (tour)
