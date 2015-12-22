@@ -52,9 +52,10 @@
 * Investigate ability to change metrics search results from case sensitive to not case sensitive. Currently "map" and "MAP" and "Map" are logged as different search terms
 
 ### UI/UX
-* ~~Provide general support for development/bugs/decisions~~
+* ~~Provide general UX support for development/bugs/decisions~~
 * ~~Structure diagram graphic~~
 * ~~Make help articles/images more generic for use in AML~~
+* ~~Fix help article bugs~~
 * ~~Styling/content support for continuing help tour development~~
 * ~~Discussion regarding filtering search for people who don't want Code Libraries~~ 
 
