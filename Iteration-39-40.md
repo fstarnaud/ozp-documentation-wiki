@@ -20,8 +20,8 @@
 * Help Tour:
  * Close help modal on tour start
  * Fix tourstops inside modals
- * Separate global tour from each individual tour
- * Set tour to open welcome modal on first visit to Ozone
+ * Separate global tour from each individual tour - chain tours together depending where user started
+ * Set tour to open welcome tourstop on first visit to Ozone
 
 * Webtop
  * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
