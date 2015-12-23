@@ -55,7 +55,7 @@
 * ~~Provide general UX support for development/bugs/decisions~~
 * ~~Structure diagram graphic~~
 * ~~Make help articles/images more generic for use in AML~~
-* ~~Fix help article bugs~~
+* ~~Fix help article bugs, switch images to icons wherever possible~~
 * ~~Styling/content support for continuing help tour development~~
 * ~~Discussion regarding filtering search for people who don't want Code Libraries~~ 
 
