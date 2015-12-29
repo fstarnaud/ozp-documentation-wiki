@@ -34,7 +34,7 @@
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
 * List of specific 508 compliance items currently working on
-   * Center - Fix all the empty links and empty button text links within each app on the front page
+   * ~~Center - Fix all the empty links and empty button text links within each app on the front page~~
    * Center - Fix the top two carousel 
 * Process and configuration for 508 VM and Branches 
 * Review 508 wiki with compliance office
