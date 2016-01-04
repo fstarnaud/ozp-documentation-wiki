@@ -3,10 +3,10 @@
 *** 
 ### Next Milestones:
 * Re-factored backend removing dependencies on Java 7
-* Dec 2015 - backend alpha in staging  
+* ~~Dec 2015 - backend alpha in staging~~
 
 ## Iteration Goals:
-* Continue new backend testing with center, hud, webtop, and iwc
+* ~~Continue new backend testing with center, hud, webtop, and iwc~~
 
 ### Front End (Center, HUD, Webtop)
 
@@ -24,11 +24,11 @@
  * Set tour to open welcome tourstop on first visit to Ozone
 
 * Webtop
- * Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)
+ * ~~Investigate ability to display a message when apps can not be displayed in the webtop  [#649](https://github.com/ozone-development/ozp-webtop/issues/649)~~
 
 ### Backend:
-* run database migration script on production data
-* begin setting up staging/production infrastructure for new backend
+* ~~run database migration script on production data~~
+* ~~begin setting up staging/production infrastructure for new backend~~
 * vagrant box with production-esque setup (not priority)
 
 ### 508 
@@ -61,5 +61,5 @@
 * ~~Discussion regarding filtering search for people who don't want Code Libraries~~ 
 
 ## Roadblocks
-* availability of Bootstrap classify 
-* discussion on adding IWC to allow webtop/hud/center to talk (tour)
+* ~~availability of Bootstrap classify~~
+* ~~discussion on adding IWC to allow webtop/hud/center to talk (tour)~~
