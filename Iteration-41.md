@@ -43,6 +43,7 @@
     * Gitbook: Add docs on new simplified api calls of [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
 
     * Tutorials: Location Lister end to end tutorial.
+    * Video Tutorials: determine/script what will be covered in first video.
 * General Code maintenance:
     * Review client api function signature enhancements [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
 
