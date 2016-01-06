@@ -19,6 +19,7 @@
 * Center:
   * Open Search
   * Help Tour Integration
+  * Complete integration of bootstrap-classify
 
 * Help Tour:
  * 
