@@ -29,7 +29,7 @@
 ### Backend:
 * ~~run database migration script on production data~~
 * ~~begin setting up staging/production infrastructure for new backend~~
-* vagrant box with production-esque setup (not priority)
+* vagrant box with production-esque setup (not priority) (in progress)
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
