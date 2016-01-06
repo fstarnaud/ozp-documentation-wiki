@@ -6,6 +6,13 @@
 
 ## Iteration Goals:
 * Continue new backend testing with center, hud, webtop, and iwc
+* Rebuild ci-prototype (new-backend deployment on di2e) using Ansible
+* Automate infrastructure provisioning including:
+  * Vagrant (dev/demo setups)
+  * CI boxes (ci-jenkins, ci-prototype)
+  * HS python test VM
+  * HS staging/production infrastructure. 
+* Ansible scripts should also be used for Jenkins build and/or deployment jobs (as opposed to the `deploy_backend` and `deploy_frontend` bash scripts)
 
 ### Front End (Center, HUD, Webtop)
 
@@ -17,7 +24,8 @@
  * 
 
 ### Backend:
-* 
+* Run database migration script on new production dump - check for issues
+* bug fixes/doc updates
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
