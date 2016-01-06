@@ -41,12 +41,12 @@
 
 ### IWC
 * Documentation
-    * Tutorials: Intent invoking. Intent responses.
+    * ~~Tutorials: Intent invoking. Intent responses.~~
     * Tutorials: Location Lister end to end tutorial.
-    * Examples: Intent application example.
+    * ~~Examples: Intent application example.~~
 * General Code maintenance:
-    * Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361). **Does not impact performance, just future vision for syntax of IWC.**
-    * Intents: an intent invocation should return a result to the invoker if possible (remote function call & return) [#368](https://github.com/ozone-development/ozp-iwc/issues/368)
+    * ~~Review IWC Client method signatures, determine if there is a more intuitive function signature we could utilize. [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361). **Does not impact performance, just future vision for syntax of IWC.**~~ **In Review.**
+    * ~~Intents: an intent invocation should return a result to the invoker if possible (remote function call & return) [#368](https://github.com/ozone-development/ozp-iwc/issues/368)~~
 
 ### Metrics
 * Investigate ability to change metrics search results from case sensitive to not case sensitive. Currently "map" and "MAP" and "Map" are logged as different search terms
