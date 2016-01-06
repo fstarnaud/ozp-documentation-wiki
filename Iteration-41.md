@@ -20,7 +20,12 @@
 * 
 
 ### 508 
-* 
+* Improve accessibility for (Center, HUD, Webtop)
+* List of specific 508 compliance items currently working on
+   * Center - Fix the top two carousel
+   * Center - Fix the notification button  
+* Process and configuration for 508 VM and Branches 
+* Review 508 wiki with compliance office 
 
 ### IWC
 * 
