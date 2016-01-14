@@ -14,6 +14,7 @@
   * Open Search
   * Help Tour Integration
   * Enter on Search Team Opens Drop Down [#187](https://github.com/ozone-development/ozp-center/issues/187) 
+  * Case sensitive Metrics on Search [#470](https://github.com/ozone-development/ozp-center/issues/470)
 
 ### Backend:
 * bug fixes/doc updates
