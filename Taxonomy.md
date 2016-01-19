@@ -24,7 +24,6 @@ Portal that allows users to analyze data using applications.
 A web desktop or webtop is a desktop environment embedded in a web browser or a similar client application. OZP's Webtop is just one example or template of how a webtop could be developed. Other deployments of Ozone are encouraged to create their own custom webtop or modify and adapt the generic webtop to their needs. The OZP Webtop would be a default generic webtop and its functionality is purely visual, enabling persistent views of multiple applications loaded in iframes. 
 
 **Inter-Window Communications (IWC)**  
-IWC >> Inter Window Communication
 Communication bus within the browser for applications to share data across windows or iFrames.
 This allows for data to live in the browser which reduces network latency and improves reaction time. The IWC allows for options and does not bind users or applications to any one environment.  IWC is not user visible ,it works with applications that use it and users should not even know about it. IWC is meant to aid developers and for it to be successful and used developers need to know what it is and how to integrate it with their applications. IWC is as a stand-alone JavaScript library. There is no requirement for an application to use any other module of Ozone in order for applications to use IWC’s inter window communication bus.
 
