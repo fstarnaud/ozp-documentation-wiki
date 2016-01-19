@@ -25,6 +25,8 @@
 * Help Tour:
  * Finish up help tour for Center
 
+* Tech Debt
+
 ### Backend:
 * Run database migration script on new production dump - check for issues
 * bug fixes/doc updates
