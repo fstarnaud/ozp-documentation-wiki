@@ -22,7 +22,7 @@
   * Complete integration of bootstrap-classify
 
 * Help Tour:
- * 
+ * Finish up help tour for Center
 
 ### Backend:
 * Run database migration script on new production dump - check for issues
