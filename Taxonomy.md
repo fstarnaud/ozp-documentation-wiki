@@ -32,9 +32,9 @@ This allows for data to live in the browser which reduces network latency and im
 A RESTful compliant API and relational database used to store user profile data and Application metadata for the App Store.
 The OZP Backend will be a Python/Django based utilizing the Django REST Framework (DRF) and have modern web stack, RESTful API, swagger API documentation, with ansible deployments.
 Library versions planned for initial deployment in April 2016:
-•	Python 3.4
-•	Django 1.8
-•	DRF 3.2.2
+  * Python 3.4
+  * Django 1.8
+  * DRF 3.2.2
 
 **Other Modules**  
 Ozone encourages other to contribute code, features, and capabilities in a modular fashion.  The goal is to enable “plug and play” features so that Ozone can be deployed in a lean fashion suited to that environments needs.
