@@ -13,7 +13,7 @@
 * Center:
   * Open Search
   * Help Tour Integration
-  * Enter on Search Team Opens Drop Down [#187](https://github.com/ozone-development/ozp-center/issues/187) 
+  
   
  
 
