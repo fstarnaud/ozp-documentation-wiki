@@ -20,8 +20,8 @@
   * Open Search
   * Help Tour Integration
   * Complete integration of bootstrap-classify
-  * Search not searching [#473](https://github.com/ozone-development/ozp-center/issues/473)
-
+  * ~~Search not searching [#473](https://github.com/ozone-development/ozp-center/issues/473)~~
+  * ~~Case sensitive Metrics on Search [#470](https://github.com/ozone-development/ozp-center/issues/470)~~
 * Help Tour:
  * Finish up help tour for Center
 
