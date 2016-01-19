@@ -20,6 +20,7 @@
   * Open Search
   * Help Tour Integration
   * Complete integration of bootstrap-classify
+  * Search not searching [#473](https://github.com/ozone-development/ozp-center/issues/473)
 
 * Help Tour:
  * Finish up help tour for Center
