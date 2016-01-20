@@ -2,11 +2,11 @@
 
 *** 
 ### Next Milestones:
-* Production deployment of new backend
+* Production deployment of python backend
 
 ## Iteration Goals:
-* Continue new backend testing with center, hud, webtop, and iwc
-* Rebuild ci-prototype (new-backend deployment on di2e) using Ansible
+* Continue python backend testing with center, hud, webtop, and iwc
+* Rebuild ci-prototype (python-backend deployment on di2e) using Ansible
 * Automate infrastructure provisioning including:
   * Vagrant (dev/demo setups)
   * CI boxes (ci-jenkins, ci-prototype)
@@ -28,7 +28,7 @@
 
 * Tech Debt
 
-### Backend:
+### Python Backend:
 * Run database migration script on new production dump - check for issues
 * bug fixes/doc updates
 
