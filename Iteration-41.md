@@ -18,15 +18,16 @@
 
 * Center:
   * Open Search
-  * Help Tour Integration
+  * Help Tour Integration:
+    * Slow computer testing (popup modal)
+    * Finish up help tour for Center
+  * Technical Debt:
+    * Updated several dependancies 
+    * Removed Bower Dependancies
   * ~~Complete integration of bootstrap-classify [#448] (https://github.com/ozone-development/ozp-center/issues/448)~~
   * ~~Search not searching [#473](https://github.com/ozone-development/ozp-center/issues/473)~~
   * ~~Case sensitive Metrics on Search [#470](https://github.com/ozone-development/ozp-center/issues/470)~~
   * ~~Enter on Search Team Opens Drop Down [#187](https://github.com/ozone-development/ozp-center/issues/187)~~ 
-* Help Tour:
- * Finish up help tour for Center
-
-* Tech Debt
 
 ### Python Backend:
 * Run database migration script on new production dump - check for issues
