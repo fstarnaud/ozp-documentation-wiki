@@ -2,10 +2,10 @@
 
 *** 
 ### Next Milestones:
-* Production deployment of new backend
+* Production deployment of python backend
 
 ## Iteration Goals:
-* Continue new backend testing with center, hud, webtop, and iwc
+* Continue python backend testing with center, hud, webtop, and iwc
 
 
 ### Front End (Center, HUD, Webtop)
@@ -16,10 +16,10 @@
   * Test Create/Edit with security markings (bootstrap-classify)
   * Python Backend Bugs:
     * Saving jpg files [#487] (https://github.com/ozone-development/ozp-center/issues/487)  
-    * Upload an image that exceeding the size limit [#488] (https://github.com/ozone-development/ozp-center/issues/488)
+    * Upload an image exceeding the size limit [#488] (https://github.com/ozone-development/ozp-center/issues/488)
   
 
-### Backend:
+### Python Backend:
 * bug fixes/doc updates
 
 ### 508 
