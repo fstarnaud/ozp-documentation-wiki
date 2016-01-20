@@ -5,14 +5,14 @@
 * Production deployment of python backend
 
 ## Iteration Goals:
-* Continue python backend testing with center, hud, webtop, and iwc
-* Rebuild ci-prototype (python-backend deployment on di2e) using Ansible
+* ~~Continue python backend testing with center, hud, webtop, and iwc~~
+* ~~Rebuild ci-prototype (python-backend deployment on di2e) using Ansible~~
 * Automate infrastructure provisioning including:
-  * Vagrant (dev/demo setups)
-  * CI boxes (ci-jenkins, ci-prototype)
+  * ~~Vagrant (dev/demo setups)~~
+  * ~~CI boxes (ci-jenkins, ci-prototype)~~
   * HS python test VM
   * HS staging/production infrastructure. 
-* Ansible scripts should also be used for Jenkins build and/or deployment jobs (as opposed to the `deploy_backend` and `deploy_frontend` bash scripts)
+* ~~Ansible scripts should also be used for Jenkins build and/or deployment jobs (as opposed to the `deploy_backend` and `deploy_frontend` bash scripts)~~
 
 ### Front End (Center, HUD, Webtop)
 
