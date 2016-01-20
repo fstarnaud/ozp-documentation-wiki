@@ -35,8 +35,8 @@
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
 * List of specific 508 compliance items currently working on
-   * Center - Fix the top two carousel
-   * Center - Fix the notification button   
+   * ~~Center - Fix the top two carousel~~
+   * ~~Center - Fix the notification button~~   
 * Review 508 wiki with compliance office and in (Gitbook) 
 
 ### IWC
