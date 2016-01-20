@@ -22,8 +22,8 @@
     * Slow computer testing (popup modal)
     * Finish up help tour for Center
   * Technical Debt:
-    * Updated several dependancies 
-    * Removed Bower Dependancies
+    * ~~Updated several dependancies~~ 
+    * ~~Removed Bower Dependancies~~
   * ~~Complete integration of bootstrap-classify [#448] (https://github.com/ozone-development/ozp-center/issues/448)~~
   * ~~Search not searching [#473](https://github.com/ozone-development/ozp-center/issues/473)~~
   * ~~Case sensitive Metrics on Search [#470](https://github.com/ozone-development/ozp-center/issues/470)~~
