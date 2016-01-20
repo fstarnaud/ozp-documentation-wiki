@@ -14,9 +14,10 @@
   * Open Search
   * Help Tour Integration
   * Test Create/Edit with security markings (bootstrap-classify)
+  * Python Backend Bugs:
+  ** Saving jpg files [#487] (https://github.com/ozone-development/ozp-center/issues/487)  
+  ** Upload an image that exceeding the size limit [#488] (https://github.com/ozone-development/ozp-center/issues/488)
   
-  
- 
 
 ### Backend:
 * bug fixes/doc updates
