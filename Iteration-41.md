@@ -54,6 +54,7 @@
 * ~~Investigate ability to change metrics search results from case sensitive to not case sensitive. Currently "map" and "MAP" and "Map" are logged as different search terms~~
 
 ### UI/UX
-* Add layout to profile modal [#39](https://github.com/ozone-development/ozp-react-commons/pull/39) [#659](https://github.com/ozone-development/ozp-webtop/pull/659), update icons
+* ~~Add layout to profile modal [#39](https://github.com/ozone-development/ozp-react-commons/pull/39) [#659](https://github.com/ozone-development/ozp-webtop/pull/659), update icons~~
+* ~~Support development as needed~~
 
 ## Roadblocks
