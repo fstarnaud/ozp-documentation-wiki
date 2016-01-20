@@ -31,7 +31,7 @@
 
 ### Python Backend:
 * Run database migration script on new production dump - check for issues
-* bug fixes/doc updates
+* ~~bug fixes/doc updates~~
 
 ### 508 
 * Improve accessibility for (Center, HUD, Webtop)
