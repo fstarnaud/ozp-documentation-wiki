@@ -15,7 +15,11 @@
 
 * Center:
   * Open Search
-  * Help Tour Integration
+  * Help Tour Integration:
+    * Slow computer testing (popup modal)
+  * Technical Debt:
+    * Updated several dependancies 
+    * Removed Bower Dependancies
   * Test Create/Edit with security markings (bootstrap-classify)
   * Python Backend Bugs:
     * Saving jpg files [#487] (https://github.com/ozone-development/ozp-center/issues/487)  
