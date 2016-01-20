@@ -41,14 +41,14 @@
 
 ### IWC
 * Documentation
-    * Tutorials: Update tutorials with new simplified api calls of [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
+    * ~~Tutorials: Update tutorials with new simplified api calls of [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)~~
 
-    * Gitbook: Add docs on new simplified api calls of [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
+    * ~~Gitbook: Add docs on new simplified api calls of [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)~~
 
     * Tutorials: Location Lister end to end tutorial.
     * Video Tutorials: determine/script what will be covered in first video.
 * General Code maintenance:
-    * Review client api function signature enhancements [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)
+    * ~~Review client api function signature enhancements [#362](https://github.com/ozone-development/ozp-iwc/issues/362) [#361](https://github.com/ozone-development/ozp-iwc/issues/361)~~
 
 ### Metrics
 * Investigate ability to change metrics search results from case sensitive to not case sensitive. Currently "map" and "MAP" and "Map" are logged as different search terms
