@@ -45,5 +45,7 @@
 
 ### UI/UX
 * Support development as needed
+* Remove links to stackexchange site everywhere
+* Design IWC graphics, place on website, github, etc
 
 ## Roadblocks
