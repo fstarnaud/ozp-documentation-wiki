@@ -32,10 +32,6 @@ The continuous effort to unite the entire community on a single computing platfo
 * OZP Releases - https://github.com/ozoneplatform/ozp-releases
 
 ### OZONE Support ###
-[OZONE Platform StackExchange](http://area51.stackexchange.com/proposals/82636/ozone-platform-stack-exchange-is-a-question-and-answer-site-for-ozone-platform-de?referrer=fwgGmaJWzcFpt7RiP2iCNA2)
-<br><a href="http://area51.stackexchange.com/proposals/82636/ozone-platform?referrer=fwgGmaJWzcFpt7RiP2iCNA2"><img src="http://area51.stackexchange.com/ads/proposal/82636.png" width="220" height="250" alt="Stack Exchange Q&A site proposal: Ozone Platform" /></a>
-
-
 * [ozoneplatform-users](https://groups.google.com/forum/#!forum/ozoneplatform-users) - For users, system administrators, App Component ("widget") developers.
 * [ozoneplatform-announce](https://groups.google.com/forum/#!forum/ozoneplatform-announce) - Announcements from the OZONE project.
   * Direct links to these Groups can also be found [here](http://ozone-development.github.io/ozone-website/ozp_support.html).
