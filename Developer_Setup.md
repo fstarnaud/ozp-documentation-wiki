@@ -15,7 +15,8 @@
 3. `vagrant up`
   * the first time you run this it will take about 30 min depending on your internet connection
 4. Download and install test certificates into your browser
-  * https://github.com/ozone-development/ozp-ansible/blob/master/roles/ssl_certs/files/wsmith.p12 
+  * https://github.com/ozone-development/ozp-ansible/blob/master/roles/ssl_certs/files/wsmith.p12
+  * test cert for winston smith password is password
 5. Test Center, HUD, the API, and the API Docs
   * Center - https://localhost:4433/center/
   * HUD - https://localhost:4433/hud/
@@ -45,5 +46,8 @@ These are the same steps for Center, HUD, Webtop and IWC. Just change the direct
 5. Test 
  *  VirtualBox OZP API - https://localhost:4433/api/
  *  Local Development OZP Center - https://localhost:8000/dist/
-6. Fix a bug, GitHub issue and submit a pull request
+6. If you have any issue with getting the environment setup please submit a GitHub issue
+7. If you have additional notes/steps to add please fork the wiki and submit a pull request
+8. Now start contribution to an Open Source project
+ * Fix a bug, GitHub issue and submit a pull request
 
