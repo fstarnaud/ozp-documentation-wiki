@@ -11,7 +11,7 @@
 1.  All files needed are in the ozp-ansible repo
   * `git clone https://github.com/ozone-development/ozp-ansible.git`
 2. rename the vault file
-  * `mv group_vars/all/vault_unencrypted.yml group_vars/all/vault.yml`
+  * `mv group_vars/all/vault_unencrypted.yml group_vars/all/vault.yml` 
 3.`vagrant up`
   * the first time you run this it will take about 30 min depending on your internet connection
 4. Download and install test certificates into your browser
