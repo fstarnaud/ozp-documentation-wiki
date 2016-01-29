@@ -2,17 +2,17 @@
 ## Build and install an instance of OZP
 
 **Pre-requisite**
- * Latest Version of VirtualBox
- * Latest Version of Vagrant
- * MacOS or Ubuntu (This has not been tested on windows)
+ * Latest Version of VirtualBox ( At this time 5.0.14)
+ * Latest Version of Vagrant (At this time 1.8.1)
+ * MacOS or Ubuntu (This has not been tested on Windows)
 
 **Build and install OZP**  
 
 1.  All files needed are in the ozp-ansible repo
   * `git clone https://github.com/ozone-development/ozp-ansible.git`
 2. rename the vault file
-  * `mv group_vars/all/vault_unencrypted.yml group_vars/all/vault.yml` 
-3.`vagrant up`
+  * `mv group_vars/all/vault_unencrypted.yml group_vars/all/vault.yml`  
+3. `vagrant up`
   * the first time you run this it will take about 30 min depending on your internet connection
 4. Download and install test certificates into your browser
   * https://github.com/ozone-development/ozp-ansible/blob/master/roles/ssl_certs/files/wsmith.p12 
