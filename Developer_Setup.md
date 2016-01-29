@@ -4,7 +4,7 @@
 **Pre-requisite**
  * Latest Version of VirtualBox
  * Latest Version of Vagrant
- * MacOS or Ubuntu (This has not been testing for windows)
+ * MacOS or Ubuntu (This has not been tested on windows)
 
 **Build and install OZP**  
 
