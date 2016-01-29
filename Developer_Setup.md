@@ -49,5 +49,5 @@ These are the same steps for Center, HUD, Webtop and IWC. Just change the direct
 6. If you have any issue with getting the environment setup please submit a GitHub issue
 7. If you have additional notes/steps to add please fork the wiki and submit a pull request
 8. Now start contribution to an Open Source project
- * Fix a bug, GitHub issue and submit a pull request
+ * Fix a bug, fix a GitHub issue, create a new feature and submit a pull request. We appreciate any contributions from the community
 
