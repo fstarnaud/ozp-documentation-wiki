@@ -45,3 +45,5 @@ These are the same steps for Center, HUD, Webtop and IWC. Just change the direct
 5. Test 
  *  VirtualBox OZP API - https://localhost:4433/api/
  *  Local Development OZP Center - https://localhost:8000/dist/
+6. Fix a bug, GitHub issue and submit a pull request
+
