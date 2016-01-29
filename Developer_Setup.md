@@ -30,6 +30,7 @@
  * latest version of npm
 
 These are the same steps for Center, HUD, Webtop and IWC. Just change the director for the different products
+
 1. Fork the ozp-center repo
  * Fork the ozp-center repo at https://github.com/ozone-development/ozp-center
  * You should now have a clone of the ozp-center repo in your profile directory that you have full commit access to
