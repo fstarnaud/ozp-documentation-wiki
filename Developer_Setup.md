@@ -24,9 +24,23 @@
 6. If these all work you have a full copy of the Ozone Platform running on a VirtualBox on your machine. Now we can setup a development environment.If you don't plan to develop code and only want to test OZP you can stop here.
 
 ## Setup your development environment
-Pre-requisite
-* a text editor such as Atom - https://atom.io/
-* latest version of node
-* latest version of npm
+**Pre-requisite**
+ * a text editor such as Atom - https://atom.io/
+ * latest version of node
+ * latest version of npm
 
-1.
+These are the same steps for Center, HUD, Webtop and IWC. Just change the director for the different products
+1. Fork the ozp-center repo
+ * Fork the ozp-center repo at https://github.com/ozone-development/ozp-center
+ * You should now have a clone of the ozp-center repo in your profile directory that you have full commit access to
+2. clone your fork of ozp-center
+ * `git clone https://github.com/<username>/ozp-center`
+3. from the ozp-center directory run the following commands
+ * `npm install`
+ * `node -v`
+ * `npm -v`
+4. If npm install runs without errors, You are now ready to run your local copy of ozp-center using your VirtualBoxes OZP backend
+ * `API_URL="https://localhost:4433/" npm start`
+5. Test 
+ *  VirtualBox OZP API - https://localhost:4433/api/
+ *  Local Development OZP Center - https://localhost:8000/dist/
