@@ -26,8 +26,8 @@
 ## Setup your development environment
 **Pre-requisite**
  * a text editor such as Atom - https://atom.io/
- * latest version of node
- * latest version of npm
+ * latest version of node (at the time of writing this 5.5.0)
+ * latest version of npm (at the time of writing this 3.3.12)
 
 These are the same steps for Center, HUD, Webtop and IWC. Just change the director for the different products
 
@@ -38,8 +38,8 @@ These are the same steps for Center, HUD, Webtop and IWC. Just change the direct
  * `git clone https://github.com/<username>/ozp-center`
 3. from the ozp-center directory run the following commands
  * `npm install`
- * `node -v`
- * `npm -v`
+ * `node -v` 
+ * `npm -v` 
 4. If npm install runs without errors, You are now ready to run your local copy of ozp-center using your VirtualBoxes OZP backend
  * `API_URL="https://localhost:4433/" npm start`
 5. Test 
