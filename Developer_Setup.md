@@ -18,10 +18,10 @@
   * https://github.com/ozone-development/ozp-ansible/blob/master/roles/ssl_certs/files/wsmith.p12
   * test cert for winston smith password is password
 5. Test Center, HUD, the API, and the API Docs
-  * Center - https://localhost:4433/center/
-  * HUD - https://localhost:4433/hud/
-  * API - https://localhost:4433/api/
-  * API Docs - https://localhost:4433/docs/
+  * Center - [https://localhost:4433/center/](https://localhost:4433/center/)
+  * HUD - [https://localhost:4433/hud/](https://localhost:4433/hud/)
+  * API - [https://localhost:4433/api/](https://localhost:4433/api/)
+  * API Docs - [https://localhost:4433/docs/](https://localhost:4433/docs/)
 6. If these all work you have a full copy of the Ozone Platform running on a VirtualBox on your machine. Now we can setup a development environment.If you don't plan to develop code and only want to test OZP you can stop here.
 
 ## Setup your development environment
@@ -45,10 +45,11 @@ These are the same steps for Center, HUD, Webtop and IWC. Just change the direct
 4. If npm install runs without errors, You are now ready to run your local copy of ozp-center using your VirtualBoxes OZP backend
  * `API_URL="https://localhost:4433/" npm start`
 5. Test 
- *  VirtualBox OZP API - https://localhost:4433/api/
- *  Local Development OZP Center - https://localhost:8000/dist/
+ *  VirtualBox OZP API - [https://localhost:4433/api/](https://localhost:4433/api/)
+ *  Local Development 
+    * OZP Center - [http://localhost:8000/dist/](http://localhost:8000/dist/)
+    * OZP HUD - [http://localhost:8088/dist/](http://localhost:8088/dist/)
 6. If you have any issue with getting the environment setup please submit a GitHub issue
 7. If you have additional notes/steps to add please fork the wiki and submit a pull request
 8. Now start contribution to an Open Source project
  * Fix a bug, fix a GitHub issue, create a new feature and submit a pull request. We appreciate any contributions from the community
-
