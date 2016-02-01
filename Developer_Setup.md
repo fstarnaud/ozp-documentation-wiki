@@ -29,6 +29,7 @@
  * a text editor such as Atom - https://atom.io/
  * latest version of node (at the time of writing this 5.5.0)
  * latest version of npm (at the time of writing this 3.3.12)
+   * `npm install -g npm@3.3.12`
 
 These are the same steps for Center, HUD, Webtop and IWC. Just change the director for the different products
 
