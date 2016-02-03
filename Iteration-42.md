@@ -46,6 +46,7 @@
 * Setup URL endpoint for metric exports of a certain form
 
 ### UI/UX
-* ~~Support development as needed~~
+* ~~Support development as needed (tour, etc)~~
+* ~~Begin IWC graphics~~
 
 ## Roadblocks
