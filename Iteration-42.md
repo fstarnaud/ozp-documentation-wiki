@@ -39,7 +39,7 @@
   * ~~Add different text to the popup modal close button~~ 
 
 ### IWC
-* Tutorials: Location Lister end to end tutorial.
+* ~~Tutorials: Location Lister end to end tutorial.~~
 * Video Tutorials: determine/script what will be covered in first video.
 
 ### Metrics
