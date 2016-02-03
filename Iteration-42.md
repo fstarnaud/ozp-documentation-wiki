@@ -6,9 +6,9 @@
 
 ## Iteration Goals:
 * Continue python backend testing with center, hud, webtop, and iwc
-* Deploy OZP to HS Staging environment using Ansible
-* Switch ci-latest and ci-release to python backend, ci-prototype to java backend
-* Run DB migration script on Staging
+* Deploy OZP to HS Staging environment using Ansible (in progress)
+* ~~Switch ci-latest and ci-release to python backend~~, ci-prototype to java backend
+* Run DB migration script on Staging (in progress)
 
 
 ### Front End (Center, HUD, Webtop)
