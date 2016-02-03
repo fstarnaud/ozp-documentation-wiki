@@ -1,4 +1,4 @@
-# Iteration 42(3 Feb - Feb 17)
+# Iteration 43 (3 Feb - Feb 17)
 
 *** 
 ### Next Milestones:
@@ -30,6 +30,7 @@
 
 ### UI/UX
 * Support development as needed
+* Remove links to stackexchange site everywhere
 * Design IWC graphics, place on website, github, etc
 
 ## Roadblocks
