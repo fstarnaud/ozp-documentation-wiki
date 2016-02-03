@@ -19,6 +19,7 @@
 * bug fixes/doc updates
 
 ### 508 
+* Gitbook for best practices
 
 ### IWC
 
