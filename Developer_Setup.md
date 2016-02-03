@@ -1,10 +1,24 @@
 
 ## Build and install an instance of OZP
 
-**Pre-requisite**
- * Latest Version of VirtualBox ( At this time 5.0.14)
+**Pre-requisites**
+
+ * Latest Version of VirtualBox (At this time 5.0.14)
  * Latest Version of Vagrant (At this time 1.8.1)
  * MacOS or Ubuntu (This has not been tested on Windows)
+
+***Under Windows***
+
+Although not tested extensively, some have reported being successful in following these instructions under Windows. Some caveats:
+
+* For best results, consider installing [Cygwin](https://www.cygwin.com "Cygwin") and running the provided instructions from its Bash shell
+
+* There are known issues with Vagrant 1.8.1 in its handling of paths under Windows. These are to be fixed in the upcoming version [1.8.2](https://github.com/mitchellh/vagrant/issues?utf8=%E2%9C%93&q=milestone%3A1.8.2+ "1.8.2"). However, in the interim, the Ruby files can be patched manually under `C:\HashiCorp\Vagrant\embedded\gems\gems\vagrant-1.8.1\plugins\provisioners\ansible`
+ 
+* Make sure to setup your git configuration not to have EOL converted to CRLF by setting `git config core.autocrlf false` and ensuring that `.gitattributes` has the following entries. Failing to do so may result in false error messages complaining about missing files.
+ * `*        text=auto`
+ * `*.initd  text eof=lf`
+ * `*.sh     text eof=lf`
 
 **Build and install OZP**  
 
@@ -25,7 +39,8 @@
 6. If these all work you have a full copy of the Ozone Platform running on a VirtualBox on your machine. Now we can setup a development environment.If you don't plan to develop code and only want to test OZP you can stop here.
 
 ## Setup your development environment
-**Pre-requisite**
+**Pre-requisites**
+
  * a text editor such as Atom - https://atom.io/
  * latest version of node (at the time of writing this 5.5.0)
  * latest version of npm (at the time of writing this 3.3.12)
@@ -34,11 +49,11 @@
 These are the same steps for Center, HUD, Webtop and IWC. Just change the director for the different products
 
 1. Fork the ozp-center repo
- * Fork the ozp-center repo at https://github.com/ozone-development/ozp-center
- * You should now have a clone of the ozp-center repo in your profile directory that you have full commit access to
-2. clone your fork of ozp-center
+ * Fork the ozp-center repo at `https://github.com/ozone-development/ozp-center`
+ * You should now have a clone of the `ozp-center` repo in your profile directory to which you you have full commit access
+2. clone your fork of `ozp-center`
  * `git clone https://github.com/<username>/ozp-center`
-3. from the ozp-center directory run the following commands
+3. from the `ozp-center` directory run the following commands
  * `npm install`
  * `node -v` 
  * `npm -v` 
