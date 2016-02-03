@@ -46,8 +46,6 @@
 * Setup URL endpoint for metric exports of a certain form
 
 ### UI/UX
-* Support development as needed
-* Remove links to stackexchange site everywhere
-* Design IWC graphics, place on website, github, etc
+* ~~Support development as needed~~
 
 ## Roadblocks
