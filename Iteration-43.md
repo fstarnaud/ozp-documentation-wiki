@@ -11,10 +11,12 @@
 
 ### Front End (Center, HUD, Webtop)
 
+* HUD:
+  * Prep for Tour Integration.
+
 * Center:
   * Open Search
-  * Help Tour Integration:
-    * Slow computer testing (popup modal)
+  * Slow computer testing (popup modal)
   * Test Create/Edit with security markings (bootstrap-classify)  
 
 ### Python Backend:
