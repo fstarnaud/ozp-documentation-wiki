@@ -21,6 +21,7 @@
 * bug fixes/doc updates
 
 ### 508 
+* Go over Center before meeting with Joe Cummings 
 * Gitbook for best practices
 
 ### IWC
