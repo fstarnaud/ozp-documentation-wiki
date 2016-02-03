@@ -34,5 +34,6 @@
 * Support development as needed
 * Remove links to stackexchange site everywhere
 * Design IWC graphics, place on website, github, etc
+* Prototype metrics site using chart.js UI and piwik data
 
 ## Roadblocks
